@@ -475,7 +475,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "My dog ___ cats — he's afraid of them.",
+    "sentence": "My dog ___ cats — he is afraid of them.",
     "answers": [
       "doesn't like"
     ],
@@ -667,7 +667,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "I ___ my new book — it's very funny.",
+    "sentence": "I ___ my new book — it is very funny.",
     "answers": [
       "am reading"
     ],
@@ -810,7 +810,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "The baby ___ — she's hungry.",
+    "sentence": "The baby ___ — she is hungry.",
     "answers": [
       "is crying"
     ],
@@ -975,7 +975,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "I ___ right now — I'm busy.",
+    "sentence": "I ___ right now — I am busy.",
     "answers": [
       "am not working"
     ],
@@ -997,7 +997,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "The baby ___ — she's happy.",
+    "sentence": "The baby ___ — she is happy.",
     "answers": [
       "isn't crying"
     ],
@@ -1008,7 +1008,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "We ___ at the moment — we're on holiday.",
+    "sentence": "We ___ at the moment — we are on holiday.",
     "answers": [
       "aren't studying"
     ],
@@ -1030,7 +1030,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "I ___ with you, I'm serious!",
+    "sentence": "I ___ with you, I am serious!",
     "answers": [
       "am not joking"
     ],
@@ -1723,7 +1723,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I'm sure you ___ the test tomorrow.",
+    "sentence": "I am sure you ___ the test tomorrow.",
     "answers": [
       "will pass"
     ],
@@ -1789,7 +1789,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "It's heavy. I ___ you.",
+    "sentence": "It is heavy. I ___ you.",
     "answers": [
       "will help"
     ],
@@ -1844,7 +1844,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I'm sure our team ___ the match.",
+    "sentence": "I am sure our team ___ the match.",
     "answers": [
       "will win"
     ],
@@ -1899,7 +1899,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I'm sure the film ___ boring.",
+    "sentence": "I am sure the film ___ boring.",
     "answers": [
       "will be"
     ],
@@ -1910,7 +1910,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I'm thirsty — I think I ___ some water.",
+    "sentence": "I am thirsty — I think I ___ some water.",
     "answers": [
       "will drink"
     ],
@@ -1954,7 +1954,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I'm sure you ___ the new teacher.",
+    "sentence": "I am sure you ___ the new teacher.",
     "answers": [
       "will like"
     ],
@@ -1987,7 +1987,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I'm sure the cat ___ back home soon.",
+    "sentence": "I am sure the cat ___ back home soon.",
     "answers": [
       "will come"
     ],
@@ -2075,7 +2075,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I ___ the window — it's too cold.",
+    "sentence": "I ___ the window — it is too cold.",
     "answers": [
       "won't open"
     ],
@@ -2130,7 +2130,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I ___ the film with you — I've seen it.",
+    "sentence": "I ___ the film with you — I have seen it.",
     "answers": [
       "won't watch"
     ],
@@ -2152,7 +2152,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "We ___ to school on Monday — it's a holiday.",
+    "sentence": "We ___ to school on Monday — it is a holiday.",
     "answers": [
       "won't go"
     ],
@@ -2267,7 +2267,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Sorry I'm late — I ___ off the train.",
+    "sentence": "Sorry I am late — I ___ off the train.",
     "answers": [
       "have just got"
     ],
@@ -2333,7 +2333,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "We ___ lunch — we're not hungry.",
+    "sentence": "We ___ lunch — we are not hungry.",
     "answers": [
       "have already had"
     ],
@@ -2355,7 +2355,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "She ___ her bags — she's ready to leave.",
+    "sentence": "She ___ her bags — she is ready to leave.",
     "answers": [
       "has already packed"
     ],
@@ -2465,7 +2465,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Tom ___ his homework yet — he's still playing.",
+    "sentence": "Tom ___ his homework yet — he is still playing.",
     "answers": [
       "hasn't finished"
     ],
@@ -3262,7 +3262,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "I ___ well last night — that's why I'm tired.",
+    "sentence": "I ___ well last night — that is why I am tired.",
     "answers": [
       "wasn't sleeping"
     ],
@@ -3654,7 +3654,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "She's so talented — she ___ a great artist.",
+    "sentence": "She is so talented — she ___ a great artist.",
     "answers": [
       "is going to be"
     ],
@@ -3687,7 +3687,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "He's driving too fast — he ___ an accident.",
+    "sentence": "He is driving too fast — he ___ an accident.",
     "answers": [
       "is going to have"
     ],
@@ -3764,7 +3764,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "He's writing a lot of books — he ___ famous.",
+    "sentence": "He is writing a lot of books — he ___ famous.",
     "answers": [
       "is going to be"
     ],
@@ -3797,7 +3797,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "She ___ out tonight — she's not feeling well.",
+    "sentence": "She ___ out tonight — she is not feeling well.",
     "answers": [
       "isn't going to go"
     ],
@@ -3819,7 +3819,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Dad ___ us — he's very busy today.",
+    "sentence": "Dad ___ us — he is very busy today.",
     "answers": [
       "isn't going to help"
     ],
@@ -3924,7 +3924,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "He's exhausted. He ___ for two hours.",
+    "sentence": "He has exhausted. He ___ for two hours.",
     "answers": [
       "has been running"
     ],
@@ -3990,7 +3990,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "We ___ for two hours and we're still lost.",
+    "sentence": "We ___ for two hours and we are still lost.",
     "answers": [
       "have been driving"
     ],
@@ -4100,7 +4100,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "I ___ this book since Monday and I'm only on chapter three.",
+    "sentence": "I ___ this book since Monday and I am only on chapter three.",
     "answers": [
       "have been reading"
     ],
@@ -4277,7 +4277,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "We ___ the house all weekend and we're exhausted.",
+    "sentence": "We ___ the house all weekend and we are exhausted.",
     "answers": [
       "have been cleaning"
     ],
@@ -4446,7 +4446,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Sorry I'm late — I ___ for parking for ages.",
+    "sentence": "Sorry I am late — I ___ for parking for ages.",
     "answers": [
       "have been looking"
     ],
@@ -6374,7 +6374,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Please stop ___ — I can't concentrate!",
+    "sentence": "Please stop ___ so loudly — I can't concentrate on my work!",
     "answers": [
       "talking"
     ],
@@ -6462,7 +6462,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "I'm tired of ___ the same food every day.",
+    "sentence": "I am tired of ___ the same food every day.",
     "answers": [
       "eating"
     ],
@@ -6473,7 +6473,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "She's really good at ___ the piano.",
+    "sentence": "She is really good at ___ the piano.",
     "answers": [
       "playing"
     ],
@@ -6495,7 +6495,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "He's interested in ___ photography.",
+    "sentence": "He is interested in ___ photography.",
     "answers": [
       "learning"
     ],
@@ -6517,7 +6517,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "I'm looking forward to ___ you next week.",
+    "sentence": "I am looking forward to ___ you next week.",
     "answers": [
       "seeing"
     ],
@@ -6528,7 +6528,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "He's afraid of ___ in public.",
+    "sentence": "He is afraid of ___ in public.",
     "answers": [
       "speaking"
     ],
@@ -6649,7 +6649,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "I'd like ___ a table for two, please.",
+    "sentence": "I would like ___ a table for two, please.",
     "answers": [
       "to book"
     ],
@@ -6715,7 +6715,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "She's learning French ___ in Paris next year.",
+    "sentence": "She is learning French ___ in Paris next year.",
     "answers": [
       "to study"
     ],
@@ -6748,7 +6748,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "It's nice ___ you again after all these years.",
+    "sentence": "It is nice ___ you again after all these years.",
     "answers": [
       "to see"
     ],
@@ -6794,7 +6794,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "She wants ___ (travel), but she's afraid of ___ (fly).",
+    "sentence": "She wants ___ (travel), but she is afraid of ___ (fly).",
     "answers": [
       "to travel",
       "flying"
@@ -6859,7 +6859,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "My little brother ___ already ___ (swim) — he's only four!",
+    "sentence": "My little brother ___ already ___ (swim) — he is only four!",
     "answers": [
       "can",
       "swim"
@@ -6996,7 +6996,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ you ___ (open) the window, please? It's very hot.",
+    "sentence": "___ you ___ (open) the window, please? It is very hot.",
     "answers": [
       "Could",
       "open"
@@ -7076,7 +7076,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "She ___ (be) at home — I'm not sure.",
+    "sentence": "She ___ (be) at home — I am not sure.",
     "answers": [
       "may be"
     ],
@@ -7087,7 +7087,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "I ___ (not come) to the party — I'm feeling tired.",
+    "sentence": "I ___ (not come) to the party — I am feeling tired.",
     "answers": [
       "might not come"
     ],
@@ -7098,7 +7098,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "We ___ (visit) Paris this summer, but it's not certain yet.",
+    "sentence": "We ___ (visit) Paris this summer, but it is not certain yet.",
     "answers": [
       "may visit"
     ],
@@ -7120,7 +7120,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "There ___ (be) a problem with the car — it's making strange noises.",
+    "sentence": "There ___ (be) a problem with the car — it is making strange noises.",
     "answers": [
       "may be"
     ],
@@ -7153,7 +7153,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "She ___ (not like) this film — it's a bit scary.",
+    "sentence": "She ___ (not like) this film — it is a bit scary.",
     "answers": [
       "might not like"
     ],
@@ -7219,7 +7219,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "She ___ (go) to the doctor — she's been ill for days.",
+    "sentence": "She ___ (go) to the doctor — she has been ill for days.",
     "answers": [
       "must go"
     ],
@@ -7252,7 +7252,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "You ___ (try) this cake — it's delicious!",
+    "sentence": "You ___ (try) this cake — it is delicious!",
     "answers": [
       "must try"
     ],
@@ -7319,7 +7319,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "You ___ (not eat) so much sugar — it's bad for you.",
+    "sentence": "You ___ (not eat) so much sugar — it is bad for you.",
     "answers": [
       "shouldn't eat"
     ],
@@ -7397,7 +7397,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "You ___ (take) more exercise — it's good for you.",
+    "sentence": "You ___ (take) more exercise — it is good for you.",
     "answers": [
       "ought to take"
     ],
@@ -9706,7 +9706,7 @@
   {
     "sentence": "She denied ___ (ever steal) anything in her life.",
     "answers": [
-      "having ever stolen"
+      "having ever stolen/ever stealing"
     ],
     "hints": [
       "EVER STEAL"
@@ -9717,7 +9717,7 @@
   {
     "sentence": "He admitted ___ (break) the window the previous evening.",
     "answers": [
-      "having broken"
+      "having broken/breaking"
     ],
     "hints": [
       "BREAK"
@@ -9728,7 +9728,7 @@
   {
     "sentence": "I regret ___ (not tell) you the truth sooner.",
     "answers": [
-      "not having told"
+      "not having told/not telling"
     ],
     "hints": [
       "NOT TELL"
@@ -9739,7 +9739,7 @@
   {
     "sentence": "She apologised for ___ (arrive) late.",
     "answers": [
-      "having arrived"
+      "having arrived/arriving"
     ],
     "hints": [
       "ARRIVE"
@@ -9750,7 +9750,7 @@
   {
     "sentence": "He was accused of ___ (steal) money from the company.",
     "answers": [
-      "having stolen"
+      "having stolen/stealing"
     ],
     "hints": [
       "STEAL"
@@ -9761,7 +9761,7 @@
   {
     "sentence": "I don't remember ___ (see) him at the meeting.",
     "answers": [
-      "having seen"
+      "having seen/seeing"
     ],
     "hints": [
       "SEE"
@@ -9772,7 +9772,7 @@
   {
     "sentence": "She thanked me for ___ (help) her earlier.",
     "answers": [
-      "having helped"
+      "having helped/helping"
     ],
     "hints": [
       "HELP"
@@ -9781,9 +9781,9 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "He's proud of ___ (win) the championship last year.",
+    "sentence": "He is proud of ___ (win) the championship last year.",
     "answers": [
-      "having won"
+      "having won/winning"
     ],
     "hints": [
       "WIN"
@@ -9803,7 +9803,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "He's afraid of ___ (laugh at) in public.",
+    "sentence": "He is afraid of ___ (laugh at) in public.",
     "answers": [
       "being laughed at"
     ],
@@ -9935,7 +9935,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "She's sorry ___ (not call) you sooner.",
+    "sentence": "She is sorry ___ (not call) you sooner.",
     "answers": [
       "not to have called"
     ],
@@ -9946,7 +9946,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "He's said ___ (leave) the country after the scandal.",
+    "sentence": "He has said ___ (leave) the country after the scandal.",
     "answers": [
       "to have left"
     ],
@@ -9957,7 +9957,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "She's lucky ___ (find) such a great job.",
+    "sentence": "She is lucky ___ (find) such a great job.",
     "answers": [
       "to have found"
     ],
@@ -9979,7 +9979,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "She's proud ___ (help) in such an important project.",
+    "sentence": "She is proud ___ (help) in such an important project.",
     "answers": [
       "to have helped"
     ],
@@ -10012,7 +10012,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "He's lucky ___ (choose) for the team.",
+    "sentence": "He is lucky ___ (choose) for the team.",
     "answers": [
       "to have been chosen"
     ],
@@ -10113,7 +10113,7 @@
   {
     "sentence": "___ (feel) tired, she decided to go to bed early.",
     "answers": [
-      "Feeling"
+      "Feeling/Having felt"
     ],
     "hints": [
       "FEEL"
@@ -10430,7 +10430,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Not only ___ (she be) talented, but she's also remarkably humble.",
+    "sentence": "Not only ___ (she be) talented, but she is also remarkably humble.",
     "answers": [
       "is she"
     ],
@@ -10837,7 +10837,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "There's no one home — they ___ (go) out.",
+    "sentence": "There is no one home — they ___ (go) out.",
     "answers": [
       "must have gone"
     ],
@@ -10848,7 +10848,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "He's very late. He ___ (miss) the train.",
+    "sentence": "He is very late. He ___ (miss) the train.",
     "answers": [
       "must have missed"
     ],
@@ -10903,7 +10903,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "He ___ (forget) his own birthday! That's impossible.",
+    "sentence": "He ___ (forget) his own birthday! That is impossible.",
     "answers": [
       "can't have forgotten"
     ],
@@ -10925,7 +10925,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "It ___ (be) Peter you saw — he's abroad.",
+    "sentence": "It ___ (be) Peter you saw — he is abroad.",
     "answers": [
       "can't have been"
     ],
@@ -11145,7 +11145,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "We ___ (not leave) so late — now we're stuck in traffic.",
+    "sentence": "We ___ (not leave) so late — now we are stuck in traffic.",
     "answers": [
       "shouldn't have left"
     ],
@@ -11178,7 +11178,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "I ___ (take) an umbrella — now I'm soaked.",
+    "sentence": "I ___ (take) an umbrella — now I am soaked.",
     "answers": [
       "should have taken"
     ],
@@ -11266,7 +11266,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "The train ___ (arrive) at 9:00, but it's already 9:30.",
+    "sentence": "The train ___ (arrive) at 9:00, but it is already 9:30.",
     "answers": [
       "was supposed to arrive"
     ],
@@ -11288,7 +11288,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "We ___ (meet) them at the station — they're waiting.",
+    "sentence": "We ___ (meet) them at the station — they are waiting.",
     "answers": [
       "are supposed to meet"
     ],
@@ -11321,7 +11321,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "I'd rather you ___ (not smoke) in the house.",
+    "sentence": "I would rather you ___ (not smoke) in the house.",
     "answers": [
       "didn't smoke"
     ],
@@ -11332,7 +11332,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "He'd rather she ___ (not tell) everyone his secret.",
+    "sentence": "He would rather she ___ (not tell) everyone his secret.",
     "answers": [
       "hadn't told"
     ],
@@ -11343,7 +11343,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "I'd rather we ___ (leave) now and beat the traffic.",
+    "sentence": "I would rather we ___ (leave) now and beat the traffic.",
     "answers": [
       "left"
     ],
@@ -11728,7 +11728,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "He's ___ (his teeth whiten) at the dentist.",
+    "sentence": "He is ___ (his teeth whiten) at the dentist.",
     "answers": [
       "having his teeth whitened"
     ],
@@ -11739,7 +11739,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "I want ___ (my watch repair) — it's stopped working.",
+    "sentence": "I want ___ (my watch repair) — it has stopped working.",
     "answers": [
       "to have my watch repaired"
     ],
@@ -11805,7 +11805,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "She's ___ (her wedding dress make) by a famous designer.",
+    "sentence": "She is ___ (her wedding dress make) by a famous designer.",
     "answers": [
       "having her wedding dress made"
     ],
@@ -11849,7 +11849,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "We're finally going to ___ (the bathroom tile).",
+    "sentence": "We are finally going to ___ (the bathroom tile).",
     "answers": [
       "have the bathroom tiled"
     ],
@@ -12036,7 +12036,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's essential that every participant ___ (be) informed of the changes.",
+    "sentence": "It is essential that every participant ___ (be) informed of the changes.",
     "answers": [
       "be"
     ],
@@ -12047,7 +12047,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's vital that the patient ___ (receive) immediate care.",
+    "sentence": "It is vital that the patient ___ (receive) immediate care.",
     "answers": [
       "receive"
     ],
@@ -12058,7 +12058,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's important that everyone ___ (arrive) on time.",
+    "sentence": "It is important that everyone ___ (arrive) on time.",
     "answers": [
       "arrive"
     ],
@@ -12069,7 +12069,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's crucial that the information ___ (not leak) to the press.",
+    "sentence": "It is crucial that the information ___ (not leak) to the press.",
     "answers": [
       "not leak"
     ],
@@ -12080,7 +12080,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's imperative that we ___ (act) quickly.",
+    "sentence": "It is imperative that we ___ (act) quickly.",
     "answers": [
       "act"
     ],
@@ -12102,7 +12102,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's important that the documents ___ (sign) today.",
+    "sentence": "It is important that the documents ___ (sign) today.",
     "answers": [
       "be signed"
     ],
@@ -12113,7 +12113,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's essential that no one ___ (know) about this.",
+    "sentence": "It is essential that no one ___ (know) about this.",
     "answers": [
       "know"
     ],
@@ -12234,7 +12234,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's in Paris that I ___ (meet) my husband twenty years ago.",
+    "sentence": "It is in Paris that I ___ (meet) my husband twenty years ago.",
     "answers": [
       "met"
     ],
@@ -12256,7 +12256,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's my mother who ___ (teach) me to cook.",
+    "sentence": "It is my mother who ___ (teach) me to cook.",
     "answers": [
       "taught"
     ],
@@ -12289,7 +12289,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It's the food that I ___ (miss) most about home.",
+    "sentence": "It is the food that I ___ (miss) most about home.",
     "answers": [
       "miss"
     ],
@@ -12432,7 +12432,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "I ___ (want) to help you, but I'm too busy.",
+    "sentence": "I ___ (want) to help you, but I am too busy.",
     "answers": [
       "do want"
     ],
@@ -12498,7 +12498,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "He's proud of ___ (award) the scholarship.",
+    "sentence": "He is proud of ___ (award) the scholarship.",
     "answers": [
       "having been awarded"
     ],
@@ -12630,7 +12630,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "This exhibition is definitely worth ___ (visit) while you're in town.",
+    "sentence": "This exhibition is definitely worth ___ (visit) while you are in town.",
     "answers": [
       "visiting"
     ],
@@ -12641,7 +12641,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "That book isn't worth ___ (read) — it's terribly written.",
+    "sentence": "That book isn't worth ___ (read) — it is terribly written.",
     "answers": [
       "reading"
     ],
@@ -12652,7 +12652,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "There's no use ___ (argue) with him once he's made up his mind.",
+    "sentence": "There is no use ___ (argue) with him once he has made up his mind.",
     "answers": [
       "arguing"
     ],
@@ -12663,7 +12663,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "There's no point in ___ (complain) — nothing will change.",
+    "sentence": "There is no point in ___ (complain) — nothing will change.",
     "answers": [
       "complaining"
     ],
@@ -12696,7 +12696,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "It's no good ___ (shout) — he can't hear you from here.",
+    "sentence": "It is no good ___ (shout) — he can't hear you from here.",
     "answers": [
       "shouting"
     ],
@@ -12740,7 +12740,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "She's said ___ (leave) the company over a disagreement.",
+    "sentence": "She has said ___ (leave) the company over a disagreement.",
     "answers": [
       "to have left"
     ],
@@ -12762,7 +12762,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "He's rumoured ___ (move) to New York next year.",
+    "sentence": "He has rumoured ___ (move) to New York next year.",
     "answers": [
       "to be moving"
     ],
@@ -13048,7 +13048,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "I'm sure the weather ___ (improve) by the weekend.",
+    "sentence": "I am sure the weather ___ (improve) by the weekend.",
     "answers": [
       "will improve"
     ],
@@ -13059,7 +13059,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "That's the doorbell — I ___ (get) it.",
+    "sentence": "That is the doorbell — I ___ (get) it.",
     "answers": [
       "will get"
     ],
@@ -13070,7 +13070,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "We ___ (visit) my grandparents this weekend — we've already booked the tickets.",
+    "sentence": "We ___ (visit) my grandparents this weekend — we have already booked the tickets.",
     "answers": [
       "are going to visit"
     ],
@@ -13114,7 +13114,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "She's so talented — she ___ (be) a great lawyer one day.",
+    "sentence": "She is so talented — she ___ (be) a great lawyer one day.",
     "answers": [
       "is going to be"
     ],
@@ -13125,7 +13125,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "They ___ (move) to Berlin next year — they've already found a flat.",
+    "sentence": "They ___ (move) to Berlin next year — they have already found a flat.",
     "answers": [
       "are going to move"
     ],
@@ -13192,7 +13192,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "My parents ___ (arrive) from Italy on the 15th — we've already booked them a hotel.",
+    "sentence": "My parents ___ (arrive) from Italy on the 15th — we have already booked them a hotel.",
     "answers": [
       "are arriving"
     ],
@@ -13912,7 +13912,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "As soon as the report ___ (arrive), I'll forward it to you.",
+    "sentence": "As soon as the report ___ (arrive), I will forward it to you.",
     "answers": [
       "arrives"
     ],
@@ -13923,7 +13923,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "I'll call you the moment the results ___ (be) out.",
+    "sentence": "I will call you the moment the results ___ (be) out.",
     "answers": [
       "are"
     ],
@@ -13934,7 +13934,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "Until you ___ (apologise), I'm not speaking to you.",
+    "sentence": "Until you ___ (apologise), I am not speaking to you.",
     "answers": [
       "apologise"
     ],
@@ -13945,7 +13945,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "By the time you ___ (finish) reading this, I'll be on the plane.",
+    "sentence": "By the time you ___ (finish) reading this, I will be on the plane.",
     "answers": [
       "finish"
     ],
@@ -13956,7 +13956,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "Once the storm ___ (pass), we'll resume the flight.",
+    "sentence": "Once the storm ___ (pass), we will resume the flight.",
     "answers": [
       "passes"
     ],
@@ -13978,7 +13978,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "I've never been to Japan. — ___ (I).",
+    "sentence": "I have never been to Japan. — ___ (I).",
     "answers": [
       "Neither have I"
     ],
@@ -14011,7 +14011,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "We're going to the party, and ___ (they).",
+    "sentence": "We are going to the party, and ___ (they).",
     "answers": [
       "so are they"
     ],
@@ -14033,7 +14033,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "She's finished her homework, and ___ (I).",
+    "sentence": "She has finished her homework, and ___ (I).",
     "answers": [
       "so have I"
     ],
@@ -14121,7 +14121,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "He said he'd help us, and he ___.",
+    "sentence": "He said he would help us, and he ___.",
     "answers": [
       "did"
     ],
@@ -14132,7 +14132,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "I'll go if you ___.",
+    "sentence": "I will go if you ___.",
     "answers": [
       "will"
     ],
@@ -14154,7 +14154,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "They've been to Paris, but we haven't ___.",
+    "sentence": "They have been to Paris, but we haven't ___.",
     "answers": [
       "been"
     ],
@@ -14220,7 +14220,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "I think he's telling the truth. — I don't ___.",
+    "sentence": "I think he is telling the truth. — I don't ___.",
     "answers": [
       "think so"
     ],
@@ -14319,7 +14319,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "I'd like to help, but I don't know how ___.",
+    "sentence": "I would like to help, but I don't know how ___.",
     "answers": [
       "to"
     ],
@@ -14341,7 +14341,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "I'd love to travel more, but I can't afford ___.",
+    "sentence": "I would love to travel more, but I can't afford ___.",
     "answers": [
       "to"
     ],
@@ -14352,7 +14352,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "She hasn't joined the gym yet, but she's planning ___.",
+    "sentence": "She hasn't joined the gym yet, but she is planning ___.",
     "answers": [
       "to"
     ],
@@ -14396,7 +14396,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "She's taller than I ___ (am).",
+    "sentence": "She is taller than I ___ (am).",
     "answers": [
       "am"
     ],
@@ -14473,7 +14473,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "You're coming tonight, ___?",
+    "sentence": "You are coming tonight, ___?",
     "answers": [
       "aren't you"
     ],
@@ -14484,7 +14484,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "She's a teacher, ___?",
+    "sentence": "She is a teacher, ___?",
     "answers": [
       "isn't she"
     ],
