@@ -99,7 +99,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "My friend Tom ___ English at university every term.",
+    "sentence": "My friend Lucas ___ English at university every term.",
     "answers": [
       "studies"
     ],
@@ -2484,7 +2484,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Tom ___ his homework yet — he is still playing.",
+    "sentence": "Noah ___ his homework yet — he is still playing.",
     "answers": [
       "hasn't finished"
     ],
@@ -3506,7 +3506,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Tom and Mary ___ married next summer.",
+    "sentence": "Liam and Mary ___ married next summer.",
     "answers": [
       "are going to get"
     ],
@@ -6031,7 +6031,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (have) more time, I ___ (learn) another language.",
+    "sentence": "If I ___ (have) more time these days, I ___ (learn) another language.",
     "answers": [
       "had",
       "would learn"
@@ -6044,7 +6044,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If she ___ (be) you, she ___ (not accept) the offer.",
+    "sentence": "If she ___ (be) in your position right now, she ___ (not accept) the offer.",
     "answers": [
       "were",
       "wouldn't accept"
@@ -6057,7 +6057,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "What ___ you ___ if you ___ (win) a million euros?",
+    "sentence": "What ___ you ___ if you ___ (win) a million euros tomorrow?",
     "answers": [
       "would",
       "do",
@@ -6072,7 +6072,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (know) the answer, I ___ (tell) you.",
+    "sentence": "If I ___ (know) the answer right now, I ___ (tell) you.",
     "answers": [
       "knew",
       "would tell"
@@ -6085,7 +6085,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "He ___ (travel) more if he ___ (have) enough money.",
+    "sentence": "He ___ (travel) more these days if he ___ (have) enough money.",
     "answers": [
       "would travel",
       "had"
@@ -6098,7 +6098,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (live) in the country, I ___ (be) much happier.",
+    "sentence": "If I ___ (live) in the country now, I ___ (be) much happier.",
     "answers": [
       "lived",
       "would be"
@@ -6111,7 +6111,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If she ___ (not work) so much, she ___ (see) her kids more.",
+    "sentence": "If she ___ (not work) so much these days, she ___ (see) her kids more.",
     "answers": [
       "didn't work",
       "would see"
@@ -6124,7 +6124,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "I ___ (move) abroad if I ___ (get) the chance.",
+    "sentence": "I ___ (move) abroad next year if I ___ (get) the chance right now.",
     "answers": [
       "would move",
       "got"
@@ -6137,7 +6137,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If you ___ (study) more, you ___ (get) better grades.",
+    "sentence": "If you ___ (study) more this term, you ___ (get) better grades right now.",
     "answers": [
       "studied",
       "would get"
@@ -6150,7 +6150,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (be) taller, I ___ (play) basketball.",
+    "sentence": "If I ___ (be) taller right now, I ___ (play) basketball.",
     "answers": [
       "were",
       "would play"
@@ -6163,7 +6163,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "She ___ (be) very upset if you ___ (forget) her birthday.",
+    "sentence": "She ___ (be) very upset if you ___ (forget) her birthday next week.",
     "answers": [
       "would be",
       "forgot"
@@ -6176,7 +6176,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "What ___ you ___ if you ___ (meet) a famous person?",
+    "sentence": "What ___ you ___ if you ___ (meet) a famous person on the street today?",
     "answers": [
       "would",
       "do",
@@ -6191,7 +6191,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If he ___ (ask) me, I ___ (help) him.",
+    "sentence": "If he ___ (ask) me right now, I ___ (help) him.",
     "answers": [
       "asked",
       "would help"
@@ -6204,7 +6204,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (speak) Chinese, I ___ (work) in Shanghai.",
+    "sentence": "If I ___ (speak) Chinese, I ___ (work) in Shanghai today.",
     "answers": [
       "spoke",
       "would work"
@@ -6217,7 +6217,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If we ___ (have) a bigger house, we ___ (get) a dog.",
+    "sentence": "If we ___ (have) a bigger house, we ___ (get) a dog this year.",
     "answers": [
       "had",
       "would get"
@@ -6230,7 +6230,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "I ___ (not lie) to you even if you ___ (pay) me.",
+    "sentence": "I ___ (not lie) to you even if you ___ (pay) me right now.",
     "answers": [
       "wouldn't lie",
       "paid"
@@ -6243,7 +6243,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If my car ___ (not be) so old, I ___ (drive) to work.",
+    "sentence": "If my car ___ (not be) so old, I ___ (drive) to work right now.",
     "answers": [
       "wasn't",
       "would drive"
@@ -6256,7 +6256,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If she ___ (have) more confidence, she ___ (succeed).",
+    "sentence": "If she ___ (have) more confidence, she ___ (succeed) right now.",
     "answers": [
       "had",
       "would succeed"
@@ -6269,7 +6269,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If they ___ (offer) me the job, I ___ (take) it.",
+    "sentence": "If they ___ (offer) me the job, I ___ (take) it right now.",
     "answers": [
       "offered",
       "would take"
@@ -6282,7 +6282,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "I ___ (be) very nervous if I ___ (have) to speak in public.",
+    "sentence": "I ___ (be) very nervous if I ___ (have) to speak in public right now.",
     "answers": [
       "would be",
       "had"
@@ -9154,7 +9154,7 @@
     "formula": "Passive Voice"
   },
   {
-    "sentence": "If we ___ (leave) earlier, we ___ (not miss) the flight.",
+    "sentence": "If we ___ (leave) earlier yesterday, we ___ (not miss) the flight.",
     "answers": [
       "had left",
       "wouldn't have missed"
@@ -9167,7 +9167,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "You ___ (enjoy) the film much more if you ___ (read) the book first.",
+    "sentence": "You ___ (enjoy) the film much more last night if you ___ (read) the book first.",
     "answers": [
       "would have enjoyed",
       "had read"
@@ -9180,7 +9180,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If he ___ (study) harder, he ___ (pass) the exam.",
+    "sentence": "If he ___ (study) harder last term, he ___ (pass) the exam.",
     "answers": [
       "had studied",
       "would have passed"
@@ -9193,7 +9193,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If I ___ (know) about the party, I ___ (come).",
+    "sentence": "If I ___ (know) about the party last weekend, I ___ (come).",
     "answers": [
       "had known",
       "would have come"
@@ -9206,7 +9206,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "She ___ (be) late if we ___ (not help) her.",
+    "sentence": "She ___ (be) late this morning if we ___ (not help) her.",
     "answers": [
       "would have been",
       "hadn't helped"
@@ -9219,7 +9219,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If you ___ (tell) me the truth, I ___ (not be) so angry.",
+    "sentence": "If you ___ (tell) me the truth yesterday, I ___ (not be) so angry.",
     "answers": [
       "had told",
       "wouldn't have been"
@@ -9232,7 +9232,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "We ___ (not have) this problem if you ___ (listen) to me.",
+    "sentence": "We ___ (not have) this problem last week if you ___ (listen) to me.",
     "answers": [
       "wouldn't have had",
       "had listened"
@@ -9245,7 +9245,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If it ___ (not rain), we ___ (go) to the beach.",
+    "sentence": "If it ___ (not rain) yesterday, we ___ (go) to the beach.",
     "answers": [
       "hadn't rained",
       "would have gone"
@@ -9258,7 +9258,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "She ___ (get) the job if she ___ (be) better prepared.",
+    "sentence": "She ___ (get) the job last month if she ___ (be) better prepared.",
     "answers": [
       "would have got",
       "had been"
@@ -9271,7 +9271,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If they ___ (invite) me, I ___ (go) to the party.",
+    "sentence": "If they ___ (invite) me last Friday, I ___ (go) to the party.",
     "answers": [
       "had invited",
       "would have gone"
@@ -9284,7 +9284,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "He ___ (win) the race if he ___ (not fall).",
+    "sentence": "He ___ (win) the race yesterday if he ___ (not fall).",
     "answers": [
       "would have won",
       "hadn't fallen"
@@ -9310,7 +9310,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "I ___ (call) you if I ___ (find) your number.",
+    "sentence": "I ___ (call) you last night if I ___ (find) your number.",
     "answers": [
       "would have called",
       "had found"
@@ -9323,7 +9323,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "The team ___ (lose) the match if the goalkeeper ___ (not save) that shot.",
+    "sentence": "The team ___ (lose) the match yesterday if the goalkeeper ___ (not save) that shot.",
     "answers": [
       "would have lost",
       "hadn't saved"
@@ -9336,7 +9336,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If you ___ (ask) me earlier, I ___ (help) you.",
+    "sentence": "If you ___ (ask) me earlier today, I ___ (help) you.",
     "answers": [
       "had asked",
       "would have helped"
@@ -9362,7 +9362,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If I ___ (know) it was going to rain, I ___ (take) an umbrella.",
+    "sentence": "If I ___ (know) this morning that it was going to rain, I ___ (take) an umbrella.",
     "answers": [
       "had known",
       "would have taken"
@@ -9375,7 +9375,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "She ___ (not break) her leg if she ___ (be) more careful.",
+    "sentence": "She ___ (not break) her leg if she ___ (be) more careful yesterday.",
     "answers": [
       "wouldn't have broken",
       "had been"
@@ -9557,7 +9557,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "I ___ (have) much more free time if I ___ (not take) on this project.",
+    "sentence": "I ___ (have) much more free time if I ___ (not take) on this project yesterday.",
     "answers": [
       "would have",
       "hadn't taken"
@@ -14565,391 +14565,6 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "She ___ (work) here since April. She ___ (move) here after her husband ___ (die).",
-    "answers": [
-      "has been working",
-      "moved",
-      "had died"
-    ],
-    "hints": [
-      "WORK",
-      "MOVE",
-      "DIE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "He ___ (work) on the manuscript for three years before he ___ (show) it to anyone, and even now few people ___ (read) it.",
-    "answers": [
-      "had been working",
-      "showed",
-      "have read"
-    ],
-    "hints": [
-      "WORK",
-      "SHOW",
-      "READ"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time he ___ (retire), he ___ (serve) the company for forty years, ever since he ___ (graduate) from university.",
-    "answers": [
-      "retires",
-      "will have served",
-      "graduated"
-    ],
-    "hints": [
-      "RETIRE",
-      "SERVE",
-      "GRADUATE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Researchers ___ (study) this phenomenon since the early 2000s, when someone first ___ (notice) patterns that ___ (not document) before.",
-    "answers": [
-      "have been studying",
-      "noticed",
-      "had not been documented"
-    ],
-    "hints": [
-      "STUDY",
-      "NOTICE",
-      "NOT DOCUMENT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Next Monday, I ___ (present) my findings at the conference — the same findings I ___ (work on) all summer, ever since I ___ (return) from India.",
-    "answers": [
-      "will be presenting",
-      "have been working on",
-      "returned"
-    ],
-    "hints": [
-      "PRESENT",
-      "WORK ON",
-      "RETURN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time the scandal ___ (expose), the officials ___ (already leave) the country, and investigators ___ (track) them for months.",
-    "answers": [
-      "was exposed",
-      "had already left",
-      "had been tracking"
-    ],
-    "hints": [
-      "EXPOSE",
-      "ALREADY LEAVE",
-      "TRACK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "As soon as I ___ (leave) the house, I ___ (see) him — he ___ (stand) at the corner and ___ (wait) for a bus.",
-    "answers": [
-      "left",
-      "saw",
-      "was standing",
-      "waiting"
-    ],
-    "hints": [
-      "LEAVE",
-      "SEE",
-      "STAND",
-      "WAIT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (play) for my club for 15 years; I ___ (win) my first championship in 2009, and next month I ___ (retire).",
-    "answers": [
-      "have been playing",
-      "won",
-      "will retire"
-    ],
-    "hints": [
-      "PLAY",
-      "WIN",
-      "RETIRE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "While she ___ (finish) the report that she ___ (write) all night, her boss suddenly ___ (call) to say it ___ (not need) anymore.",
-    "answers": [
-      "was finishing",
-      "had been writing",
-      "called",
-      "wasn't needed"
-    ],
-    "hints": [
-      "FINISH",
-      "WRITE",
-      "CALL",
-      "NOT NEED"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "The building ___ (stand) here since 1820, and by next year it ___ (survive) two world wars and countless economic crises.",
-    "answers": [
-      "has stood",
-      "will have survived"
-    ],
-    "hints": [
-      "STAND",
-      "SURVIVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When we ___ (arrive), the concert ___ (already start), and the musicians ___ (play) Mozart's Requiem.",
-    "answers": [
-      "arrived",
-      "had already started",
-      "were playing"
-    ],
-    "hints": [
-      "ARRIVE",
-      "ALREADY START",
-      "PLAY"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "He ___ (tell) me yesterday that he ___ (lose) his job the week before and ___ (look) for a new one ever since.",
-    "answers": [
-      "told",
-      "had lost",
-      "had been looking"
-    ],
-    "hints": [
-      "TELL",
-      "LOSE",
-      "LOOK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the end of this decade, we ___ (live) in this house for 30 years, and my children ___ (all grow up) and ___ (move) away.",
-    "answers": [
-      "will have been living",
-      "will have all grown up",
-      "moved"
-    ],
-    "hints": [
-      "LIVE",
-      "ALL GROW UP",
-      "MOVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (cook) dinner when my son ___ (come) home, announcing that he ___ (get) into Harvard.",
-    "answers": [
-      "was cooking",
-      "came",
-      "had got"
-    ],
-    "hints": [
-      "COOK",
-      "COME",
-      "GET"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "The team ___ (train) for months before the match, but when the day ___ (come), the star player ___ (injure) his knee and ___ (miss) the game.",
-    "answers": [
-      "had been training",
-      "came",
-      "had injured",
-      "missed"
-    ],
-    "hints": [
-      "TRAIN",
-      "COME",
-      "INJURE",
-      "MISS"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "She ___ (always want) to be a doctor, and now that she ___ (graduate) from medical school, she finally ___ (start) her career next month.",
-    "answers": [
-      "had always wanted",
-      "has graduated",
-      "will start"
-    ],
-    "hints": [
-      "ALWAYS WANT",
-      "GRADUATE",
-      "START"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time you ___ (read) this letter, I ___ (already leave) the country, and perhaps ___ (never return).",
-    "answers": [
-      "read",
-      "will have already left",
-      "will never return"
-    ],
-    "hints": [
-      "READ",
-      "ALREADY LEAVE",
-      "NEVER RETURN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When the police ___ (arrive), the suspect ___ (already flee), leaving behind evidence that ___ (hide) for years.",
-    "answers": [
-      "arrived",
-      "had already fled",
-      "had been hidden"
-    ],
-    "hints": [
-      "ARRIVE",
-      "ALREADY FLEE",
-      "HIDE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (just finish) breakfast when my phone ___ (ring); it ___ (be) my boss, asking why I ___ (not arrive) at work yet.",
-    "answers": [
-      "had just finished",
-      "rang",
-      "was",
-      "hadn't arrived"
-    ],
-    "hints": [
-      "JUST FINISH",
-      "RING",
-      "BE",
-      "NOT ARRIVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "The scientist ___ (work) on the theory for decades; last year she ___ (publish) her findings, and now people ___ (discuss) them worldwide.",
-    "answers": [
-      "had been working",
-      "published",
-      "are discussing"
-    ],
-    "hints": [
-      "WORK",
-      "PUBLISH",
-      "DISCUSS"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "He ___ (claim) he ___ (see) a ghost in the old house, but his friends ___ (never believe) him.",
-    "answers": [
-      "claimed",
-      "had seen",
-      "have never believed"
-    ],
-    "hints": [
-      "CLAIM",
-      "SEE",
-      "NEVER BELIEVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "While critics ___ (debate) the film's meaning, audiences ___ (already decide) they love it, and it ___ (break) box office records next week.",
-    "answers": [
-      "are debating",
-      "have already decided",
-      "will break"
-    ],
-    "hints": [
-      "DEBATE",
-      "ALREADY DECIDE",
-      "BREAK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "We ___ (walk) for an hour when we ___ (realise) we ___ (take) the wrong path, and by then it ___ (get) dark.",
-    "answers": [
-      "had been walking",
-      "realised",
-      "had taken",
-      "had got"
-    ],
-    "hints": [
-      "WALK",
-      "REALISE",
-      "TAKE",
-      "GET"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (live) here all my life, but until last year I ___ (never notice) the little café that ___ (open) on the corner in 1952.",
-    "answers": [
-      "have lived",
-      "had never noticed",
-      "had opened"
-    ],
-    "hints": [
-      "LIVE",
-      "NEVER NOTICE",
-      "OPEN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "The artist ___ (paint) for hours when the light ___ (change) and ___ (ruin) everything she ___ (create) that morning.",
-    "answers": [
-      "had been painting",
-      "changed",
-      "ruined",
-      "had created"
-    ],
-    "hints": [
-      "PAINT",
-      "CHANGE",
-      "RUIN",
-      "CREATE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
     "sentence": "I ___ my face every morning.",
     "answers": [
       "wash"
@@ -15060,7 +14675,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "Tom ___ his bed every morning.",
+    "sentence": "Sam ___ his bed every morning.",
     "answers": [
       "makes"
     ],
@@ -15225,7 +14840,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "I sometimes ___ Anna after school.",
+    "sentence": "I sometimes ___ Lisa after school.",
     "answers": [
       "call"
     ],
@@ -15563,7 +15178,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Look at Tom — he ___ very fast.",
+    "sentence": "Look at Ethan — he ___ very fast.",
     "answers": [
       "is running"
     ],
@@ -15673,7 +15288,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Anna and I ___ for the bus right now.",
+    "sentence": "Sophia and I ___ for the bus right now.",
     "answers": [
       "are waiting"
     ],
@@ -16092,7 +15707,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Tom ___ his room two days ago.",
+    "sentence": "Nick ___ his room two days ago.",
     "answers": [
       "cleaned"
     ],
@@ -16114,7 +15729,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Anna ___ her grandparents last weekend.",
+    "sentence": "Eva ___ her grandparents last weekend.",
     "answers": [
       "visited"
     ],
@@ -16224,7 +15839,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "I ___ to the cinema with Anna last night.",
+    "sentence": "I ___ to the cinema with Helen last night.",
     "answers": [
       "went"
     ],
@@ -16334,7 +15949,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Tom ___ up at six o'clock yesterday.",
+    "sentence": "Leo ___ up at six o'clock yesterday.",
     "answers": [
       "got"
     ],
@@ -16367,7 +15982,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "We ___ Anna at the bus stop yesterday.",
+    "sentence": "We ___ Jane at the bus stop yesterday.",
     "answers": [
       "met"
     ],
@@ -16455,7 +16070,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Anna ___ ill last week.",
+    "sentence": "Hannah ___ ill last week.",
     "answers": [
       "was"
     ],
@@ -16569,7 +16184,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "When ___ Anna ___ from London last week?",
+    "sentence": "When ___ Clara ___ from London last week?",
     "answers": [
       "did",
       "return"
@@ -16608,7 +16223,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Why ___ Tom ___ so late yesterday?",
+    "sentence": "Why ___ Liam ___ so late yesterday?",
     "answers": [
       "did",
       "arrive"
@@ -16665,7 +16280,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I am sure Tom ___ us with the move next weekend.",
+    "sentence": "I am sure Ethan ___ us with the move next weekend.",
     "answers": [
       "will help"
     ],
@@ -16819,7 +16434,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Don't worry, Tom ___ you the books tomorrow.",
+    "sentence": "Don't worry, Sebastian ___ you the books tomorrow.",
     "answers": [
       "will bring"
     ],
@@ -16962,7 +16577,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Anna ___ to her new school next year.",
+    "sentence": "Chloe ___ to her new school next year.",
     "answers": [
       "will go"
     ],
@@ -17006,7 +16621,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Tom ___ thirteen next Friday.",
+    "sentence": "Ben ___ thirteen next Friday.",
     "answers": [
       "will turn"
     ],
@@ -17072,7 +16687,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Tom ___ his lunch tomorrow — he forgot it again.",
+    "sentence": "Peter ___ his lunch tomorrow — he forgot it again.",
     "answers": [
       "won't have"
     ],
@@ -17300,7 +16915,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Tom ___ already ___ his bag for school.",
+    "sentence": "Jack ___ already ___ his bag for school.",
     "answers": [
       "has",
       "packed"
@@ -17474,7 +17089,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ Tom ever ___ a horse?",
+    "sentence": "___ Theo ever ___ a horse?",
     "answers": [
       "Has",
       "ridden"
@@ -17690,7 +17305,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Anna ___ the piano for two years.",
+    "sentence": "Sophia ___ the piano for two years.",
     "answers": [
       "has played"
     ],
@@ -17778,7 +17393,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "At 9 o'clock yesterday Anna ___ for her test.",
+    "sentence": "At 9 o'clock yesterday Emma ___ for her test.",
     "answers": [
       "was studying"
     ],
@@ -17888,7 +17503,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Anna ___ all evening yesterday.",
+    "sentence": "Emma ___ all evening yesterday.",
     "answers": [
       "was reading"
     ],
@@ -17976,7 +17591,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Tom ___ his bike when he fell.",
+    "sentence": "Sebastian ___ his bike when he fell.",
     "answers": [
       "was riding"
     ],
@@ -18141,7 +17756,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "While Tom ___ his bike, I waited at home.",
+    "sentence": "While Mark ___ his bike, I waited at home.",
     "answers": [
       "was fixing"
     ],
@@ -18207,7 +17822,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Tom ___ his homework when I called him.",
+    "sentence": "Mike ___ his homework when I called him.",
     "answers": [
       "wasn't doing"
     ],
@@ -18229,7 +17844,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Anna ___ to the teacher all lesson.",
+    "sentence": "Zoe ___ to the teacher all lesson.",
     "answers": [
       "wasn't listening"
     ],
@@ -18351,7 +17966,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Tom ___ a new bike next month.",
+    "sentence": "Chris ___ a new bike next month.",
     "answers": [
       "is going to buy"
     ],
@@ -18395,7 +18010,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Anna ___ her homework after dinner tonight.",
+    "sentence": "Chloe ___ her homework after dinner tonight.",
     "answers": [
       "is going to do"
     ],
@@ -18439,7 +18054,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Tom ___ tennis with his friend next Saturday.",
+    "sentence": "Nick ___ tennis with his friend next Saturday.",
     "answers": [
       "is going to play"
     ],
@@ -18461,7 +18076,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "I ___ Anna for her birthday tomorrow.",
+    "sentence": "I ___ Sarah for her birthday tomorrow.",
     "answers": [
       "am going to call"
     ],
@@ -18516,7 +18131,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Look! Tom ___ for the bus.",
+    "sentence": "Look! Jack ___ for the bus.",
     "answers": [
       "is going to run"
     ],
@@ -18604,7 +18219,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Be quiet! Anna ___ a phone call in a minute.",
+    "sentence": "Be quiet! Rachel ___ a phone call in a minute.",
     "answers": [
       "is going to make"
     ],
@@ -18637,7 +18252,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Tom ___ a doctor in the future.",
+    "sentence": "Leo ___ a doctor in the future.",
     "answers": [
       "is going to be"
     ],
@@ -18670,7 +18285,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Anna ___ a new hobby next month.",
+    "sentence": "Kate ___ a new hobby next month.",
     "answers": [
       "is going to start"
     ],
@@ -18714,7 +18329,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Tom ___ the test tomorrow — he hasn't studied.",
+    "sentence": "Liam ___ the test tomorrow — he hasn't studied.",
     "answers": [
       "isn't going to pass"
     ],
@@ -18747,7 +18362,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Anna ___ Bella tonight — Tom is doing it.",
+    "sentence": "Mary ___ Bella tonight — Noah is doing it.",
     "answers": [
       "isn't going to feed"
     ],
@@ -18900,7 +18515,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Anna ___ to that podcast for weeks.",
+    "sentence": "Hannah ___ to that podcast for weeks.",
     "answers": [
       "has been listening"
     ],
@@ -19032,7 +18647,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Tom ___ for a job since last summer.",
+    "sentence": "Daniel ___ for a job since last summer.",
     "answers": [
       "has been looking"
     ],
@@ -19076,7 +18691,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Anna ___ Spanish since high school.",
+    "sentence": "Sophia ___ Spanish since high school.",
     "answers": [
       "has been learning"
     ],
@@ -19197,7 +18812,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Anna ___ a lot of yoga lately.",
+    "sentence": "Isabella ___ a lot of yoga lately.",
     "answers": [
       "has been doing"
     ],
@@ -19219,7 +18834,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Tom ___ very hard recently.",
+    "sentence": "Ben ___ very hard recently.",
     "answers": [
       "has been working"
     ],
@@ -19276,7 +18891,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ Tom ___ at this company?",
+    "sentence": "How long ___ Mike ___ at this company?",
     "answers": [
       "has",
       "been working"
@@ -19289,7 +18904,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ Anna and you ___ each other?",
+    "sentence": "How long ___ Lily and you ___ each other?",
     "answers": [
       "have",
       "been dating"
@@ -19400,7 +19015,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Tom is exhausted — he ___ since 6 am.",
+    "sentence": "Peter is exhausted — he ___ since 6 am.",
     "answers": [
       "has been running"
     ],
@@ -19433,7 +19048,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "By then, Tom ___ for hours.",
+    "sentence": "By then, Paul ___ for hours.",
     "answers": [
       "had been waiting"
     ],
@@ -19455,7 +19070,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "By the end of last year, Anna ___ three new languages.",
+    "sentence": "By the end of last year, Grace ___ three new languages.",
     "answers": [
       "had learned"
     ],
@@ -19532,7 +19147,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Before Tom met Anna, he ___ his future wife.",
+    "sentence": "Before Sam met Zoe, he ___ his future wife.",
     "answers": [
       "had not met"
     ],
@@ -19587,7 +19202,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Before Anna came, I ___ the flat.",
+    "sentence": "Before Ruby came, I ___ the flat.",
     "answers": [
       "had cleaned"
     ],
@@ -19708,7 +19323,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "When Tom called, I ___ already.",
+    "sentence": "When David called, I ___ already.",
     "answers": [
       "had eaten"
     ],
@@ -19719,7 +19334,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "When Anna woke up, the sun ___.",
+    "sentence": "When Sarah woke up, the sun ___.",
     "answers": [
       "had risen"
     ],
@@ -19763,7 +19378,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "I had already ___ my homework when Tom called.",
+    "sentence": "I had already ___ my homework when Jack called.",
     "answers": [
       "finished"
     ],
@@ -19807,7 +19422,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Anna had already ___ when I tried to call.",
+    "sentence": "Lisa had already ___ when I tried to call.",
     "answers": [
       "left"
     ],
@@ -19840,7 +19455,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Tom said he ___ to that café before.",
+    "sentence": "Adam said he ___ to that café before.",
     "answers": [
       "had been"
     ],
@@ -19851,7 +19466,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Anna admitted she ___ to her parents.",
+    "sentence": "Rachel admitted she ___ to her parents.",
     "answers": [
       "had lied"
     ],
@@ -19987,7 +19602,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "Anna ___ (have) a shower when the lights ___ (go) out.",
+    "sentence": "Kate ___ (have) a shower when the lights ___ (go) out.",
     "answers": [
       "was having",
       "went"
@@ -20156,7 +19771,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "When Anna ___ (call), I ___ (have) dinner.",
+    "sentence": "When Mary ___ (call), I ___ (have) dinner.",
     "answers": [
       "called",
       "was having"
@@ -20247,7 +19862,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "When Anna ___ (find) the keys, I ___ (look) for them too.",
+    "sentence": "When Sophie ___ (find) the keys, I ___ (look) for them too.",
     "answers": [
       "found",
       "was looking"
@@ -20299,7 +19914,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "While Tom ___ (study), Anna ___ (paint).",
+    "sentence": "While Tom ___ (study), Hannah ___ (paint).",
     "answers": [
       "was studying",
       "was painting"
@@ -20377,7 +19992,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "While Anna ___ (write) emails, Tom ___ (watch) the news.",
+    "sentence": "While Olivia ___ (write) emails, Lucas ___ (watch) the news.",
     "answers": [
       "was writing",
       "was watching"
@@ -20416,7 +20031,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "As Tom ___ (open) the box, the cat ___ (jump) out.",
+    "sentence": "As Henry ___ (open) the box, the cat ___ (jump) out.",
     "answers": [
       "was opening",
       "jumped"
@@ -20533,7 +20148,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "This time yesterday Anna ___ (work) and the kids ___ (play).",
+    "sentence": "This time yesterday Emma ___ (work) and the kids ___ (play).",
     "answers": [
       "was working",
       "were playing"
@@ -20572,7 +20187,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "Two days ago Tom ___ (jog) when he ___ (find) a wallet.",
+    "sentence": "Two days ago Daniel ___ (jog) when he ___ (find) a wallet.",
     "answers": [
       "was jogging",
       "found"
@@ -20689,7 +20304,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Anna ___ (call), I ___ (tell) her the news.",
+    "sentence": "If Lily ___ (call), I ___ (tell) her the news.",
     "answers": [
       "calls",
       "will tell"
@@ -20715,7 +20330,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Tom ___ (study) tonight, he ___ (pass) the test tomorrow.",
+    "sentence": "If Alex ___ (study) tonight, he ___ (pass) the test tomorrow.",
     "answers": [
       "studies",
       "will pass"
@@ -20793,7 +20408,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Tom ___ (not hurry), he ___ (miss) the bus.",
+    "sentence": "If Mike ___ (not hurry), he ___ (miss) the bus.",
     "answers": [
       "doesn't hurry",
       "will miss"
@@ -20845,7 +20460,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Anna ___ (finish) on time, we ___ (go) to the cinema.",
+    "sentence": "If Grace ___ (finish) on time, we ___ (go) to the cinema.",
     "answers": [
       "finishes",
       "will go"
@@ -20871,7 +20486,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Unless Tom ___ (apologise), Anna ___ (not forgive) him.",
+    "sentence": "Unless Paul ___ (apologise), Anna ___ (not forgive) him.",
     "answers": [
       "apologises",
       "won't forgive"
@@ -20949,7 +20564,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "As soon as Anna ___ (arrive), we ___ (start) the meeting.",
+    "sentence": "As soon as Ruby ___ (arrive), we ___ (start) the meeting.",
     "answers": [
       "arrives",
       "will start"
@@ -20962,7 +20577,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (have) more money, I ___ (travel) more.",
+    "sentence": "If I ___ (have) more money, I ___ (travel) more right now.",
     "answers": [
       "had",
       "would travel"
@@ -20975,7 +20590,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (be) you, I ___ (not buy) that car.",
+    "sentence": "If I ___ (be) you, I ___ (not buy) that car right now.",
     "answers": [
       "were",
       "wouldn't buy"
@@ -20988,7 +20603,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Tom ___ (live) closer, we ___ (see) him more often.",
+    "sentence": "If Tom ___ (live) closer, we ___ (see) him more often right now.",
     "answers": [
       "lived",
       "would see"
@@ -21001,7 +20616,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "What ___ you ___ (do) if you ___ (win) the lottery?",
+    "sentence": "What ___ you ___ (do) if you ___ (win) the lottery right now?",
     "answers": [
       "would",
       "do",
@@ -21029,7 +20644,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Mum ___ (be) very happy if Dad ___ (cook) more often.",
+    "sentence": "Mum ___ (be) very happy if Dad ___ (cook) more often right now.",
     "answers": [
       "would be",
       "cooked"
@@ -21042,7 +20657,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If we ___ (have) a bigger flat, we ___ (get) a dog.",
+    "sentence": "If we ___ (have) a bigger flat, we ___ (get) a dog right now.",
     "answers": [
       "had",
       "would get"
@@ -21055,7 +20670,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Tom ___ (be) much happier if he ___ (change) his job.",
+    "sentence": "Tom ___ (be) much happier if he ___ (change) his job right now.",
     "answers": [
       "would be",
       "changed"
@@ -21068,7 +20683,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (speak) Chinese, I ___ (move) to Beijing.",
+    "sentence": "If I ___ (speak) Chinese, I ___ (move) to Beijing right now.",
     "answers": [
       "spoke",
       "would move"
@@ -21081,7 +20696,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "What ___ you ___ (say) if your boss ___ (offer) you a promotion?",
+    "sentence": "What ___ you ___ (say) if your boss ___ (offer) you a promotion right now?",
     "answers": [
       "would",
       "say",
@@ -21096,7 +20711,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Bella ___ (be) a person, she ___ (love) cinema.",
+    "sentence": "If Bella ___ (be) a person, she ___ (love) cinema right now.",
     "answers": [
       "were",
       "would love"
@@ -21109,7 +20724,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (not work) so much, I ___ (have) more free time.",
+    "sentence": "If I ___ (not work) so much, I ___ (have) more free time right now.",
     "answers": [
       "didn't work",
       "would have"
@@ -21122,7 +20737,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Anna ___ (be) very upset if you ___ (forget) her birthday.",
+    "sentence": "Anna ___ (be) very upset if you ___ (forget) her birthday right now.",
     "answers": [
       "would be",
       "forgot"
@@ -21146,7 +20761,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Anna wishes she ___ (be) taller.",
+    "sentence": "Sarah wishes she ___ (be) taller.",
     "answers": [
       "were"
     ],
@@ -21201,7 +20816,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Anna finished ___ (read) the book last night.",
+    "sentence": "Rachel finished ___ (read) the book last night.",
     "answers": [
       "reading"
     ],
@@ -21267,7 +20882,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Anna admitted ___ (lie) about her age.",
+    "sentence": "Kate admitted ___ (lie) about her age.",
     "answers": [
       "lying"
     ],
@@ -21344,7 +20959,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Tom is interested in ___ (learn) photography.",
+    "sentence": "Leo is interested in ___ (learn) photography.",
     "answers": [
       "learning"
     ],
@@ -21377,7 +20992,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Anna is afraid of ___ (fly) in small planes.",
+    "sentence": "Lucy is afraid of ___ (fly) in small planes.",
     "answers": [
       "flying"
     ],
@@ -21399,7 +21014,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Tom is used to ___ (work) night shifts.",
+    "sentence": "Theo is used to ___ (work) night shifts.",
     "answers": [
       "working"
     ],
@@ -21498,7 +21113,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Anna hopes ___ (visit) Paris next summer.",
+    "sentence": "Hannah hopes ___ (visit) Paris next summer.",
     "answers": [
       "to visit"
     ],
@@ -21564,7 +21179,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Anna refused ___ (talk) to him after the argument.",
+    "sentence": "Clara refused ___ (talk) to him after the argument.",
     "answers": [
       "to talk"
     ],
@@ -21630,7 +21245,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Tom called Mum ___ (ask) about dinner.",
+    "sentence": "Sebastian called Mum ___ (ask) about dinner.",
     "answers": [
       "to ask"
     ],
@@ -21663,7 +21278,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Anna was happy ___ (hear) the news.",
+    "sentence": "Emma was happy ___ (hear) the news.",
     "answers": [
       "to hear"
     ],
@@ -21707,7 +21322,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Tom likes ___ (swim) in the sea.",
+    "sentence": "Oliver likes ___ (swim) in the sea.",
     "answers": [
       "to swim/swimming"
     ],
@@ -21729,7 +21344,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Tom ___ (speak) three languages fluently.",
+    "sentence": "Alex ___ (speak) three languages fluently.",
     "answers": [
       "can speak"
     ],
@@ -21751,7 +21366,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (play) the piano very well.",
+    "sentence": "Isabella ___ (play) the piano very well.",
     "answers": [
       "can play"
     ],
@@ -21795,7 +21410,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "After the accident, Tom ___ (walk) again in three months.",
+    "sentence": "After the accident, Mark ___ (walk) again in three months.",
     "answers": [
       "was able to walk"
     ],
@@ -21817,7 +21432,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (swim) since she was three.",
+    "sentence": "Lily ___ (swim) since she was three.",
     "answers": [
       "has been able to swim"
     ],
@@ -21937,7 +21552,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Tom ___ (be) at the library — let's check.",
+    "sentence": "Chris ___ (be) at the library — let's check.",
     "answers": [
       "may be"
     ],
@@ -21959,7 +21574,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (know) the answer — let's ask her.",
+    "sentence": "Zoe ___ (know) the answer — let's ask her.",
     "answers": [
       "might know"
     ],
@@ -22014,7 +21629,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Tom ___ (not come) — he hasn't replied to the invitation.",
+    "sentence": "Sam ___ (not come) — he hasn't replied to the invitation.",
     "answers": [
       "might not come"
     ],
@@ -22058,7 +21673,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Tom ___ (work) extra hours this week — there's a deadline.",
+    "sentence": "Andrew ___ (work) extra hours this week — there's a deadline.",
     "answers": [
       "has to work"
     ],
@@ -22069,7 +21684,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (see) a doctor — she has been ill for a week.",
+    "sentence": "Sarah ___ (see) a doctor — she has been ill for a week.",
     "answers": [
       "must see"
     ],
@@ -22124,7 +21739,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (not pay) for her ticket — it was a gift.",
+    "sentence": "Lisa ___ (not pay) for her ticket — it was a gift.",
     "answers": [
       "didn't have to pay"
     ],
@@ -22146,7 +21761,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Tom ___ (not eat) so much sugar — it's bad for him.",
+    "sentence": "Jack ___ (not eat) so much sugar — it's bad for him.",
     "answers": [
       "shouldn't eat"
     ],
@@ -22157,7 +21772,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (tell) her parents about the problem.",
+    "sentence": "Rachel ___ (tell) her parents about the problem.",
     "answers": [
       "ought to tell"
     ],
@@ -22190,7 +21805,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (not work) tomorrow — it's her day off.",
+    "sentence": "Kate ___ (not work) tomorrow — it's her day off.",
     "answers": [
       "doesn't have to work"
     ],
@@ -22212,7 +21827,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Tom ___ (not pay) for the meal — his friend invited him.",
+    "sentence": "Ryan ___ (not pay) for the meal — his friend invited him.",
     "answers": [
       "didn't have to pay"
     ],
@@ -22223,7 +21838,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Tom looked exhausted — he ___ (run) for two hours.",
+    "sentence": "Adam looked exhausted — he ___ (run) for two hours.",
     "answers": [
       "had been running"
     ],
@@ -22234,7 +21849,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Anna ___ (study) all night before the exam.",
+    "sentence": "Lucy ___ (study) all night before the exam.",
     "answers": [
       "had been studying"
     ],
@@ -22311,7 +21926,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Tom ___ (try) to call Anna for days before she finally answered.",
+    "sentence": "Tom ___ (try) to call Julia for days before she finally answered.",
     "answers": [
       "had been trying"
     ],
@@ -22333,7 +21948,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Anna ___ (live) alone for years before she met Tom.",
+    "sentence": "Sophie ___ (live) alone for years before she met Tom.",
     "answers": [
       "had been living"
     ],
@@ -22509,7 +22124,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "By her thirtieth birthday, Anna ___ (publish) two novels.",
+    "sentence": "By her thirtieth birthday, Olivia ___ (publish) two novels.",
     "answers": [
       "will have published"
     ],
@@ -22575,7 +22190,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "By 5 pm tomorrow, Tom ___ (finish) his report.",
+    "sentence": "By 5 pm tomorrow, Lucas ___ (finish) his report.",
     "answers": [
       "will have finished"
     ],
@@ -22619,7 +22234,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "By next June, Anna ___ (study) medicine for six years.",
+    "sentence": "By next June, Charlotte ___ (study) medicine for six years.",
     "answers": [
       "will have been studying"
     ],
@@ -22674,7 +22289,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Anna told me that she ___ (work) on her thesis for months.",
+    "sentence": "Emma told me that she ___ (work) on her thesis for months.",
     "answers": [
       "had been working"
     ],
@@ -22729,7 +22344,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna admitted she ___ (lose) her wallet.",
+    "sentence": "Isabella admitted she ___ (lose) her wallet.",
     "answers": [
       "had lost"
     ],
@@ -22828,7 +22443,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna confessed that she ___ (always want) to be a singer.",
+    "sentence": "Grace confessed that she ___ (always want) to be a singer.",
     "answers": [
       "had always wanted"
     ],
@@ -22839,7 +22454,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna asked me what I ___ (do) the previous weekend.",
+    "sentence": "Zoe asked me what I ___ (do) the previous weekend.",
     "answers": [
       "had done"
     ],
@@ -22905,7 +22520,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna asked me whether I ___ (read) the new book.",
+    "sentence": "Eva asked me whether I ___ (read) the new book.",
     "answers": [
       "had read"
     ],
@@ -22916,7 +22531,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Tom wondered who ___ (leave) the door open.",
+    "sentence": "Alex wondered who ___ (leave) the door open.",
     "answers": [
       "had left"
     ],
@@ -22949,7 +22564,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "I asked Anna where she ___ (buy) her dress.",
+    "sentence": "I asked Lisa where she ___ (buy) her dress.",
     "answers": [
       "had bought"
     ],
@@ -22993,7 +22608,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna asked me if I ___ (ever visit) Madrid.",
+    "sentence": "Helen asked me if I ___ (ever visit) Madrid.",
     "answers": [
       "had ever visited"
     ],
@@ -23004,7 +22619,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna asked me ___ (help) her with the translation.",
+    "sentence": "Kate asked me ___ (help) her with the translation.",
     "answers": [
       "to help"
     ],
@@ -23037,7 +22652,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna advised Tom ___ (see) a doctor.",
+    "sentence": "Anna advised Paul ___ (see) a doctor.",
     "answers": [
       "to see"
     ],
@@ -23081,7 +22696,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Tom invited me ___ (join) them for dinner.",
+    "sentence": "Chris invited me ___ (join) them for dinner.",
     "answers": [
       "to join"
     ],
@@ -23092,7 +22707,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna begged me ___ (not tell) anyone her secret.",
+    "sentence": "Lucy begged me ___ (not tell) anyone her secret.",
     "answers": [
       "not to tell"
     ],
@@ -23125,7 +22740,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Tom told us he ___ (help) us if we needed it.",
+    "sentence": "Sam told us he ___ (help) us if we needed it.",
     "answers": [
       "could help"
     ],
@@ -23169,7 +22784,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Anna told me I ___ (borrow) her car if I needed it.",
+    "sentence": "Jane told me I ___ (borrow) her car if I needed it.",
     "answers": [
       "could borrow"
     ],
@@ -23191,7 +22806,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Tom said he ___ (not be) able to help that weekend.",
+    "sentence": "David said he ___ (not be) able to help that weekend.",
     "answers": [
       "wouldn't be"
     ],
@@ -23455,7 +23070,7 @@
     "formula": "Passive Voice"
   },
   {
-    "sentence": "Anna was upset because her car ___ (damage).",
+    "sentence": "Clara was upset because her car ___ (damage).",
     "answers": [
       "had been damaged"
     ],
@@ -23532,7 +23147,7 @@
     "formula": "Passive Voice"
   },
   {
-    "sentence": "If Tom ___ (study) more, he ___ (pass) the exam.",
+    "sentence": "If James ___ (study) more, he ___ (pass) the exam yesterday.",
     "answers": [
       "had studied",
       "would have passed"
@@ -23545,7 +23160,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna ___ (be) upset if you ___ (forget) her birthday.",
+    "sentence": "Anna ___ (be) upset if you ___ (forget) her birthday yesterday.",
     "answers": [
       "would have been",
       "had forgotten"
@@ -23571,7 +23186,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Mum ___ (get) the job if she ___ (be) better prepared.",
+    "sentence": "Mum ___ (get) the job if she ___ (be) better prepared yesterday.",
     "answers": [
       "would have got",
       "had been"
@@ -23584,7 +23199,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If they ___ (invite) me, I ___ (go) to their wedding.",
+    "sentence": "If they ___ (invite) me, I ___ (go) to their wedding yesterday.",
     "answers": [
       "had invited",
       "would have gone"
@@ -23597,7 +23212,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Tom ___ (win) the race if he ___ (not fall).",
+    "sentence": "Noah ___ (win) the race if he ___ (not fall) yesterday.",
     "answers": [
       "would have won",
       "hadn't fallen"
@@ -23610,7 +23225,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If Anna ___ (apologise), I ___ (forgive) her.",
+    "sentence": "If Anna ___ (apologise), I ___ (forgive) her yesterday.",
     "answers": [
       "had apologised",
       "would have forgiven"
@@ -23623,7 +23238,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Dad ___ (not break) his leg if he ___ (be) more careful.",
+    "sentence": "Dad ___ (not break) his leg if he ___ (be) more careful yesterday.",
     "answers": [
       "wouldn't have broken",
       "had been"
@@ -23649,7 +23264,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If Tom ___ (be) a more careful driver, he ___ (not have) the accident yesterday.",
+    "sentence": "If Lucas ___ (be) a more careful driver, he ___ (not have) the accident yesterday.",
     "answers": [
       "were",
       "wouldn't have had"
@@ -23688,7 +23303,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If Tom ___ (not spend) all his money, he ___ (be) able to travel now.",
+    "sentence": "If Ethan ___ (not spend) all his money, he ___ (be) able to travel now.",
     "answers": [
       "hadn't spent",
       "would be"
@@ -23725,7 +23340,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna wishes she ___ (study) harder at school.",
+    "sentence": "Olivia wishes she ___ (study) harder at school.",
     "answers": [
       "had studied"
     ],
@@ -23736,7 +23351,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Tom wishes he ___ (not buy) that expensive car.",
+    "sentence": "Liam wishes he ___ (not buy) that expensive car.",
     "answers": [
       "hadn't bought"
     ],
@@ -23747,7 +23362,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna wishes she ___ (listen) to her parents' advice.",
+    "sentence": "Charlotte wishes she ___ (listen) to her parents' advice.",
     "answers": [
       "had listened"
     ],
@@ -23824,7 +23439,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna wishes she ___ (know) Spanish.",
+    "sentence": "Mia wishes she ___ (know) Spanish.",
     "answers": [
       "knew"
     ],
@@ -23846,7 +23461,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna wishes Tom ___ (not be) so stubborn.",
+    "sentence": "Anna wishes Ethan ___ (not be) so stubborn.",
     "answers": [
       "wouldn't be"
     ],
@@ -23868,7 +23483,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Tom wishes his kids ___ (not argue) so much.",
+    "sentence": "Henry wishes his kids ___ (not argue) so much.",
     "answers": [
       "wouldn't argue"
     ],
@@ -23890,7 +23505,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna denied ___ (ever steal) anything in her life.",
+    "sentence": "Isabella denied ___ (ever steal) anything in her life.",
     "answers": [
       "having ever stolen"
     ],
@@ -23901,7 +23516,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom admitted ___ (break) the window the previous day.",
+    "sentence": "Daniel admitted ___ (break) the window the previous day.",
     "answers": [
       "having broken"
     ],
@@ -23912,7 +23527,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Anna apologised for ___ (arrive) so late.",
+    "sentence": "Lily apologised for ___ (arrive) so late.",
     "answers": [
       "having arrived"
     ],
@@ -23923,7 +23538,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom was accused of ___ (steal) the money from the company.",
+    "sentence": "Oliver was accused of ___ (steal) the money from the company.",
     "answers": [
       "having stolen"
     ],
@@ -23956,7 +23571,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom is proud of ___ (win) the championship last year.",
+    "sentence": "Alex is proud of ___ (win) the championship last year.",
     "answers": [
       "having won"
     ],
@@ -24011,7 +23626,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Anna was upset about ___ (not invite) to the wedding.",
+    "sentence": "Ava was upset about ___ (not invite) to the wedding.",
     "answers": [
       "not having been invited"
     ],
@@ -24022,7 +23637,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom seems ___ (enjoy) himself at the party.",
+    "sentence": "Ben seems ___ (enjoy) himself at the party.",
     "answers": [
       "to be enjoying"
     ],
@@ -24066,7 +23681,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Anna is sorry ___ (not call) you sooner.",
+    "sentence": "Grace is sorry ___ (not call) you sooner.",
     "answers": [
       "not to have called"
     ],
@@ -24110,7 +23725,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom is lucky ___ (choose) for the team.",
+    "sentence": "Peter is lucky ___ (choose) for the team.",
     "answers": [
       "to have been chosen"
     ],
@@ -24143,7 +23758,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "___ (feel) tired, Anna decided to go to bed early.",
+    "sentence": "___ (feel) tired, Ruby decided to go to bed early.",
     "answers": [
       "Feeling"
     ],
@@ -24176,7 +23791,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "___ (finish) the report, Tom sent it to his boss.",
+    "sentence": "___ (finish) the report, Paul sent it to his boss.",
     "answers": [
       "Having finished"
     ],
@@ -24246,7 +23861,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Seldom ___ Tom ___ his temper in public.",
+    "sentence": "Seldom ___ Sam ___ his temper in public.",
     "answers": [
       "does",
       "lose"
@@ -24285,7 +23900,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Seldom ___ Anna ___ a chance to travel abroad.",
+    "sentence": "Seldom ___ Eva ___ a chance to travel abroad.",
     "answers": [
       "does",
       "get"
@@ -24363,7 +23978,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Hardly ___ Tom ___ the news when his phone rang again.",
+    "sentence": "Hardly ___ Andrew ___ the news when his phone rang again.",
     "answers": [
       "had",
       "heard"
@@ -24415,7 +24030,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Only then ___ Tom ___ the importance of the decision.",
+    "sentence": "Only then ___ David ___ the importance of the decision.",
     "answers": [
       "did",
       "realize"
@@ -24493,7 +24108,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Only in retrospect ___ Tom ___ how lucky he had been.",
+    "sentence": "Only in retrospect ___ Ryan ___ how lucky he had been.",
     "answers": [
       "did",
       "see"
@@ -24506,7 +24121,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Not only ___ Anna ___ the contest, but she also broke the record.",
+    "sentence": "Not only ___ Lisa ___ the contest, but she also broke the record.",
     "answers": [
       "did",
       "win"
@@ -24519,7 +24134,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Not only ___ Tom ___ his keys, but he also lost his wallet.",
+    "sentence": "Not only ___ Adam ___ his keys, but he also lost his wallet.",
     "answers": [
       "did",
       "forget"
@@ -24571,7 +24186,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "___ Anna ___ (be) here, she would have helped.",
+    "sentence": "___ Helen ___ (be) here, she would have helped.",
     "answers": [
       "Had",
       "been"
@@ -24608,7 +24223,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "___ Tom ___ (study) harder, he would have passed.",
+    "sentence": "___ Theo ___ (study) harder, he would have passed.",
     "answers": [
       "Had",
       "studied"
@@ -24634,7 +24249,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Little ___ Anna ___ that her life was about to change.",
+    "sentence": "Little ___ Lucy ___ that her life was about to change.",
     "answers": [
       "did",
       "know"
@@ -24647,7 +24262,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Little ___ Tom ___ how lucky he was at that moment.",
+    "sentence": "Little ___ James ___ how lucky he was at that moment.",
     "answers": [
       "did",
       "realize"
@@ -24712,7 +24327,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "At no time ___ Tom ___ to deceive anyone.",
+    "sentence": "At no time ___ Lucas ___ to deceive anyone.",
     "answers": [
       "did",
       "intend"
@@ -24751,7 +24366,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "At no point ___ Anna ___ that she was unhappy.",
+    "sentence": "At no point ___ Jane ___ that she was unhappy.",
     "answers": [
       "did",
       "mention"
@@ -24790,7 +24405,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Not until many years later ___ Anna ___ what really happened.",
+    "sentence": "Not until many years later ___ Julia ___ what really happened.",
     "answers": [
       "did",
       "understand"
@@ -24849,7 +24464,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Such ___ Anna's talent that she was offered a scholarship.",
+    "sentence": "Such ___ Sophie's talent that she was offered a scholarship.",
     "answers": [
       "was"
     ],
@@ -24882,7 +24497,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Tom ___ (be) very tired — he fell asleep in the meeting.",
+    "sentence": "Ethan ___ (be) very tired — he fell asleep in the meeting.",
     "answers": [
       "must have been"
     ],
@@ -24926,7 +24541,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Tom ___ (steal) anything — he was with me all evening.",
+    "sentence": "Henry ___ (steal) anything — he was with me all evening.",
     "answers": [
       "can't have stolen"
     ],
@@ -24937,7 +24552,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Anna ___ (study) really hard — her grades are exceptional.",
+    "sentence": "Clara ___ (study) really hard — her grades are exceptional.",
     "answers": [
       "must have studied"
     ],
@@ -24981,7 +24596,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Tom ___ (win) the race, but he twisted his ankle.",
+    "sentence": "Sebastian ___ (win) the race, but he twisted his ankle.",
     "answers": [
       "could have won"
     ],
@@ -25003,7 +24618,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Anna ___ (be) a doctor, but she chose teaching instead.",
+    "sentence": "Olivia ___ (be) a doctor, but she chose teaching instead.",
     "answers": [
       "could have been"
     ],
@@ -25058,7 +24673,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Tom isn't here yet — he ___ (get) stuck in traffic.",
+    "sentence": "Oliver isn't here yet — he ___ (get) stuck in traffic.",
     "answers": [
       "might have got"
     ],
@@ -25069,7 +24684,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Anna ___ (forget) about the meeting — she's been so busy.",
+    "sentence": "Charlotte ___ (forget) about the meeting — she's been so busy.",
     "answers": [
       "may have forgotten"
     ],
@@ -25113,7 +24728,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Anna ___ (lose) the keys somewhere on her way home.",
+    "sentence": "Emma ___ (lose) the keys somewhere on her way home.",
     "answers": [
       "may have lost"
     ],
@@ -25135,7 +24750,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Tom ___ (eat) so much last night — he feels sick today.",
+    "sentence": "Alex ___ (eat) so much last night — he feels sick today.",
     "answers": [
       "shouldn't have eaten"
     ],
@@ -25157,7 +24772,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Anna ___ (lend) him the money — he never pays anyone back.",
+    "sentence": "Mia ___ (lend) him the money — he never pays anyone back.",
     "answers": [
       "shouldn't have lent"
     ],
@@ -25223,7 +24838,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Tom ___ (study) more — he barely passed the exam.",
+    "sentence": "Mark ___ (study) more — he barely passed the exam.",
     "answers": [
       "should have studied"
     ],
@@ -25333,7 +24948,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Anna ___ (cry) for hours — her face is red and swollen.",
+    "sentence": "Ava ___ (cry) for hours — her face is red and swollen.",
     "answers": [
       "must have been crying"
     ],
@@ -25449,7 +25064,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Tom ___ his suit ___ (dry-clean) before the wedding.",
+    "sentence": "Chris ___ his suit ___ (dry-clean) before the wedding.",
     "answers": [
       "got",
       "dry-cleaned"
@@ -25592,7 +25207,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Anna ___ her ears ___ (pierce) when she was twelve.",
+    "sentence": "Chloe ___ her ears ___ (pierce) when she was twelve.",
     "answers": [
       "had",
       "pierced"
@@ -25605,7 +25220,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Tom ___ his wallet ___ (steal) on the train.",
+    "sentence": "Nick ___ his wallet ___ (steal) on the train.",
     "answers": [
       "had",
       "stolen"
@@ -25670,7 +25285,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Mum ___ Tom ___ (clean) his room.",
+    "sentence": "Mum ___ Andrew ___ (clean) his room.",
     "answers": [
       "got",
       "to clean"
@@ -25696,7 +25311,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Anna ___ her brother ___ (help) with the homework.",
+    "sentence": "Eva ___ her brother ___ (help) with the homework.",
     "answers": [
       "got",
       "to help"
@@ -25774,7 +25389,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "It is said ___ Tom ___ (be) the best player on the team.",
+    "sentence": "It is said ___ Ryan ___ (be) the best player on the team.",
     "answers": [
       "that",
       "is"
@@ -25861,7 +25476,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Tom ___ (consider) ___ (be) a leading expert.",
+    "sentence": "Leo ___ (consider) ___ (be) a leading expert.",
     "answers": [
       "is considered",
       "to be"
@@ -25926,7 +25541,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Tom's joke ___ everyone ___ (laugh) loudly.",
+    "sentence": "Theo's joke ___ everyone ___ (laugh) loudly.",
     "answers": [
       "made",
       "laugh"
@@ -25939,7 +25554,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Anna's parents ___ her ___ (travel) abroad alone last year.",
+    "sentence": "Helen's parents ___ her ___ (travel) abroad alone last year.",
     "answers": [
       "let",
       "travel"
@@ -26040,7 +25655,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "The doctor recommended that Tom ___ (take) a long break.",
+    "sentence": "The doctor recommended that James ___ (take) a long break.",
     "answers": [
       "take"
     ],
@@ -26051,7 +25666,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "I suggest that Anna ___ (apply) for the scholarship immediately.",
+    "sentence": "I suggest that Lucy ___ (apply) for the scholarship immediately.",
     "answers": [
       "apply"
     ],
@@ -26128,7 +25743,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "I insist that Tom ___ (come) with us to the wedding.",
+    "sentence": "I insist that Liam ___ (come) with us to the wedding.",
     "answers": [
       "come"
     ],
@@ -26183,7 +25798,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Anna would help Tom if she ___ here right now.",
+    "sentence": "Jane would help Tom if she ___ here right now.",
     "answers": [
       "were"
     ],
@@ -26227,7 +25842,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It was Anna ___ first noticed the mistake in the report.",
+    "sentence": "It was Julia ___ first noticed the mistake in the report.",
     "answers": [
       "who"
     ],
@@ -26304,7 +25919,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It is Anna's honesty ___ I admire most about her.",
+    "sentence": "It is Clara's honesty ___ I admire most about her.",
     "answers": [
       "that"
     ],
@@ -26337,7 +25952,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "What Tom needs ___ (be) a good night's sleep.",
+    "sentence": "What Ethan needs ___ (be) a good night's sleep.",
     "answers": [
       "is"
     ],
@@ -26348,7 +25963,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "What Anna ___ (do) was call her mother immediately.",
+    "sentence": "What Sophia ___ (do) was call her mother immediately.",
     "answers": [
       "did"
     ],
@@ -26414,7 +26029,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "All Tom ___ (do) all day is sit in front of the TV.",
+    "sentence": "All Sebastian ___ (do) all day is sit in front of the TV.",
     "answers": [
       "does"
     ],
@@ -26447,7 +26062,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Honesty is what Anna ___ (value) most in friends.",
+    "sentence": "Honesty is what Charlotte ___ (value) most in friends.",
     "answers": [
       "values"
     ],
@@ -26480,7 +26095,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Anna ___ (deserve) the promotion — she works incredibly hard.",
+    "sentence": "Mia ___ (deserve) the promotion — she works incredibly hard.",
     "answers": [
       "does deserve"
     ],
@@ -26524,7 +26139,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Tom ___ (apologise), but it was already too late.",
+    "sentence": "Oliver ___ (apologise), but it was already too late.",
     "answers": [
       "did apologise"
     ],
@@ -26590,7 +26205,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Anna regretted ___ (not study) harder for her finals.",
+    "sentence": "Isabella regretted ___ (not study) harder for her finals.",
     "answers": [
       "not having studied"
     ],
@@ -26656,7 +26271,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom was accused of ___ (steal) sensitive company data.",
+    "sentence": "Ben was accused of ___ (steal) sensitive company data.",
     "answers": [
       "having stolen"
     ],
@@ -26678,7 +26293,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Anna hates ___ (interrupt) when she's working.",
+    "sentence": "Ava hates ___ (interrupt) when she's working.",
     "answers": [
       "being interrupted"
     ],
@@ -26689,7 +26304,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom enjoys ___ (recognise) for his contributions.",
+    "sentence": "Mark enjoys ___ (recognise) for his contributions.",
     "answers": [
       "being recognised"
     ],
@@ -26744,7 +26359,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom complained about ___ (overlook) for the promotion.",
+    "sentence": "Peter complained about ___ (overlook) for the promotion.",
     "answers": [
       "having been overlooked"
     ],
@@ -26788,7 +26403,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Anna pretends ___ (study), but she's really on her phone.",
+    "sentence": "Zoe pretends ___ (study), but she's really on her phone.",
     "answers": [
       "to be studying"
     ],
@@ -26832,7 +26447,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom claims ___ (write) his thesis without any help.",
+    "sentence": "Chris claims ___ (write) his thesis without any help.",
     "answers": [
       "to have written"
     ],
@@ -26887,7 +26502,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom is proud ___ (complete) the marathon despite his injury.",
+    "sentence": "Nick is proud ___ (complete) the marathon despite his injury.",
     "answers": [
       "to have completed"
     ],
@@ -26898,7 +26513,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Anna is thought ___ (leave) the country last week.",
+    "sentence": "Chloe is thought ___ (leave) the country last week.",
     "answers": [
       "to have left"
     ],
@@ -26931,7 +26546,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Anna was the first ___ (notify) about the changes.",
+    "sentence": "Eva was the first ___ (notify) about the changes.",
     "answers": [
       "to be notified"
     ],
@@ -26964,7 +26579,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom is honoured ___ (choose) for such an important task.",
+    "sentence": "Andrew is honoured ___ (choose) for such an important task.",
     "answers": [
       "to have been chosen"
     ],
@@ -27085,7 +26700,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "___ (interview) by the police, Anna told them everything.",
+    "sentence": "___ (interview) by the police, Helen told them everything.",
     "answers": [
       "Interviewed"
     ],
@@ -27129,7 +26744,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Tom likes coffee, and ___ (do) Anna.",
+    "sentence": "David likes coffee, and ___ (do) Anna.",
     "answers": [
       "so does"
     ],
@@ -27151,7 +26766,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna can speak French, and ___ Tom.",
+    "sentence": "Anna can speak French, and ___ Jack.",
     "answers": [
       "so can"
     ],
@@ -27173,7 +26788,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Tom didn't enjoy the play, and ___ I.",
+    "sentence": "Ryan didn't enjoy the play, and ___ I.",
     "answers": [
       "neither did"
     ],
@@ -27184,7 +26799,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna has finished her project, and ___ Tom.",
+    "sentence": "Anna has finished her project, and ___ Adam.",
     "answers": [
       "so has"
     ],
@@ -27228,7 +26843,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna doesn't drink alcohol, and ___ her husband.",
+    "sentence": "Mary doesn't drink alcohol, and ___ her husband.",
     "answers": [
       "neither does"
     ],
@@ -27239,7 +26854,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Tom said he'd help, but he never ___.",
+    "sentence": "James said he'd help, but he never ___.",
     "answers": [
       "did"
     ],
@@ -27283,7 +26898,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Tom hasn't called, but he should ___.",
+    "sentence": "Noah hasn't called, but he should ___.",
     "answers": [
       "have"
     ],
@@ -27294,7 +26909,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna would have helped, if only she ___ (know).",
+    "sentence": "Jane would have helped, if only she ___ (know).",
     "answers": [
       "had known"
     ],
@@ -27327,7 +26942,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Tom said he'd be late, and he ___ (be).",
+    "sentence": "Lucas said he'd be late, and he ___ (be).",
     "answers": [
       "was"
     ],
@@ -27338,7 +26953,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna swore she would tell, but she never ___.",
+    "sentence": "Julia swore she would tell, but she never ___.",
     "answers": [
       "did"
     ],
@@ -27349,7 +26964,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna works harder than Tom ___.",
+    "sentence": "Sophie works harder than Henry ___.",
     "answers": [
       "does"
     ],
@@ -27426,7 +27041,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna sings better now than she ___ a year ago.",
+    "sentence": "Olivia sings better now than she ___ a year ago.",
     "answers": [
       "did"
     ],
@@ -27459,7 +27074,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "— Has Anna left already? — I think ___.",
+    "sentence": "— Has Charlotte left already? — I think ___.",
     "answers": [
       "so"
     ],
@@ -27525,7 +27140,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Anna has a wonderful voice, ___ she?",
+    "sentence": "Mia has a wonderful voice, ___ she?",
     "answers": [
       "doesn't"
     ],
@@ -27536,7 +27151,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Tom won't tell anyone, ___ he?",
+    "sentence": "Daniel won't tell anyone, ___ he?",
     "answers": [
       "will"
     ],
@@ -27591,7 +27206,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Tom can drive me there if necessary, but I'd rather he ___ (not).",
+    "sentence": "Ben can drive me there if necessary, but I'd rather he ___ (not).",
     "answers": [
       "didn't"
     ],
@@ -27635,7 +27250,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Although ___ (tired), Tom kept working until midnight.",
+    "sentence": "Although ___ (tired), Mike kept working until midnight.",
     "answers": [
       "tired"
     ],
@@ -27679,756 +27294,6 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "By the time I ___ (arrive), Anna ___ (already leave) and Tom ___ (wait) for me alone.",
-    "answers": [
-      "arrived",
-      "had already left",
-      "was waiting"
-    ],
-    "hints": [
-      "ARRIVE",
-      "ALREADY LEAVE",
-      "WAIT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When the police ___ (come), the thief ___ (already escape) and the witnesses ___ (still talk) about it.",
-    "answers": [
-      "came",
-      "had already escaped",
-      "were still talking"
-    ],
-    "hints": [
-      "COME",
-      "ALREADY ESCAPE",
-      "STILL TALK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Mum ___ (cook) dinner when Dad ___ (call) to say he ___ (already eat).",
-    "answers": [
-      "was cooking",
-      "called",
-      "had already eaten"
-    ],
-    "hints": [
-      "COOK",
-      "CALL",
-      "ALREADY EAT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (read) a book when his phone ___ (ring) — it ___ (be) Anna, who ___ (try) to reach him for hours.",
-    "answers": [
-      "was reading",
-      "rang",
-      "was",
-      "had been trying"
-    ],
-    "hints": [
-      "READ",
-      "RING",
-      "BE",
-      "TRY"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By 5 pm yesterday, I ___ (work) for ten hours straight, ___ (not eat) anything, and still ___ (try) to finish the report.",
-    "answers": [
-      "had worked",
-      "had not eaten",
-      "was trying"
-    ],
-    "hints": [
-      "WORK",
-      "NOT EAT",
-      "TRY"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When I ___ (return), the kids ___ (sleep) and Mum ___ (already clean) the kitchen.",
-    "answers": [
-      "returned",
-      "were sleeping",
-      "had already cleaned"
-    ],
-    "hints": [
-      "RETURN",
-      "SLEEP",
-      "ALREADY CLEAN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (cry) because she ___ (just hear) that her cat ___ (run) away.",
-    "answers": [
-      "was crying",
-      "had just heard",
-      "had run"
-    ],
-    "hints": [
-      "CRY",
-      "JUST HEAR",
-      "RUN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (paint) the wall when he ___ (realize) he ___ (forget) to buy more brushes.",
-    "answers": [
-      "was painting",
-      "realized",
-      "had forgotten"
-    ],
-    "hints": [
-      "PAINT",
-      "REALIZE",
-      "FORGET"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When the storm ___ (begin), we ___ (drive) home and ___ (already pass) the dangerous part of the road.",
-    "answers": [
-      "began",
-      "were driving",
-      "had already passed"
-    ],
-    "hints": [
-      "BEGIN",
-      "DRIVE",
-      "ALREADY PASS"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Mum ___ (sit) by the window, ___ (read) a letter that Dad ___ (write) the previous evening.",
-    "answers": [
-      "was sitting",
-      "reading",
-      "had written"
-    ],
-    "hints": [
-      "SIT",
-      "READ",
-      "WRITE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time the meeting ___ (end), we ___ (discuss) every issue and ___ (agree) on the next steps.",
-    "answers": [
-      "ended",
-      "had discussed",
-      "had agreed"
-    ],
-    "hints": [
-      "END",
-      "DISCUSS",
-      "AGREE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When Anna ___ (open) the door, the cat ___ (sleep) on the sofa where she ___ (leave) it.",
-    "answers": [
-      "opened",
-      "was sleeping",
-      "had left"
-    ],
-    "hints": [
-      "OPEN",
-      "SLEEP",
-      "LEAVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (study) for the exam all evening when his friend ___ (call) and ___ (suggest) going out.",
-    "answers": [
-      "had been studying",
-      "called",
-      "suggested"
-    ],
-    "hints": [
-      "STUDY",
-      "CALL",
-      "SUGGEST"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "While the kids ___ (play) outside, Mum ___ (prepare) lunch and Dad ___ (already finish) the gardening.",
-    "answers": [
-      "were playing",
-      "was preparing",
-      "had already finished"
-    ],
-    "hints": [
-      "PLAY",
-      "PREPARE",
-      "ALREADY FINISH"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (look) for my keys all morning when I ___ (remember) that I ___ (leave) them in the car.",
-    "answers": [
-      "had been looking",
-      "remembered",
-      "had left"
-    ],
-    "hints": [
-      "LOOK",
-      "REMEMBER",
-      "LEAVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (live) in Berlin since 2018 and ___ (love) every minute of it; she ___ (move) there for a job.",
-    "answers": [
-      "has lived",
-      "loves",
-      "moved"
-    ],
-    "hints": [
-      "LIVE",
-      "LOVE",
-      "MOVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (work) in finance for ten years before he ___ (decide) to retrain, and now he ___ (teach) full-time.",
-    "answers": [
-      "had worked",
-      "decided",
-      "teaches"
-    ],
-    "hints": [
-      "WORK",
-      "DECIDE",
-      "TEACH"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (just finish) the book that Mum ___ (give) me last Christmas — it ___ (be) excellent.",
-    "answers": [
-      "have just finished",
-      "gave",
-      "is"
-    ],
-    "hints": [
-      "JUST FINISH",
-      "GIVE",
-      "BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (study) medicine for six years now, but she ___ (not yet decide) which specialty she ___ (want).",
-    "answers": [
-      "has been studying",
-      "has not yet decided",
-      "wants"
-    ],
-    "hints": [
-      "STUDY",
-      "NOT YET DECIDE",
-      "WANT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (live) in three different countries since he ___ (graduate), and he ___ (currently look) for his fourth.",
-    "answers": [
-      "has lived",
-      "graduated",
-      "is currently looking"
-    ],
-    "hints": [
-      "LIVE",
-      "GRADUATE",
-      "CURRENTLY LOOK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Mum ___ (always say) that she ___ (regret) not learning piano when she ___ (be) a child.",
-    "answers": [
-      "has always said",
-      "regrets",
-      "was"
-    ],
-    "hints": [
-      "ALWAYS SAY",
-      "REGRET",
-      "BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (read) this novel three times, and every time I ___ (find) something new that ___ (impress) me.",
-    "answers": [
-      "have read",
-      "find",
-      "impresses"
-    ],
-    "hints": [
-      "READ",
-      "FIND",
-      "IMPRESS"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (just call) to say he ___ (run) late, but he ___ (be) on his way now.",
-    "answers": [
-      "has just called",
-      "is running",
-      "is"
-    ],
-    "hints": [
-      "JUST CALL",
-      "RUN",
-      "BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (live) here for years before she ___ (realize) that her neighbour ___ (be) a famous writer.",
-    "answers": [
-      "had lived",
-      "realized",
-      "was"
-    ],
-    "hints": [
-      "LIVE",
-      "REALIZE",
-      "BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Dad ___ (work) on his memoir for a year, and although he ___ (write) hundreds of pages, he ___ (still struggle) with the introduction.",
-    "answers": [
-      "has been working",
-      "has written",
-      "is still struggling"
-    ],
-    "hints": [
-      "WORK",
-      "WRITE",
-      "STILL STRUGGLE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By next year, Tom ___ (live) in this house for a decade, and by then he ___ (probably move) to a bigger one.",
-    "answers": [
-      "will have lived",
-      "will probably move"
-    ],
-    "hints": [
-      "LIVE",
-      "PROBABLY MOVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time you ___ (read) this, I ___ (already arrive) in Paris and ___ (settle) into the new flat.",
-    "answers": [
-      "read",
-      "will have already arrived",
-      "will have settled"
-    ],
-    "hints": [
-      "READ",
-      "ALREADY ARRIVE",
-      "SETTLE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When Anna ___ (graduate) next June, she ___ (study) medicine for six years and ___ (apply) to several hospitals already.",
-    "answers": [
-      "graduates",
-      "will have been studying",
-      "will have applied"
-    ],
-    "hints": [
-      "GRADUATE",
-      "STUDY",
-      "APPLY"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the end of this decade, technology ___ (change) so much that today's smartphones ___ (look) ancient.",
-    "answers": [
-      "will have changed",
-      "will look"
-    ],
-    "hints": [
-      "CHANGE",
-      "LOOK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time the renovations ___ (finish), we ___ (spend) twice the original budget and ___ (live) elsewhere for months.",
-    "answers": [
-      "are finished",
-      "will have spent",
-      "will have been living"
-    ],
-    "hints": [
-      "BE FINISHED",
-      "SPEND",
-      "LIVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (call) you as soon as the meeting ___ (end), assuming I ___ (not be) too exhausted by then.",
-    "answers": [
-      "will call",
-      "ends",
-      "am not"
-    ],
-    "hints": [
-      "CALL",
-      "END",
-      "NOT BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time Tom ___ (turn) thirty, he ___ (visit) every continent and ___ (already write) his second book.",
-    "answers": [
-      "turns",
-      "will have visited",
-      "will have already written"
-    ],
-    "hints": [
-      "TURN",
-      "VISIT",
-      "ALREADY WRITE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If everything ___ (go) as planned, by next month we ___ (sign) the contract and ___ (already start) the project.",
-    "answers": [
-      "goes",
-      "will have signed",
-      "will have already started"
-    ],
-    "hints": [
-      "GO",
-      "SIGN",
-      "ALREADY START"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When Mum ___ (retire) next year, she ___ (work) at the hospital for forty years and ___ (deliver) thousands of babies.",
-    "answers": [
-      "retires",
-      "will have worked",
-      "will have delivered"
-    ],
-    "hints": [
-      "RETIRE",
-      "WORK",
-      "DELIVER"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the end of the trip, I ___ (visit) twelve countries, ___ (take) over two thousand photos, and ___ (still want) more.",
-    "answers": [
-      "will have visited",
-      "will have taken",
-      "will still want"
-    ],
-    "hints": [
-      "VISIT",
-      "TAKE",
-      "STILL WANT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (tell) me she ___ (call) me as soon as she ___ (arrive) at the airport.",
-    "answers": [
-      "told",
-      "would call",
-      "arrived"
-    ],
-    "hints": [
-      "TELL",
-      "CALL",
-      "ARRIVE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (promise) he ___ (return) the book once he ___ (finish) it.",
-    "answers": [
-      "promised",
-      "would return",
-      "had finished"
-    ],
-    "hints": [
-      "PROMISE",
-      "RETURN",
-      "FINISH"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (think) Mum ___ (already leave) by the time we ___ (get) home.",
-    "answers": [
-      "thought",
-      "had already left",
-      "got"
-    ],
-    "hints": [
-      "THINK",
-      "ALREADY LEAVE",
-      "GET"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Dad ___ (say) he ___ (be) happy if we ___ (just visit) more often.",
-    "answers": [
-      "said",
-      "would be",
-      "just visited"
-    ],
-    "hints": [
-      "SAY",
-      "BE",
-      "JUST VISIT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "The teacher ___ (warn) us that anyone who ___ (not finish) the homework ___ (fail) the test.",
-    "answers": [
-      "warned",
-      "had not finished",
-      "would fail"
-    ],
-    "hints": [
-      "WARN",
-      "NOT FINISH",
-      "FAIL"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (admit) that she ___ (lie) to her parents and ___ (regret) it ever since.",
-    "answers": [
-      "admitted",
-      "had lied",
-      "had regretted"
-    ],
-    "hints": [
-      "ADMIT",
-      "LIE",
-      "REGRET"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (claim) that he ___ (never see) the document before, although clearly he ___ (sign) it.",
-    "answers": [
-      "claimed",
-      "had never seen",
-      "had signed"
-    ],
-    "hints": [
-      "CLAIM",
-      "NEVER SEE",
-      "SIGN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Mum ___ (insist) that we ___ (stay) for dinner and that she ___ (already prepare) something special.",
-    "answers": [
-      "insisted",
-      "stayed",
-      "had already prepared"
-    ],
-    "hints": [
-      "INSIST",
-      "STAY",
-      "ALREADY PREPARE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "I ___ (realize) that Tom ___ (deceive) us all and ___ (probably plan) it for months.",
-    "answers": [
-      "realized",
-      "had been deceiving",
-      "had probably been planning"
-    ],
-    "hints": [
-      "REALIZE",
-      "DECEIVE",
-      "PROBABLY PLAN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (explain) that she ___ (not know) what ___ (happen) and that she ___ (be) sorry.",
-    "answers": [
-      "explained",
-      "had not known",
-      "had happened",
-      "was"
-    ],
-    "hints": [
-      "EXPLAIN",
-      "NOT KNOW",
-      "HAPPEN",
-      "BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If Anna ___ (study) more last year, she ___ (be) at university now and ___ (not work) at the café.",
-    "answers": [
-      "had studied",
-      "would be",
-      "would not be working"
-    ],
-    "hints": [
-      "STUDY",
-      "BE",
-      "NOT WORK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If Tom ___ (not break) his ankle, he ___ (compete) in the championship and ___ (probably win).",
-    "answers": [
-      "had not broken",
-      "would have competed",
-      "would have probably won"
-    ],
-    "hints": [
-      "NOT BREAK",
-      "COMPETE",
-      "PROBABLY WIN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If we ___ (not move) to this city, we ___ (never meet) and our lives ___ (be) very different now.",
-    "answers": [
-      "had not moved",
-      "would never have met",
-      "would be"
-    ],
-    "hints": [
-      "NOT MOVE",
-      "NEVER MEET",
-      "BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna says that if she ___ (have) the chance, she ___ (study) abroad, but her parents ___ (not let) her.",
-    "answers": [
-      "had had",
-      "would have studied",
-      "had not let"
-    ],
-    "hints": [
-      "HAVE",
-      "STUDY",
-      "NOT LET"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If Dad ___ (listen) to his doctor years ago, he ___ (be) much healthier now and ___ (not need) all this medication.",
-    "answers": [
-      "had listened",
-      "would be",
-      "would not need"
-    ],
-    "hints": [
-      "LISTEN",
-      "BE",
-      "NOT NEED"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
     "sentence": "Listen! The birds ___ outside my window now.",
     "answers": [
       "are singing"
@@ -28462,7 +27327,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Look at Tom — he ___ over that wire any second!",
+    "sentence": "Look at Peter — he ___ over that wire any second!",
     "answers": [
       "is going to trip"
     ],
@@ -28473,7 +27338,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Anna and I ___ a yoga class together next Monday.",
+    "sentence": "Ava and I ___ a yoga class together next Monday.",
     "answers": [
       "are going to take"
     ],
@@ -28495,7 +27360,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Anna ___ Italian for two years and her accent is great now.",
+    "sentence": "Grace ___ Italian for two years and her accent is great now.",
     "answers": [
       "has been learning"
     ],
@@ -28519,7 +27384,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "If Tom ___ (be) more careful, he ___ (not lose) so many things.",
+    "sentence": "If Paul ___ (be) more careful, he ___ (not lose) so many things right now.",
     "answers": [
       "were",
       "wouldn't lose"
@@ -28558,7 +27423,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (have) wings, I ___ (fly) everywhere.",
+    "sentence": "If I ___ (have) wings, I ___ (fly) everywhere right now.",
     "answers": [
       "had",
       "would fly"
@@ -28595,7 +27460,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (not work) tomorrow — it's a public holiday.",
+    "sentence": "Ruby ___ (not work) tomorrow — it's a public holiday.",
     "answers": [
       "doesn't have to work"
     ],
@@ -28639,7 +27504,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Anna ___ (cook) very well — she trained as a chef.",
+    "sentence": "Chloe ___ (cook) very well — she trained as a chef.",
     "answers": [
       "can cook"
     ],
@@ -28672,7 +27537,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Tom ___ (work) on this project for ten months by January.",
+    "sentence": "David ___ (work) on this project for ten months by January.",
     "answers": [
       "will have been working"
     ],
@@ -28892,7 +27757,7 @@
     "formula": "Passive Voice"
   },
   {
-    "sentence": "Anna's painting ___ (just select) for the exhibition.",
+    "sentence": "Mary's painting ___ (just select) for the exhibition.",
     "answers": [
       "has just been selected"
     ],
@@ -28947,7 +27812,7 @@
     "formula": "Passive Voice"
   },
   {
-    "sentence": "Tom's bike ___ (steal) from outside the library yesterday.",
+    "sentence": "Theo's bike ___ (steal) from outside the library yesterday.",
     "answers": [
       "was stolen"
     ],
@@ -29050,7 +27915,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Tom ___ (not have) so much debt if he ___ (be) more careful with money.",
+    "sentence": "James ___ (not have) so much debt if he ___ (be) more careful with money.",
     "answers": [
       "wouldn't have",
       "were"
@@ -29155,7 +28020,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "If only Tom ___ (tell) the truth from the beginning!",
+    "sentence": "If only Noah ___ (tell) the truth from the beginning!",
     "answers": [
       "had told"
     ],
@@ -29201,7 +28066,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Anna wishes Tom ___ (text) her back faster.",
+    "sentence": "Sophia wishes Tom ___ (text) her back faster.",
     "answers": [
       "would text"
     ],
@@ -29223,7 +28088,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom hopes ___ (offer) the position by next week.",
+    "sentence": "Henry hopes ___ (offer) the position by next week.",
     "answers": [
       "to be offered"
     ],
@@ -29333,7 +28198,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Anna is sorry ___ (cause) you so much trouble yesterday.",
+    "sentence": "Mia is sorry ___ (cause) you so much trouble yesterday.",
     "answers": [
       "to have caused"
     ],
@@ -29377,7 +28242,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Anna avoids ___ (drive) at night whenever possible.",
+    "sentence": "Lily avoids ___ (drive) at night whenever possible.",
     "answers": [
       "driving"
     ],
@@ -29410,7 +28275,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Tom appears ___ (already finish) his presentation.",
+    "sentence": "Daniel appears ___ (already finish) his presentation.",
     "answers": [
       "to have already finished"
     ],
@@ -29421,7 +28286,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Anna admitted ___ (be) wrong about the whole situation.",
+    "sentence": "Ava admitted ___ (be) wrong about the whole situation.",
     "answers": [
       "having been"
     ],
@@ -29443,7 +28308,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "I ___ (meet) Tom at the airport at 7 pm tomorrow — it's all arranged.",
+    "sentence": "I ___ (meet) Oliver at the airport at 7 pm tomorrow — it's all arranged.",
     "answers": [
       "am meeting"
     ],
@@ -29465,7 +28330,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "Anna ___ (be about to) leave when the phone rang.",
+    "sentence": "Ruby ___ (be about to) leave when the phone rang.",
     "answers": [
       "was about to"
     ],
@@ -29520,7 +28385,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "By next summer, Anna ___ (live) in Berlin for two years.",
+    "sentence": "By next summer, Sarah ___ (live) in Berlin for two years.",
     "answers": [
       "will have been living"
     ],
@@ -29542,7 +28407,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "Don't worry — Tom ___ (look) after the kids tomorrow evening.",
+    "sentence": "Don't worry — Mark ___ (look) after the kids tomorrow evening.",
     "answers": [
       "will be looking"
     ],
@@ -29564,7 +28429,7 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "Tom resented ___ (overlook) for the lead role.",
+    "sentence": "Mike resented ___ (overlook) for the lead role.",
     "answers": [
       "having been overlooked"
     ],
@@ -29575,7 +28440,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Anna won the prize, and so ___ Tom — they were both delighted.",
+    "sentence": "Rachel won the prize, and so ___ Tom — they were both delighted.",
     "answers": [
       "did"
     ],
@@ -29597,7 +28462,324 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "By the time Anna ___ (arrive), Tom ___ (already prepare) dinner and the kids ___ (sleep) for an hour.",
+    "sentence": "I wish my younger brother ___ (stop) borrowing my clothes without asking.",
+    "answers": [
+      "would stop"
+    ],
+    "hints": [
+      "STOP"
+    ],
+    "level": "B2",
+    "formula": "Mixed & Third Conditionals / Wishes"
+  },
+  {
+    "sentence": "If only Anna ___ (accept) my apology last week, things would be normal now.",
+    "answers": [
+      "had accepted"
+    ],
+    "hints": [
+      "ACCEPT"
+    ],
+    "level": "B2",
+    "formula": "Mixed & Third Conditionals / Wishes"
+  },
+  {
+    "sentence": "He ___ (work) on the manuscript for three years before he ___ (show) it to anyone, and even now few people ___ (read) it.",
+    "answers": [
+      "had been working",
+      "showed",
+      "have read"
+    ],
+    "hints": [
+      "WORK",
+      "SHOW",
+      "READ"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Researchers ___ (study) this phenomenon since the early 2000s, when someone first ___ (notice) patterns that ___ (not document) before.",
+    "answers": [
+      "have been studying",
+      "noticed",
+      "had not been documented"
+    ],
+    "hints": [
+      "STUDY",
+      "NOTICE",
+      "NOT DOCUMENT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Next Monday, I ___ (present) my findings at the conference — the same findings I ___ (work on) all summer, ever since I ___ (return) from India.",
+    "answers": [
+      "will be presenting",
+      "have been working on",
+      "returned"
+    ],
+    "hints": [
+      "PRESENT",
+      "WORK ON",
+      "RETURN"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time the scandal ___ (expose), the officials ___ (already leave) the country, and investigators ___ (track) them for months.",
+    "answers": [
+      "was exposed",
+      "had already left",
+      "had been tracking"
+    ],
+    "hints": [
+      "EXPOSE",
+      "ALREADY LEAVE",
+      "TRACK"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (play) for my club for 15 years; I ___ (win) my first championship in 2009, and next month I ___ (retire).",
+    "answers": [
+      "have been playing",
+      "won",
+      "will retire"
+    ],
+    "hints": [
+      "PLAY",
+      "WIN",
+      "RETIRE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "While she ___ (finish) the report that she ___ (write) all night, her boss suddenly ___ (call) to say it ___ (not need) anymore.",
+    "answers": [
+      "was finishing",
+      "had been writing",
+      "called",
+      "wasn't needed"
+    ],
+    "hints": [
+      "FINISH",
+      "WRITE",
+      "CALL",
+      "NOT NEED"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "He ___ (tell) me yesterday that he ___ (lose) his job the week before and ___ (look) for a new one ever since.",
+    "answers": [
+      "told",
+      "had lost",
+      "had been looking"
+    ],
+    "hints": [
+      "TELL",
+      "LOSE",
+      "LOOK"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the end of this decade, we ___ (live) in this house for 30 years, and my children ___ (all grow up) and ___ (move) away.",
+    "answers": [
+      "will have been living",
+      "will have all grown up",
+      "moved"
+    ],
+    "hints": [
+      "LIVE",
+      "ALL GROW UP",
+      "MOVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The team ___ (train) for months before the match, but when the day ___ (come), the star player ___ (injure) his knee and ___ (miss) the game.",
+    "answers": [
+      "had been training",
+      "came",
+      "had injured",
+      "missed"
+    ],
+    "hints": [
+      "TRAIN",
+      "COME",
+      "INJURE",
+      "MISS"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When the police ___ (arrive), the suspect ___ (already flee), leaving behind evidence that ___ (hide) for years.",
+    "answers": [
+      "arrived",
+      "had already fled",
+      "had been hidden"
+    ],
+    "hints": [
+      "ARRIVE",
+      "ALREADY FLEE",
+      "HIDE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The scientist ___ (work) on the theory for decades; last year she ___ (publish) her findings, and now people ___ (discuss) them worldwide.",
+    "answers": [
+      "had been working",
+      "published",
+      "are discussing"
+    ],
+    "hints": [
+      "WORK",
+      "PUBLISH",
+      "DISCUSS"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "We ___ (walk) for an hour when we ___ (realise) we ___ (take) the wrong path, and by then it ___ (get) dark.",
+    "answers": [
+      "had been walking",
+      "realised",
+      "had taken",
+      "had got"
+    ],
+    "hints": [
+      "WALK",
+      "REALISE",
+      "TAKE",
+      "GET"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The artist ___ (paint) for hours when the light ___ (change) and ___ (ruin) everything she ___ (create) that morning.",
+    "answers": [
+      "had been painting",
+      "changed",
+      "ruined",
+      "had created"
+    ],
+    "hints": [
+      "PAINT",
+      "CHANGE",
+      "RUIN",
+      "CREATE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Nick ___ (read) a book when his phone ___ (ring) — it ___ (be) Mary, who ___ (try) to reach him for hours.",
+    "answers": [
+      "was reading",
+      "rang",
+      "was",
+      "had been trying"
+    ],
+    "hints": [
+      "READ",
+      "RING",
+      "BE",
+      "TRY"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Andrew ___ (study) for the exam all evening when his friend ___ (call) and ___ (suggest) going out.",
+    "answers": [
+      "had been studying",
+      "called",
+      "suggested"
+    ],
+    "hints": [
+      "STUDY",
+      "CALL",
+      "SUGGEST"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (look) for my keys all morning when I ___ (remember) that I ___ (leave) them in the car.",
+    "answers": [
+      "had been looking",
+      "remembered",
+      "had left"
+    ],
+    "hints": [
+      "LOOK",
+      "REMEMBER",
+      "LEAVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When Anna ___ (graduate) next June, she ___ (study) medicine for six years and ___ (apply) to several hospitals already.",
+    "answers": [
+      "graduates",
+      "will have been studying",
+      "will have applied"
+    ],
+    "hints": [
+      "GRADUATE",
+      "STUDY",
+      "APPLY"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time the renovations ___ (finish), we ___ (spend) twice the original budget and ___ (live) elsewhere for months.",
+    "answers": [
+      "are finished",
+      "will have spent",
+      "will have been living"
+    ],
+    "hints": [
+      "BE FINISHED",
+      "SPEND",
+      "LIVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (realize) that Tom ___ (deceive) us all and ___ (probably plan) it for months.",
+    "answers": [
+      "realized",
+      "had been deceiving",
+      "had probably been planning"
+    ],
+    "hints": [
+      "REALIZE",
+      "DECEIVE",
+      "PROBABLY PLAN"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time Anna ___ (arrive), Ryan ___ (already prepare) dinner and the kids ___ (sleep) for an hour.",
     "answers": [
       "arrived",
       "had already prepared",
@@ -29627,21 +28809,6 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Tom ___ (claim) he ___ (never see) the witness, although the cameras ___ (record) him there.",
-    "answers": [
-      "claimed",
-      "had never seen",
-      "had recorded"
-    ],
-    "hints": [
-      "CLAIM",
-      "NEVER SEE",
-      "RECORD"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
     "sentence": "By 2030, scientists ___ (study) this disease for fifty years and ___ (still not find) a cure.",
     "answers": [
       "will have been studying",
@@ -29655,67 +28822,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Anna ___ (work) abroad for years and now she ___ (consider) returning to the city where she ___ (grow up).",
-    "answers": [
-      "has worked",
-      "is considering",
-      "grew up"
-    ],
-    "hints": [
-      "WORK",
-      "CONSIDER",
-      "GROW UP"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When Mum ___ (call), I ___ (just leave) the office and ___ (walk) to the bus stop.",
-    "answers": [
-      "called",
-      "had just left",
-      "was walking"
-    ],
-    "hints": [
-      "CALL",
-      "JUST LEAVE",
-      "WALK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Dad ___ (insist) that he ___ (already pay) the bill, but the waiter ___ (still wait) for the money.",
-    "answers": [
-      "insisted",
-      "had already paid",
-      "was still waiting"
-    ],
-    "hints": [
-      "INSIST",
-      "ALREADY PAY",
-      "STILL WAIT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If Tom ___ (study) harder at school, he ___ (have) a degree by now and ___ (not work) at the warehouse.",
-    "answers": [
-      "had studied",
-      "would have",
-      "wouldn't be working"
-    ],
-    "hints": [
-      "STUDY",
-      "HAVE",
-      "NOT WORK"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (realize) that her boss ___ (lie) to her for months and ___ (still expect) her to trust him.",
+    "sentence": "Julia ___ (realize) that her boss ___ (lie) to her for months and ___ (still expect) her to trust him.",
     "answers": [
       "realized",
       "had been lying",
@@ -29725,36 +28832,6 @@
       "REALIZE",
       "LIE",
       "STILL EXPECT"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "By the time we ___ (reach) the summit, the sun ___ (already rise) and the wind ___ (begin) to die down.",
-    "answers": [
-      "reached",
-      "had already risen",
-      "had begun"
-    ],
-    "hints": [
-      "REACH",
-      "ALREADY RISE",
-      "BEGIN"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (mention) that Anna ___ (move) to Lisbon and that they ___ (not speak) since.",
-    "answers": [
-      "mentioned",
-      "had moved",
-      "had not spoken"
-    ],
-    "hints": [
-      "MENTION",
-      "MOVE",
-      "NOT SPEAK"
     ],
     "level": "C1",
     "formula": "Three+ Tenses in One Sentence"
@@ -29790,21 +28867,6 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Anna ___ (warn) us that the project ___ (fail) unless we ___ (change) our approach immediately.",
-    "answers": [
-      "warned",
-      "would fail",
-      "changed"
-    ],
-    "hints": [
-      "WARN",
-      "FAIL",
-      "CHANGE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
     "sentence": "Mum ___ (admit) she ___ (worry) about Dad ever since he ___ (start) his new medication.",
     "answers": [
       "admitted",
@@ -29820,22 +28882,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "By the time I ___ (turn) thirty next month, I ___ (live) in five countries and ___ (still not find) where I belong.",
-    "answers": [
-      "turn",
-      "will have lived",
-      "will still not have found"
-    ],
-    "hints": [
-      "TURN",
-      "LIVE",
-      "STILL NOT FIND"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Tom ___ (wonder) why Anna ___ (avoid) him for weeks and what he ___ (do) wrong.",
+    "sentence": "Adam ___ (wonder) why Sophie ___ (avoid) him for weeks and what he ___ (do) wrong.",
     "answers": [
       "wondered",
       "had been avoiding",
@@ -29850,22 +28897,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "If we ___ (not invest) in that company, we ___ (lose) less but ___ (also miss) the chance of a lifetime.",
-    "answers": [
-      "had not invested",
-      "would have lost",
-      "would have also missed"
-    ],
-    "hints": [
-      "NOT INVEST",
-      "LOSE",
-      "ALSO MISS"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "When Anna ___ (open) the letter, she ___ (realize) that it ___ (write) by someone she ___ (not see) for decades.",
+    "sentence": "When Hannah ___ (open) the letter, she ___ (realize) that it ___ (write) by someone she ___ (not see) for decades.",
     "answers": [
       "opened",
       "realized",
@@ -29882,7 +28914,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Tom ___ (sit) at his desk for hours when his colleague ___ (suggest) a coffee break, which he ___ (gladly accept).",
+    "sentence": "Leo ___ (sit) at his desk for hours when his colleague ___ (suggest) a coffee break, which he ___ (gladly accept).",
     "answers": [
       "had been sitting",
       "suggested",
@@ -29912,51 +28944,6 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "By the time the verdict ___ (come), the trial ___ (last) for months and everyone ___ (lose) faith in the system.",
-    "answers": [
-      "came",
-      "had lasted",
-      "had lost"
-    ],
-    "hints": [
-      "COME",
-      "LAST",
-      "LOSE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "Anna ___ (explain) that her brother ___ (live) with her temporarily because he ___ (just lose) his job.",
-    "answers": [
-      "explained",
-      "was living",
-      "had just lost"
-    ],
-    "hints": [
-      "EXPLAIN",
-      "LIVE",
-      "JUST LOSE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
-    "sentence": "If Tom ___ (apologise) when he had the chance, Anna ___ (forgive) him and they ___ (still be) together now.",
-    "answers": [
-      "had apologised",
-      "would have forgiven",
-      "would still be"
-    ],
-    "hints": [
-      "APOLOGISE",
-      "FORGIVE",
-      "STILL BE"
-    ],
-    "level": "C1",
-    "formula": "Three+ Tenses in One Sentence"
-  },
-  {
     "sentence": "Dad ___ (mention) that the weather ___ (get) worse all week and ___ (warn) us to drive carefully.",
     "answers": [
       "mentioned",
@@ -29972,25 +28959,1018 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "I wish my younger brother ___ (stop) borrowing my clothes without asking.",
+    "sentence": "She ___ (work) here since April. She ___ (move) here after her husband ___ (die).",
     "answers": [
-      "would stop"
+      "has been working",
+      "moved",
+      "had died"
     ],
     "hints": [
-      "STOP"
+      "WORK",
+      "MOVE",
+      "DIE"
     ],
-    "level": "B2",
-    "formula": "Mixed & Third Conditionals / Wishes"
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "If only Anna ___ (accept) my apology last week, things would be normal now.",
+    "sentence": "By the time he ___ (retire), he ___ (serve) the company for forty years, ever since he ___ (graduate) from university.",
     "answers": [
-      "had accepted"
+      "retires",
+      "will have served",
+      "graduated"
     ],
     "hints": [
-      "ACCEPT"
+      "RETIRE",
+      "SERVE",
+      "GRADUATE"
     ],
-    "level": "B2",
-    "formula": "Mixed & Third Conditionals / Wishes"
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "As soon as I ___ (leave) the house, I ___ (see) him — he ___ (stand) at the corner and ___ (wait) for a bus.",
+    "answers": [
+      "left",
+      "saw",
+      "was standing",
+      "waiting"
+    ],
+    "hints": [
+      "LEAVE",
+      "SEE",
+      "STAND",
+      "WAIT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The building ___ (stand) here since 1820, and by next year it ___ (survive) two world wars and countless economic crises.",
+    "answers": [
+      "has stood",
+      "will have survived"
+    ],
+    "hints": [
+      "STAND",
+      "SURVIVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When we ___ (arrive), the concert ___ (already start), and the musicians ___ (play) Mozart's Requiem.",
+    "answers": [
+      "arrived",
+      "had already started",
+      "were playing"
+    ],
+    "hints": [
+      "ARRIVE",
+      "ALREADY START",
+      "PLAY"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (cook) dinner when my son ___ (come) home, announcing that he ___ (get) into Harvard.",
+    "answers": [
+      "was cooking",
+      "came",
+      "had got"
+    ],
+    "hints": [
+      "COOK",
+      "COME",
+      "GET"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "She ___ (always want) to be a doctor, and now that she ___ (graduate) from medical school, she finally ___ (start) her career next month.",
+    "answers": [
+      "had always wanted",
+      "has graduated",
+      "will start"
+    ],
+    "hints": [
+      "ALWAYS WANT",
+      "GRADUATE",
+      "START"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time you ___ (read) this letter, I ___ (already leave) the country, and perhaps ___ (never return).",
+    "answers": [
+      "read",
+      "will have already left",
+      "will never return"
+    ],
+    "hints": [
+      "READ",
+      "ALREADY LEAVE",
+      "NEVER RETURN"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (just finish) breakfast when my phone ___ (ring); it ___ (be) my boss, asking why I ___ (not arrive) at work yet.",
+    "answers": [
+      "had just finished",
+      "rang",
+      "was",
+      "hadn't arrived"
+    ],
+    "hints": [
+      "JUST FINISH",
+      "RING",
+      "BE",
+      "NOT ARRIVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "He ___ (claim) he ___ (see) a ghost in the old house, but his friends ___ (never believe) him.",
+    "answers": [
+      "claimed",
+      "had seen",
+      "have never believed"
+    ],
+    "hints": [
+      "CLAIM",
+      "SEE",
+      "NEVER BELIEVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "While critics ___ (debate) the film's meaning, audiences ___ (already decide) they love it, and it ___ (break) box office records next week.",
+    "answers": [
+      "are debating",
+      "have already decided",
+      "will break"
+    ],
+    "hints": [
+      "DEBATE",
+      "ALREADY DECIDE",
+      "BREAK"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (live) here all my life, but until last year I ___ (never notice) the little café that ___ (open) on the corner in 1952.",
+    "answers": [
+      "have lived",
+      "had never noticed",
+      "had opened"
+    ],
+    "hints": [
+      "LIVE",
+      "NEVER NOTICE",
+      "OPEN"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time I ___ (arrive), Anna ___ (already leave) and Tom ___ (wait) for me alone.",
+    "answers": [
+      "arrived",
+      "had already left",
+      "was waiting"
+    ],
+    "hints": [
+      "ARRIVE",
+      "ALREADY LEAVE",
+      "WAIT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When the police ___ (come), the thief ___ (already escape) and the witnesses ___ (still talk) about it.",
+    "answers": [
+      "came",
+      "had already escaped",
+      "were still talking"
+    ],
+    "hints": [
+      "COME",
+      "ALREADY ESCAPE",
+      "STILL TALK"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Mum ___ (cook) dinner when Dad ___ (call) to say he ___ (already eat).",
+    "answers": [
+      "was cooking",
+      "called",
+      "had already eaten"
+    ],
+    "hints": [
+      "COOK",
+      "CALL",
+      "ALREADY EAT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By 5 pm yesterday, I ___ (work) for ten hours straight, ___ (not eat) anything, and still ___ (try) to finish the report.",
+    "answers": [
+      "had worked",
+      "had not eaten",
+      "was trying"
+    ],
+    "hints": [
+      "WORK",
+      "NOT EAT",
+      "TRY"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When I ___ (return), the kids ___ (sleep) and Mum ___ (already clean) the kitchen.",
+    "answers": [
+      "returned",
+      "were sleeping",
+      "had already cleaned"
+    ],
+    "hints": [
+      "RETURN",
+      "SLEEP",
+      "ALREADY CLEAN"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Olivia ___ (cry) because she ___ (just hear) that her cat ___ (run) away.",
+    "answers": [
+      "was crying",
+      "had just heard",
+      "had run"
+    ],
+    "hints": [
+      "CRY",
+      "JUST HEAR",
+      "RUN"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Liam ___ (paint) the wall when he ___ (realize) he ___ (forget) to buy more brushes.",
+    "answers": [
+      "was painting",
+      "realized",
+      "had forgotten"
+    ],
+    "hints": [
+      "PAINT",
+      "REALIZE",
+      "FORGET"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When the storm ___ (begin), we ___ (drive) home and ___ (already pass) the dangerous part of the road.",
+    "answers": [
+      "began",
+      "were driving",
+      "had already passed"
+    ],
+    "hints": [
+      "BEGIN",
+      "DRIVE",
+      "ALREADY PASS"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Mum ___ (sit) by the window, ___ (read) a letter that Dad ___ (write) the previous evening.",
+    "answers": [
+      "was sitting",
+      "reading",
+      "had written"
+    ],
+    "hints": [
+      "SIT",
+      "READ",
+      "WRITE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time the meeting ___ (end), we ___ (discuss) every issue and ___ (agree) on the next steps.",
+    "answers": [
+      "ended",
+      "had discussed",
+      "had agreed"
+    ],
+    "hints": [
+      "END",
+      "DISCUSS",
+      "AGREE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When Anna ___ (open) the door, the cat ___ (sleep) on the sofa where she ___ (leave) it.",
+    "answers": [
+      "opened",
+      "was sleeping",
+      "had left"
+    ],
+    "hints": [
+      "OPEN",
+      "SLEEP",
+      "LEAVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "While the kids ___ (play) outside, Mum ___ (prepare) lunch and Dad ___ (already finish) the gardening.",
+    "answers": [
+      "were playing",
+      "was preparing",
+      "had already finished"
+    ],
+    "hints": [
+      "PLAY",
+      "PREPARE",
+      "ALREADY FINISH"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Charlotte ___ (live) in Berlin since 2018 and ___ (love) every minute of it; she ___ (move) there for a job.",
+    "answers": [
+      "has lived",
+      "loves",
+      "moved"
+    ],
+    "hints": [
+      "LIVE",
+      "LOVE",
+      "MOVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Tom ___ (work) in finance for ten years before he ___ (decide) to retrain, and now he ___ (teach) full-time.",
+    "answers": [
+      "had worked",
+      "decided",
+      "teaches"
+    ],
+    "hints": [
+      "WORK",
+      "DECIDE",
+      "TEACH"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (just finish) the book that Mum ___ (give) me last Christmas — it ___ (be) excellent.",
+    "answers": [
+      "have just finished",
+      "gave",
+      "is"
+    ],
+    "hints": [
+      "JUST FINISH",
+      "GIVE",
+      "BE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Anna ___ (study) medicine for six years now, but she ___ (not yet decide) which specialty she ___ (want).",
+    "answers": [
+      "has been studying",
+      "has not yet decided",
+      "wants"
+    ],
+    "hints": [
+      "STUDY",
+      "NOT YET DECIDE",
+      "WANT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Tom ___ (live) in three different countries since he ___ (graduate), and he ___ (currently look) for his fourth.",
+    "answers": [
+      "has lived",
+      "graduated",
+      "is currently looking"
+    ],
+    "hints": [
+      "LIVE",
+      "GRADUATE",
+      "CURRENTLY LOOK"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Mum ___ (always say) that she ___ (regret) not learning piano when she ___ (be) a child.",
+    "answers": [
+      "has always said",
+      "regrets",
+      "was"
+    ],
+    "hints": [
+      "ALWAYS SAY",
+      "REGRET",
+      "BE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "I ___ (read) this novel three times, and every time I ___ (find) something new that ___ (impress) me.",
+    "answers": [
+      "have read",
+      "find",
+      "impresses"
+    ],
+    "hints": [
+      "READ",
+      "FIND",
+      "IMPRESS"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "James ___ (just call) to say he ___ (run) late, but he ___ (be) on his way now.",
+    "answers": [
+      "has just called",
+      "is running",
+      "is"
+    ],
+    "hints": [
+      "JUST CALL",
+      "RUN",
+      "BE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Sophia ___ (live) here for years before she ___ (realize) that her neighbour ___ (be) a famous writer.",
+    "answers": [
+      "had lived",
+      "realized",
+      "was"
+    ],
+    "hints": [
+      "LIVE",
+      "REALIZE",
+      "BE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Dad ___ (work) on his memoir for a year, and although he ___ (write) hundreds of pages, he ___ (still struggle) with the introduction.",
+    "answers": [
+      "has been working",
+      "has written",
+      "is still struggling"
+    ],
+    "hints": [
+      "WORK",
+      "WRITE",
+      "STILL STRUGGLE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By next year, Noah ___ (live) in this house for a decade, and by then he ___ (probably move) to a bigger one.",
+    "answers": [
+      "will have lived",
+      "will probably move"
+    ],
+    "hints": [
+      "LIVE",
+      "PROBABLY MOVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time you ___ (read) this, I ___ (already arrive) in Paris and ___ (settle) into the new flat.",
+    "answers": [
+      "read",
+      "will have already arrived",
+      "will have settled"
+    ],
+    "hints": [
+      "READ",
+      "ALREADY ARRIVE",
+      "SETTLE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time the firefighters ___ (arrive), the building ___ (already destroy) and the residents ___ (still wait) outside.",
+    "answers": [
+      "arrived",
+      "had already been destroyed",
+      "were still waiting"
+    ],
+    "hints": [
+      "ARRIVE",
+      "ALREADY DESTROY",
+      "STILL WAIT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When Olivia ___ (open) the parcel, she ___ (realize) that it ___ (already damage) during transport.",
+    "answers": [
+      "opened",
+      "realized",
+      "had already been damaged"
+    ],
+    "hints": [
+      "OPEN",
+      "REALIZE",
+      "ALREADY DAMAGE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "James ___ (cook) dinner when he ___ (notice) that the kitchen window ___ (recently repair).",
+    "answers": [
+      "was cooking",
+      "noticed",
+      "had recently been repaired"
+    ],
+    "hints": [
+      "COOK",
+      "NOTICE",
+      "RECENTLY REPAIR"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time we ___ (return) home, our flat ___ (already burgle) and the police ___ (still investigate).",
+    "answers": [
+      "returned",
+      "had already been burgled",
+      "were still investigating"
+    ],
+    "hints": [
+      "RETURN",
+      "ALREADY BURGLE",
+      "STILL INVESTIGATE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Sophia ___ (look) at the photographs that ___ (take) at the wedding while she ___ (drink) her coffee.",
+    "answers": [
+      "was looking",
+      "had been taken",
+      "was drinking"
+    ],
+    "hints": [
+      "LOOK",
+      "TAKE",
+      "DRINK"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When the meeting finally ___ (start), the proposal ___ (already reject) and most managers ___ (leave).",
+    "answers": [
+      "started",
+      "had already been rejected",
+      "had left"
+    ],
+    "hints": [
+      "START",
+      "ALREADY REJECT",
+      "LEAVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The athlete ___ (train) hard for years before he ___ (select) for the Olympic team.",
+    "answers": [
+      "had been training",
+      "was selected"
+    ],
+    "hints": [
+      "TRAIN",
+      "SELECT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Liam ___ (sit) in the waiting room when he ___ (tell) that his appointment ___ (already cancel).",
+    "answers": [
+      "was sitting",
+      "was told",
+      "had already been cancelled"
+    ],
+    "hints": [
+      "SIT",
+      "TELL",
+      "ALREADY CANCEL"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The bridge ___ (just complete), and although it ___ (cost) millions, traffic now ___ (flow) smoothly across it.",
+    "answers": [
+      "has just been completed",
+      "cost",
+      "flows"
+    ],
+    "hints": [
+      "JUST COMPLETE",
+      "COST",
+      "FLOW"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Charlotte's novel ___ (translate) into twelve languages so far, and the latest edition ___ (publish) last month.",
+    "answers": [
+      "has been translated",
+      "was published"
+    ],
+    "hints": [
+      "TRANSLATE",
+      "PUBLISH"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The rules ___ (recently change), and many employees ___ (complain) since the announcement ___ (be made).",
+    "answers": [
+      "have recently been changed",
+      "have been complaining",
+      "was made"
+    ],
+    "hints": [
+      "RECENTLY CHANGE",
+      "COMPLAIN",
+      "BE MADE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Three suspects ___ (already arrest), but the missing money ___ (still not find).",
+    "answers": [
+      "have already been arrested",
+      "has still not been found"
+    ],
+    "hints": [
+      "ALREADY ARREST",
+      "STILL NOT FIND"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Noah ___ (just promote) at work, although the official announcement ___ (only make) yesterday.",
+    "answers": [
+      "has just been promoted",
+      "was only made"
+    ],
+    "hints": [
+      "JUST PROMOTE",
+      "ONLY MAKE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The patient ___ (already discharge) from hospital, and right now she ___ (recover) at home with her family.",
+    "answers": [
+      "has already been discharged",
+      "is recovering"
+    ],
+    "hints": [
+      "ALREADY DISCHARGE",
+      "RECOVER"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "All the candidates ___ (already interview), and the best one ___ (offer) the position last Friday.",
+    "answers": [
+      "have already been interviewed",
+      "was offered"
+    ],
+    "hints": [
+      "ALREADY INTERVIEW",
+      "OFFER"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By next summer, the new museum ___ (complete), and visitors ___ (be) able to see paintings that ___ (donate) by local artists.",
+    "answers": [
+      "will have been completed",
+      "will be",
+      "were donated"
+    ],
+    "hints": [
+      "COMPLETE",
+      "BE",
+      "DONATE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By 2030, the cure ___ (probably develop), although researchers ___ (start) the project as far back as 2010.",
+    "answers": [
+      "will probably have been developed",
+      "started"
+    ],
+    "hints": [
+      "PROBABLY DEVELOP",
+      "START"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time you ___ (read) this, the contract ___ (already sign), and we ___ (celebrate) the deal at the office.",
+    "answers": [
+      "read",
+      "will already have been signed",
+      "will be celebrating"
+    ],
+    "hints": [
+      "READ",
+      "ALREADY SIGN",
+      "CELEBRATE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By Friday the report ___ (submit) to the board, even though half the data ___ (only collect) this morning.",
+    "answers": [
+      "will have been submitted",
+      "was only collected"
+    ],
+    "hints": [
+      "SUBMIT",
+      "ONLY COLLECT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By next month, the road ___ (finally repair), and drivers ___ (no longer complain) about the traffic that ___ (cause) so many problems.",
+    "answers": [
+      "will finally have been repaired",
+      "will no longer be complaining",
+      "has caused"
+    ],
+    "hints": [
+      "FINALLY REPAIR",
+      "NO LONGER COMPLAIN",
+      "CAUSE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the end of the year, the proposal ___ (review) by every committee, even though it ___ (only draft) last week.",
+    "answers": [
+      "will have been reviewed",
+      "was only drafted"
+    ],
+    "hints": [
+      "REVIEW",
+      "ONLY DRAFT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Emma ___ (realize) that her car ___ (steal) while she ___ (have) lunch in the café.",
+    "answers": [
+      "realized",
+      "had been stolen",
+      "was having"
+    ],
+    "hints": [
+      "REALIZE",
+      "STEAL",
+      "HAVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The package ___ (deliver) yesterday, but it ___ (already open) by the time I ___ (get) home.",
+    "answers": [
+      "was delivered",
+      "had already been opened",
+      "got"
+    ],
+    "hints": [
+      "DELIVER",
+      "ALREADY OPEN",
+      "GET"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Lucas ___ (claim) that he ___ (mistreat) at his previous job and that nothing ___ (do) to protect him.",
+    "answers": [
+      "claimed",
+      "had been mistreated",
+      "had been done"
+    ],
+    "hints": [
+      "CLAIM",
+      "MISTREAT",
+      "DO"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "When the journalist ___ (publish) the article, several officials ___ (already question), although no charges ___ (yet bring).",
+    "answers": [
+      "published",
+      "had already been questioned",
+      "had yet been brought"
+    ],
+    "hints": [
+      "PUBLISH",
+      "ALREADY QUESTION",
+      "YET BRING"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The painting ___ (just authenticate) when an expert ___ (announce) that it ___ (actually paint) by a student of the master.",
+    "answers": [
+      "had just been authenticated",
+      "announced",
+      "had actually been painted"
+    ],
+    "hints": [
+      "JUST AUTHENTICATE",
+      "ANNOUNCE",
+      "ACTUALLY PAINT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By the time Isabella ___ (graduate), she ___ (offer) three different scholarships, but she ___ (already accept) one in Paris.",
+    "answers": [
+      "graduated",
+      "had been offered",
+      "had already accepted"
+    ],
+    "hints": [
+      "GRADUATE",
+      "OFFER",
+      "ALREADY ACCEPT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Henry ___ (warn) several times before the safety equipment ___ (finally install), and now everyone ___ (feel) much safer at work.",
+    "answers": [
+      "had been warned",
+      "was finally installed",
+      "feels"
+    ],
+    "hints": [
+      "WARN",
+      "FINALLY INSTALL",
+      "FEEL"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The students ___ (still wait) for their results when an email ___ (arrive) saying the exam ___ (cancel) due to a security breach.",
+    "answers": [
+      "were still waiting",
+      "arrived",
+      "had been cancelled"
+    ],
+    "hints": [
+      "STILL WAIT",
+      "ARRIVE",
+      "CANCEL"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Mia ___ (notice) that the document ___ (translate) incorrectly, although it ___ (already approve) by the legal department.",
+    "answers": [
+      "noticed",
+      "had been translated",
+      "had already been approved"
+    ],
+    "hints": [
+      "NOTICE",
+      "TRANSLATE",
+      "ALREADY APPROVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "The decision ___ (already make) by the time we ___ (arrive) at the meeting, but no one ___ (inform) us.",
+    "answers": [
+      "had already been made",
+      "arrived",
+      "had informed"
+    ],
+    "hints": [
+      "ALREADY MAKE",
+      "ARRIVE",
+      "INFORM"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "Sebastian ___ (work) on the project for months when he ___ (tell) that the funding ___ (cut).",
+    "answers": [
+      "had been working",
+      "was told",
+      "had been cut"
+    ],
+    "hints": [
+      "WORK",
+      "TELL",
+      "CUT"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "By next year, the new policies ___ (implement), but many of the older ones ___ (already remove) last summer.",
+    "answers": [
+      "will have been implemented",
+      "were already removed"
+    ],
+    "hints": [
+      "IMPLEMENT",
+      "ALREADY REMOVE"
+    ],
+    "level": "C1",
+    "formula": "Three+ Tenses in One Sentence"
   }
 ]
