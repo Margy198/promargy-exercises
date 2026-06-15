@@ -503,7 +503,6 @@
       "have"
     ],
     "hints": [
-      "",
       "HAVE"
     ],
     "level": "A1",
@@ -516,7 +515,6 @@
       "live"
     ],
     "hints": [
-      "",
       "LIVE"
     ],
     "level": "A1",
@@ -529,7 +527,6 @@
       "get"
     ],
     "hints": [
-      "",
       "GET UP"
     ],
     "level": "A1",
@@ -542,7 +539,6 @@
       "work"
     ],
     "hints": [
-      "",
       "WORK"
     ],
     "level": "A1",
@@ -555,7 +551,6 @@
       "eat"
     ],
     "hints": [
-      "",
       "EAT"
     ],
     "level": "A1",
@@ -1063,7 +1058,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -1076,7 +1070,6 @@
       "crying"
     ],
     "hints": [
-      "",
       "CRY"
     ],
     "level": "A1",
@@ -1089,7 +1082,6 @@
       "going"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -1102,7 +1094,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -1115,7 +1106,6 @@
       "working"
     ],
     "hints": [
-      "",
       "WORK"
     ],
     "level": "A1",
@@ -1636,7 +1626,6 @@
       "go"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -1649,7 +1638,6 @@
       "eat"
     ],
     "hints": [
-      "",
       "EAT"
     ],
     "level": "A1",
@@ -1662,7 +1650,6 @@
       "come"
     ],
     "hints": [
-      "",
       "COME"
     ],
     "level": "A1",
@@ -1675,7 +1662,6 @@
       "see"
     ],
     "hints": [
-      "",
       "SEE"
     ],
     "level": "A1",
@@ -2183,7 +2169,6 @@
       "help"
     ],
     "hints": [
-      "",
       "HELP"
     ],
     "level": "A1",
@@ -2196,7 +2181,6 @@
       "come"
     ],
     "hints": [
-      "",
       "COME"
     ],
     "level": "A1",
@@ -2209,7 +2193,6 @@
       "go"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -2222,7 +2205,6 @@
       "rain"
     ],
     "hints": [
-      "",
       "RAIN"
     ],
     "level": "A1",
@@ -2235,7 +2217,6 @@
       "do"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -2523,7 +2504,6 @@
       "met"
     ],
     "hints": [
-      "",
       "MEET"
     ],
     "level": "A2",
@@ -2536,7 +2516,6 @@
       "come back"
     ],
     "hints": [
-      "",
       "COME BACK"
     ],
     "level": "A2",
@@ -2549,7 +2528,6 @@
       "done"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A2",
@@ -2562,7 +2540,6 @@
       "arrived"
     ],
     "hints": [
-      "",
       "ARRIVE"
     ],
     "level": "A2",
@@ -2575,7 +2552,6 @@
       "heard"
     ],
     "hints": [
-      "",
       "HEAR"
     ],
     "level": "A2",
@@ -2588,7 +2564,6 @@
       "been"
     ],
     "hints": [
-      "",
       "BE"
     ],
     "level": "A2",
@@ -2601,7 +2576,6 @@
       "seen"
     ],
     "hints": [
-      "",
       "SEE"
     ],
     "level": "A2",
@@ -2614,7 +2588,6 @@
       "eaten"
     ],
     "hints": [
-      "",
       "EAT"
     ],
     "level": "A2",
@@ -2627,7 +2600,6 @@
       "flown"
     ],
     "hints": [
-      "",
       "FLY"
     ],
     "level": "A2",
@@ -2640,7 +2612,6 @@
       "been"
     ],
     "hints": [
-      "",
       "BE"
     ],
     "level": "A2",
@@ -2653,7 +2624,6 @@
       "ridden"
     ],
     "hints": [
-      "",
       "RIDE"
     ],
     "level": "A2",
@@ -2666,7 +2636,6 @@
       "won"
     ],
     "hints": [
-      "",
       "WIN"
     ],
     "level": "A2",
@@ -2679,7 +2648,6 @@
       "met"
     ],
     "hints": [
-      "",
       "MEET"
     ],
     "level": "A2",
@@ -3311,7 +3279,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A2",
@@ -3324,7 +3291,6 @@
       "crying"
     ],
     "hints": [
-      "",
       "CRY"
     ],
     "level": "A2",
@@ -3337,7 +3303,6 @@
       "going"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A2",
@@ -3350,7 +3315,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A2",
@@ -3363,7 +3327,6 @@
       "talking"
     ],
     "hints": [
-      "",
       "TALK"
     ],
     "level": "A2",
@@ -3376,7 +3339,6 @@
       "driving"
     ],
     "hints": [
-      "",
       "DRIVE"
     ],
     "level": "A2",
@@ -3389,7 +3351,6 @@
       "shouting"
     ],
     "hints": [
-      "",
       "SHOUT"
     ],
     "level": "A2",
@@ -3875,7 +3836,6 @@
       "going to do"
     ],
     "hints": [
-      "",
       "GOING TO DO"
     ],
     "level": "A2",
@@ -3888,7 +3848,6 @@
       "going to go"
     ],
     "hints": [
-      "",
       "GOING TO GO"
     ],
     "level": "A2",
@@ -3901,7 +3860,6 @@
       "going to start"
     ],
     "hints": [
-      "",
       "GOING TO START"
     ],
     "level": "A2",
@@ -3914,7 +3872,6 @@
       "going to save"
     ],
     "hints": [
-      "",
       "GOING TO SAVE"
     ],
     "level": "A2",
@@ -3927,7 +3884,6 @@
       "going to attend"
     ],
     "hints": [
-      "",
       "GOING TO ATTEND"
     ],
     "level": "A2",
@@ -3951,7 +3907,6 @@
       "going to arrive"
     ],
     "hints": [
-      "",
       "GOING TO ARRIVE"
     ],
     "level": "A2",
@@ -4272,7 +4227,6 @@
       "been doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "B1",
@@ -4450,7 +4404,6 @@
       "been waiting"
     ],
     "hints": [
-      "",
       "WAIT"
     ],
     "level": "B1",
@@ -4463,7 +4416,6 @@
       "been dating"
     ],
     "hints": [
-      "",
       "DATE"
     ],
     "level": "B1",
@@ -4476,7 +4428,6 @@
       "been working"
     ],
     "hints": [
-      "",
       "WORK"
     ],
     "level": "B1",
@@ -4489,7 +4440,6 @@
       "been raining"
     ],
     "hints": [
-      "",
       "RAIN"
     ],
     "level": "B1",
@@ -4634,7 +4584,6 @@
       "lived"
     ],
     "hints": [
-      "",
       "LIVE"
     ],
     "level": "B1",
@@ -5193,7 +5142,6 @@
       "started"
     ],
     "hints": [
-      "",
       "START"
     ],
     "level": "B1",
@@ -5453,7 +5401,6 @@
       "rang"
     ],
     "hints": [
-      "",
       "RING"
     ],
     "level": "B1",
@@ -5777,7 +5724,6 @@
       "feel"
     ],
     "hints": [
-      "",
       "FEEL"
     ],
     "level": "B1",
@@ -5881,7 +5827,6 @@
       "is"
     ],
     "hints": [
-      "",
       "BE"
     ],
     "level": "B1",
@@ -6037,7 +5982,6 @@
       "would learn"
     ],
     "hints": [
-      "",
       "LEARN"
     ],
     "level": "B1",
@@ -6223,7 +6167,6 @@
       "would get"
     ],
     "hints": [
-      "",
       "GET"
     ],
     "level": "B1",
@@ -6262,7 +6205,6 @@
       "would succeed"
     ],
     "hints": [
-      "",
       "SUCCEED"
     ],
     "level": "B1",
@@ -7847,7 +7789,6 @@
       "have found"
     ],
     "hints": [
-      "",
       "FIND"
     ],
     "level": "B2",
@@ -9563,7 +9504,6 @@
       "hadn't taken"
     ],
     "hints": [
-      "",
       "NOT TAKE"
     ],
     "level": "B2",
@@ -13239,7 +13179,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "C1",
@@ -13296,7 +13235,6 @@
       "begin"
     ],
     "hints": [
-      "",
       "BEGIN"
     ],
     "level": "C1",
@@ -13353,7 +13291,6 @@
       "be using"
     ],
     "hints": [
-      "",
       "USE"
     ],
     "level": "C1",
@@ -13388,7 +13325,6 @@
       "be passing"
     ],
     "hints": [
-      "",
       "PASS"
     ],
     "level": "C1",
@@ -13478,7 +13414,6 @@
       "have developed"
     ],
     "hints": [
-      "",
       "DEVELOP"
     ],
     "level": "C1",
@@ -13513,7 +13448,6 @@
       "have landed"
     ],
     "hints": [
-      "",
       "LAND"
     ],
     "level": "C1",
@@ -15066,7 +15000,6 @@
       "come"
     ],
     "hints": [
-      "",
       "COME"
     ],
     "level": "A1",
@@ -15079,7 +15012,6 @@
       "go"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -15092,7 +15024,6 @@
       "live"
     ],
     "hints": [
-      "",
       "LIVE"
     ],
     "level": "A1",
@@ -15105,7 +15036,6 @@
       "do"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -15591,7 +15521,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -15604,7 +15533,6 @@
       "going"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -15617,7 +15545,6 @@
       "shouting"
     ],
     "hints": [
-      "",
       "SHOUT"
     ],
     "level": "A1",
@@ -15641,7 +15568,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -15654,7 +15580,6 @@
       "raining"
     ],
     "hints": [
-      "",
       "RAIN"
     ],
     "level": "A1",
@@ -15667,7 +15592,6 @@
       "crying"
     ],
     "hints": [
-      "",
       "CRY"
     ],
     "level": "A1",
@@ -16164,7 +16088,6 @@
       "go"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -16177,7 +16100,6 @@
       "have"
     ],
     "hints": [
-      "",
       "HAVE"
     ],
     "level": "A1",
@@ -16190,7 +16112,6 @@
       "return"
     ],
     "hints": [
-      "",
       "RETURN"
     ],
     "level": "A1",
@@ -16203,7 +16124,6 @@
       "see"
     ],
     "hints": [
-      "",
       "SEE"
     ],
     "level": "A1",
@@ -16216,7 +16136,6 @@
       "last"
     ],
     "hints": [
-      "",
       "LAST"
     ],
     "level": "A1",
@@ -16229,7 +16148,6 @@
       "arrive"
     ],
     "hints": [
-      "",
       "ARRIVE"
     ],
     "level": "A1",
@@ -16715,7 +16633,6 @@
       "do"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A1",
@@ -16728,7 +16645,6 @@
       "go"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A1",
@@ -16741,7 +16657,6 @@
       "return"
     ],
     "hints": [
-      "",
       "RETURN"
     ],
     "level": "A1",
@@ -16765,7 +16680,6 @@
       "stay"
     ],
     "hints": [
-      "",
       "STAY"
     ],
     "level": "A1",
@@ -16778,7 +16692,6 @@
       "passed"
     ],
     "hints": [
-      "",
       "PASS"
     ],
     "level": "A2",
@@ -16791,7 +16704,6 @@
       "scored"
     ],
     "hints": [
-      "",
       "SCORE"
     ],
     "level": "A2",
@@ -16804,7 +16716,6 @@
       "returned"
     ],
     "hints": [
-      "",
       "RETURN"
     ],
     "level": "A2",
@@ -16817,7 +16728,6 @@
       "left"
     ],
     "hints": [
-      "",
       "LEAVE"
     ],
     "level": "A2",
@@ -16830,7 +16740,6 @@
       "found"
     ],
     "hints": [
-      "",
       "FIND"
     ],
     "level": "A2",
@@ -16843,7 +16752,6 @@
       "told"
     ],
     "hints": [
-      "",
       "TELL"
     ],
     "level": "A2",
@@ -16856,7 +16764,6 @@
       "parked"
     ],
     "hints": [
-      "",
       "PARK"
     ],
     "level": "A2",
@@ -16869,7 +16776,6 @@
       "finished"
     ],
     "hints": [
-      "",
       "FINISH"
     ],
     "level": "A2",
@@ -16882,7 +16788,6 @@
       "seen"
     ],
     "hints": [
-      "",
       "SEE"
     ],
     "level": "A2",
@@ -16895,7 +16800,6 @@
       "eaten"
     ],
     "hints": [
-      "",
       "EAT"
     ],
     "level": "A2",
@@ -16908,7 +16812,6 @@
       "set"
     ],
     "hints": [
-      "",
       "SET"
     ],
     "level": "A2",
@@ -16921,7 +16824,6 @@
       "packed"
     ],
     "hints": [
-      "",
       "PACK"
     ],
     "level": "A2",
@@ -16934,7 +16836,6 @@
       "had"
     ],
     "hints": [
-      "",
       "HAVE"
     ],
     "level": "A2",
@@ -16947,7 +16848,6 @@
       "bought"
     ],
     "hints": [
-      "",
       "BUY"
     ],
     "level": "A2",
@@ -16960,7 +16860,6 @@
       "taken"
     ],
     "hints": [
-      "",
       "TAKE"
     ],
     "level": "A2",
@@ -16973,7 +16872,6 @@
       "done"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A2",
@@ -17030,7 +16928,6 @@
       "tidied"
     ],
     "hints": [
-      "",
       "TIDY"
     ],
     "level": "A2",
@@ -17043,7 +16940,6 @@
       "returned"
     ],
     "hints": [
-      "",
       "RETURN"
     ],
     "level": "A2",
@@ -17056,7 +16952,6 @@
       "come"
     ],
     "hints": [
-      "",
       "COME"
     ],
     "level": "A2",
@@ -17069,7 +16964,6 @@
       "called"
     ],
     "hints": [
-      "",
       "CALL"
     ],
     "level": "A2",
@@ -17082,7 +16976,6 @@
       "tried"
     ],
     "hints": [
-      "",
       "TRY"
     ],
     "level": "A2",
@@ -17095,7 +16988,6 @@
       "ridden"
     ],
     "hints": [
-      "",
       "RIDE"
     ],
     "level": "A2",
@@ -17108,7 +17000,6 @@
       "been"
     ],
     "hints": [
-      "",
       "BE"
     ],
     "level": "A2",
@@ -17121,7 +17012,6 @@
       "run"
     ],
     "hints": [
-      "",
       "RUN"
     ],
     "level": "A2",
@@ -17134,7 +17024,6 @@
       "seen"
     ],
     "hints": [
-      "",
       "SEE"
     ],
     "level": "A2",
@@ -17147,7 +17036,6 @@
       "seen"
     ],
     "hints": [
-      "",
       "SEE"
     ],
     "level": "A2",
@@ -17160,7 +17048,6 @@
       "caught"
     ],
     "hints": [
-      "",
       "CATCH"
     ],
     "level": "A2",
@@ -17173,7 +17060,6 @@
       "tried"
     ],
     "hints": [
-      "",
       "TRY"
     ],
     "level": "A2",
@@ -17186,7 +17072,6 @@
       "missed"
     ],
     "hints": [
-      "",
       "MISS"
     ],
     "level": "A2",
@@ -17199,7 +17084,6 @@
       "made"
     ],
     "hints": [
-      "",
       "MAKE"
     ],
     "level": "A2",
@@ -17872,7 +17756,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A2",
@@ -17885,7 +17768,6 @@
       "going"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "A2",
@@ -17898,7 +17780,6 @@
       "cooking"
     ],
     "hints": [
-      "",
       "COOK"
     ],
     "level": "A2",
@@ -17911,7 +17792,6 @@
       "talking"
     ],
     "hints": [
-      "",
       "TALK"
     ],
     "level": "A2",
@@ -17924,7 +17804,6 @@
       "doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "A2",
@@ -17937,7 +17816,6 @@
       "driving"
     ],
     "hints": [
-      "",
       "DRIVE"
     ],
     "level": "A2",
@@ -18401,7 +18279,6 @@
       "going to go"
     ],
     "hints": [
-      "",
       "GOING TO GO"
     ],
     "level": "A2",
@@ -18414,7 +18291,6 @@
       "going to bake"
     ],
     "hints": [
-      "",
       "GOING TO BAKE"
     ],
     "level": "A2",
@@ -18427,7 +18303,6 @@
       "going to stay"
     ],
     "hints": [
-      "",
       "GOING TO STAY"
     ],
     "level": "A2",
@@ -18451,7 +18326,6 @@
       "going to leave"
     ],
     "hints": [
-      "",
       "GOING TO LEAVE"
     ],
     "level": "A2",
@@ -18464,7 +18338,6 @@
       "going to leave"
     ],
     "hints": [
-      "",
       "GOING TO LEAVE"
     ],
     "level": "A2",
@@ -18884,7 +18757,6 @@
       "been waiting"
     ],
     "hints": [
-      "",
       "WAIT"
     ],
     "level": "B1",
@@ -18897,7 +18769,6 @@
       "been working"
     ],
     "hints": [
-      "",
       "WORK"
     ],
     "level": "B1",
@@ -18910,7 +18781,6 @@
       "been dating"
     ],
     "hints": [
-      "",
       "DATE"
     ],
     "level": "B1",
@@ -18923,7 +18793,6 @@
       "been snowing"
     ],
     "hints": [
-      "",
       "SNOW"
     ],
     "level": "B1",
@@ -18936,7 +18805,6 @@
       "been playing"
     ],
     "hints": [
-      "",
       "PLAY"
     ],
     "level": "B1",
@@ -18949,7 +18817,6 @@
       "been having"
     ],
     "hints": [
-      "",
       "HAVE"
     ],
     "level": "B1",
@@ -18962,7 +18829,6 @@
       "been doing"
     ],
     "hints": [
-      "",
       "DO"
     ],
     "level": "B1",
@@ -18997,7 +18863,6 @@
       "been crying"
     ],
     "hints": [
-      "",
       "CRY"
     ],
     "level": "B1",
@@ -19608,7 +19473,6 @@
       "went"
     ],
     "hints": [
-      "",
       "GO"
     ],
     "level": "B1",
@@ -19946,7 +19810,6 @@
       "was cooking"
     ],
     "hints": [
-      "",
       "COOK"
     ],
     "level": "B1",
@@ -20128,7 +19991,6 @@
       "started"
     ],
     "hints": [
-      "",
       "START"
     ],
     "level": "B1",
@@ -20323,7 +20185,6 @@
       "is"
     ],
     "hints": [
-      "",
       "BE"
     ],
     "level": "B1",
@@ -20583,7 +20444,6 @@
       "would travel"
     ],
     "hints": [
-      "",
       "TRAVEL"
     ],
     "level": "B1",
@@ -20663,7 +20523,6 @@
       "would get"
     ],
     "hints": [
-      "",
       "GET"
     ],
     "level": "B1",
@@ -25031,7 +24890,6 @@
       "serviced"
     ],
     "hints": [
-      "",
       "SERVICE"
     ],
     "level": "C1",
@@ -25044,7 +24902,6 @@
       "cut"
     ],
     "hints": [
-      "",
       "CUT"
     ],
     "level": "C1",
@@ -25057,7 +24914,6 @@
       "painted"
     ],
     "hints": [
-      "",
       "PAINT"
     ],
     "level": "C1",
@@ -25083,7 +24939,6 @@
       "repaired"
     ],
     "hints": [
-      "",
       "REPAIR"
     ],
     "level": "C1",
@@ -25096,7 +24951,6 @@
       "whitened"
     ],
     "hints": [
-      "",
       "WHITEN"
     ],
     "level": "C1",
@@ -25109,7 +24963,6 @@
       "tested"
     ],
     "hints": [
-      "",
       "TEST"
     ],
     "level": "C1",
@@ -25135,7 +24988,6 @@
       "made"
     ],
     "hints": [
-      "",
       "MAKE"
     ],
     "level": "C1",
@@ -25161,7 +25013,6 @@
       "taken"
     ],
     "hints": [
-      "",
       "TAKE"
     ],
     "level": "C1",
@@ -25174,7 +25025,6 @@
       "translated"
     ],
     "hints": [
-      "",
       "TRANSLATE"
     ],
     "level": "C1",
@@ -25187,7 +25037,6 @@
       "delivered"
     ],
     "hints": [
-      "",
       "DELIVER"
     ],
     "level": "C1",
@@ -25200,7 +25049,6 @@
       "redesigned"
     ],
     "hints": [
-      "",
       "REDESIGN"
     ],
     "level": "C1",
@@ -25213,7 +25061,6 @@
       "pierced"
     ],
     "hints": [
-      "",
       "PIERCE"
     ],
     "level": "C1",
@@ -25226,7 +25073,6 @@
       "stolen"
     ],
     "hints": [
-      "",
       "STEAL"
     ],
     "level": "C1",
@@ -25239,7 +25085,6 @@
       "snatched"
     ],
     "hints": [
-      "",
       "SNATCH"
     ],
     "level": "C1",
@@ -25252,7 +25097,6 @@
       "burgled"
     ],
     "hints": [
-      "",
       "BURGLE"
     ],
     "level": "C1",
@@ -25265,7 +25109,6 @@
       "vandalised"
     ],
     "hints": [
-      "",
       "VANDALISE"
     ],
     "level": "C1",
@@ -25278,7 +25121,6 @@
       "broken"
     ],
     "hints": [
-      "",
       "BREAK"
     ],
     "level": "C1",
@@ -25304,7 +25146,6 @@
       "rewrite"
     ],
     "hints": [
-      "",
       "REWRITE"
     ],
     "level": "C1",
@@ -25330,7 +25171,6 @@
       "paint"
     ],
     "hints": [
-      "",
       "PAINT"
     ],
     "level": "C1",
@@ -25343,7 +25183,6 @@
       "work"
     ],
     "hints": [
-      "",
       "WORK"
     ],
     "level": "C1",
@@ -27429,7 +27268,6 @@
       "would fly"
     ],
     "hints": [
-      "",
       "FLY"
     ],
     "level": "B1",
