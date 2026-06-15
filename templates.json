@@ -110,7 +110,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "Dad ___ the car to work every day.",
+    "sentence": "The team leader ___ the car to work every day.",
     "answers": [
       "drives"
     ],
@@ -503,7 +503,7 @@
       "have"
     ],
     "hints": [
-      "DO",
+      "",
       "HAVE"
     ],
     "level": "A1",
@@ -516,7 +516,7 @@
       "live"
     ],
     "hints": [
-      "DOES",
+      "",
       "LIVE"
     ],
     "level": "A1",
@@ -529,7 +529,7 @@
       "get"
     ],
     "hints": [
-      "DO",
+      "",
       "GET UP"
     ],
     "level": "A1",
@@ -542,7 +542,7 @@
       "work"
     ],
     "hints": [
-      "DOES",
+      "",
       "WORK"
     ],
     "level": "A1",
@@ -555,7 +555,7 @@
       "eat"
     ],
     "hints": [
-      "DO",
+      "",
       "EAT"
     ],
     "level": "A1",
@@ -936,7 +936,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "The kids ___ in the pool right now.",
+    "sentence": "My twin sister ___ in the pool right now.",
     "answers": [
       "are swimming"
     ],
@@ -958,7 +958,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Look — Dad ___ us dinner now.",
+    "sentence": "Look — My manager ___ us dinner now.",
     "answers": [
       "is cooking"
     ],
@@ -1024,7 +1024,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Dad ___ dinner right now — Mum is.",
+    "sentence": "Dad ___ dinner right now — My manager is.",
     "answers": [
       "isn't cooking"
     ],
@@ -1063,7 +1063,7 @@
       "doing"
     ],
     "hints": [
-      "ARE",
+      "",
       "DO"
     ],
     "level": "A1",
@@ -1076,7 +1076,7 @@
       "crying"
     ],
     "hints": [
-      "IS",
+      "",
       "CRY"
     ],
     "level": "A1",
@@ -1089,7 +1089,7 @@
       "going"
     ],
     "hints": [
-      "IS",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -1102,20 +1102,20 @@
       "doing"
     ],
     "hints": [
-      "ARE",
+      "",
       "DO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Why ___ Dad ___ so much right now?",
+    "sentence": "Why ___ My personal trainer ___ so much right now?",
     "answers": [
       "is",
       "working"
     ],
     "hints": [
-      "IS",
+      "",
       "WORK"
     ],
     "level": "A1",
@@ -1355,7 +1355,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Dad ___ the dog for a walk after breakfast yesterday.",
+    "sentence": "The director ___ the dog for a walk after breakfast yesterday.",
     "answers": [
       "took"
     ],
@@ -1443,7 +1443,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "The teacher ___ 'Good morning' when we came in this morning.",
+    "sentence": "Mr Wright ___ 'Good morning' when we came in this morning.",
     "answers": [
       "said"
     ],
@@ -1608,7 +1608,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Dad ___ dinner yesterday.",
+    "sentence": "Uncle Peter ___ dinner yesterday.",
     "answers": [
       "didn't cook"
     ],
@@ -1636,7 +1636,7 @@
       "go"
     ],
     "hints": [
-      "DID",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -1649,7 +1649,7 @@
       "eat"
     ],
     "hints": [
-      "DID",
+      "",
       "EAT"
     ],
     "level": "A1",
@@ -1662,7 +1662,7 @@
       "come"
     ],
     "hints": [
-      "DID",
+      "",
       "COME"
     ],
     "level": "A1",
@@ -1675,7 +1675,7 @@
       "see"
     ],
     "hints": [
-      "DID",
+      "",
       "SEE"
     ],
     "level": "A1",
@@ -1759,7 +1759,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "I think Mum ___ very happy with this present.",
+    "sentence": "I think My assistant ___ very happy with this present.",
     "answers": [
       "will be"
     ],
@@ -1957,7 +1957,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Mum says we ___ a dog next year.",
+    "sentence": "Our family doctor says we ___ a dog next year.",
     "answers": [
       "will get"
     ],
@@ -2183,7 +2183,7 @@
       "help"
     ],
     "hints": [
-      "WILL",
+      "",
       "HELP"
     ],
     "level": "A1",
@@ -2196,7 +2196,7 @@
       "come"
     ],
     "hints": [
-      "WILL",
+      "",
       "COME"
     ],
     "level": "A1",
@@ -2209,7 +2209,7 @@
       "go"
     ],
     "hints": [
-      "WILL",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -2222,7 +2222,7 @@
       "rain"
     ],
     "hints": [
-      "WILL",
+      "",
       "RAIN"
     ],
     "level": "A1",
@@ -2235,7 +2235,7 @@
       "do"
     ],
     "hints": [
-      "WILL",
+      "",
       "DO"
     ],
     "level": "A1",
@@ -2297,7 +2297,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Dad ___ home from his business trip just now.",
+    "sentence": "My flatmate ___ home from his business trip just now.",
     "answers": [
       "has just returned"
     ],
@@ -2523,20 +2523,20 @@
       "met"
     ],
     "hints": [
-      "HAVE",
+      "",
       "MEET"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ Mum ___ from the shops yet?",
+    "sentence": "___ Our neighbour ___ from the shops yet?",
     "answers": [
       "Has",
       "come back"
     ],
     "hints": [
-      "HAS",
+      "",
       "COME BACK"
     ],
     "level": "A2",
@@ -2549,7 +2549,7 @@
       "done"
     ],
     "hints": [
-      "HAVE",
+      "",
       "DO"
     ],
     "level": "A2",
@@ -2562,7 +2562,7 @@
       "arrived"
     ],
     "hints": [
-      "HAS",
+      "",
       "ARRIVE"
     ],
     "level": "A2",
@@ -2575,7 +2575,7 @@
       "heard"
     ],
     "hints": [
-      "HAVE",
+      "",
       "HEAR"
     ],
     "level": "A2",
@@ -2588,7 +2588,7 @@
       "been"
     ],
     "hints": [
-      "HAVE",
+      "",
       "BE"
     ],
     "level": "A2",
@@ -2601,7 +2601,7 @@
       "seen"
     ],
     "hints": [
-      "HAS",
+      "",
       "SEE"
     ],
     "level": "A2",
@@ -2614,7 +2614,7 @@
       "eaten"
     ],
     "hints": [
-      "HAS",
+      "",
       "EAT"
     ],
     "level": "A2",
@@ -2627,7 +2627,7 @@
       "flown"
     ],
     "hints": [
-      "HAVE",
+      "",
       "FLY"
     ],
     "level": "A2",
@@ -2640,7 +2640,7 @@
       "been"
     ],
     "hints": [
-      "HAVE",
+      "",
       "BE"
     ],
     "level": "A2",
@@ -2653,7 +2653,7 @@
       "ridden"
     ],
     "hints": [
-      "HAVE",
+      "",
       "RIDE"
     ],
     "level": "A2",
@@ -2666,7 +2666,7 @@
       "won"
     ],
     "hints": [
-      "HAS",
+      "",
       "WIN"
     ],
     "level": "A2",
@@ -2679,7 +2679,7 @@
       "met"
     ],
     "hints": [
-      "HAVE",
+      "",
       "MEET"
     ],
     "level": "A2",
@@ -2873,7 +2873,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Dad ___ the car when I got home.",
+    "sentence": "My best friend Mark ___ the car when I got home.",
     "answers": [
       "was washing"
     ],
@@ -2928,7 +2928,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "The kids ___ in the garden all afternoon yesterday.",
+    "sentence": "My little brother ___ in the garden all afternoon yesterday.",
     "answers": [
       "were playing"
     ],
@@ -3049,7 +3049,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Dad ___ the newspaper when the doorbell rang.",
+    "sentence": "My father-in-law ___ the newspaper when the doorbell rang.",
     "answers": [
       "was reading"
     ],
@@ -3071,7 +3071,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Mum ___ the dishes when I came in.",
+    "sentence": "My sister-in-law ___ the dishes when I came in.",
     "answers": [
       "was washing"
     ],
@@ -3148,7 +3148,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "While Mum ___ dinner, Dad ___ TV.",
+    "sentence": "While My piano teacher ___ dinner, Dad ___ TV.",
     "answers": [
       "was cooking",
       "was watching"
@@ -3187,7 +3187,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Dad ___ the lawn while Mum ___ the windows.",
+    "sentence": "Dad ___ the lawn while My classmate Sophie ___ the windows.",
     "answers": [
       "was cutting",
       "was cleaning"
@@ -3311,7 +3311,7 @@
       "doing"
     ],
     "hints": [
-      "WERE",
+      "",
       "DO"
     ],
     "level": "A2",
@@ -3324,7 +3324,7 @@
       "crying"
     ],
     "hints": [
-      "WAS",
+      "",
       "CRY"
     ],
     "level": "A2",
@@ -3337,7 +3337,7 @@
       "going"
     ],
     "hints": [
-      "WERE",
+      "",
       "GO"
     ],
     "level": "A2",
@@ -3350,7 +3350,7 @@
       "doing"
     ],
     "hints": [
-      "WAS",
+      "",
       "DO"
     ],
     "level": "A2",
@@ -3363,7 +3363,7 @@
       "talking"
     ],
     "hints": [
-      "WERE",
+      "",
       "TALK"
     ],
     "level": "A2",
@@ -3376,7 +3376,7 @@
       "driving"
     ],
     "hints": [
-      "WAS",
+      "",
       "DRIVE"
     ],
     "level": "A2",
@@ -3389,7 +3389,7 @@
       "shouting"
     ],
     "hints": [
-      "WERE",
+      "",
       "SHOUT"
     ],
     "level": "A2",
@@ -3462,7 +3462,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Dad ___ a birthday cake tomorrow.",
+    "sentence": "My brother-in-law ___ a birthday cake tomorrow.",
     "answers": [
       "is going to make"
     ],
@@ -3561,7 +3561,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Dad ___ the garage this weekend.",
+    "sentence": "My grandfather ___ the garage this weekend.",
     "answers": [
       "is going to paint"
     ],
@@ -3660,7 +3660,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "The kids ___ a film this evening.",
+    "sentence": "The toddler ___ a film this evening.",
     "answers": [
       "are going to watch"
     ],
@@ -3875,7 +3875,7 @@
       "going to do"
     ],
     "hints": [
-      "ARE",
+      "",
       "GOING TO DO"
     ],
     "level": "A2",
@@ -3888,7 +3888,7 @@
       "going to go"
     ],
     "hints": [
-      "IS",
+      "",
       "GOING TO GO"
     ],
     "level": "A2",
@@ -3901,7 +3901,7 @@
       "going to start"
     ],
     "hints": [
-      "ARE",
+      "",
       "GOING TO START"
     ],
     "level": "A2",
@@ -3914,7 +3914,7 @@
       "going to save"
     ],
     "hints": [
-      "ARE",
+      "",
       "GOING TO SAVE"
     ],
     "level": "A2",
@@ -3927,7 +3927,7 @@
       "going to attend"
     ],
     "hints": [
-      "ARE",
+      "",
       "GOING TO ATTEND"
     ],
     "level": "A2",
@@ -3951,7 +3951,7 @@
       "going to arrive"
     ],
     "hints": [
-      "IS",
+      "",
       "GOING TO ARRIVE"
     ],
     "level": "A2",
@@ -4167,7 +4167,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Mum ___ in this flat since her divorce.",
+    "sentence": "My cousin Emma ___ in this flat since her divorce.",
     "answers": [
       "has been living"
     ],
@@ -4272,7 +4272,7 @@
       "been doing"
     ],
     "hints": [
-      "HAVE",
+      "",
       "DO"
     ],
     "level": "B1",
@@ -4290,7 +4290,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Mum ___ on the phone all evening.",
+    "sentence": "My stepmother ___ on the phone all evening.",
     "answers": [
       "has been talking"
     ],
@@ -4301,7 +4301,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "The children ___ in the garden all morning.",
+    "sentence": "My little brother ___ in the garden all morning.",
     "answers": [
       "have been playing"
     ],
@@ -4450,7 +4450,7 @@
       "been waiting"
     ],
     "hints": [
-      "HAVE",
+      "",
       "WAIT"
     ],
     "level": "B1",
@@ -4463,7 +4463,7 @@
       "been dating"
     ],
     "hints": [
-      "HAVE",
+      "",
       "DATE"
     ],
     "level": "B1",
@@ -4476,7 +4476,7 @@
       "been working"
     ],
     "hints": [
-      "HAS",
+      "",
       "WORK"
     ],
     "level": "B1",
@@ -4489,7 +4489,7 @@
       "been raining"
     ],
     "hints": [
-      "HAS",
+      "",
       "RAIN"
     ],
     "level": "B1",
@@ -4573,7 +4573,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "After Dad ___ the car, he took us to the park.",
+    "sentence": "After My nephew ___ the car, he took us to the park.",
     "answers": [
       "had washed"
     ],
@@ -4584,7 +4584,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "After Mum ___ the shopping, she came home.",
+    "sentence": "After Aunt Clara ___ the shopping, she came home.",
     "answers": [
       "had done"
     ],
@@ -4634,7 +4634,7 @@
       "lived"
     ],
     "hints": [
-      "HAD",
+      "",
       "LIVE"
     ],
     "level": "B1",
@@ -4784,7 +4784,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "When Mum got home, Dad ___ the whole kitchen.",
+    "sentence": "When Mum got home, Uncle Mark ___ the whole kitchen.",
     "answers": [
       "had cleaned"
     ],
@@ -5193,7 +5193,7 @@
       "started"
     ],
     "hints": [
-      "HAVE",
+      "",
       "START"
     ],
     "level": "B1",
@@ -5453,7 +5453,7 @@
       "rang"
     ],
     "hints": [
-      "HAVE",
+      "",
       "RING"
     ],
     "level": "B1",
@@ -5589,7 +5589,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "Mum ___ (cook) dinner while Dad ___ (watch) TV.",
+    "sentence": "My grandmother ___ (cook) dinner while Dad ___ (watch) TV.",
     "answers": [
       "was cooking",
       "was watching"
@@ -5777,7 +5777,7 @@
       "feel"
     ],
     "hints": [
-      "HAVE",
+      "",
       "FEEL"
     ],
     "level": "B1",
@@ -5881,7 +5881,7 @@
       "is"
     ],
     "hints": [
-      "HAVE",
+      "",
       "BE"
     ],
     "level": "B1",
@@ -6037,7 +6037,7 @@
       "would learn"
     ],
     "hints": [
-      "HAVE",
+      "",
       "LEARN"
     ],
     "level": "B1",
@@ -6223,7 +6223,7 @@
       "would get"
     ],
     "hints": [
-      "HAVE",
+      "",
       "GET"
     ],
     "level": "B1",
@@ -6262,7 +6262,7 @@
       "would succeed"
     ],
     "hints": [
-      "HAVE",
+      "",
       "SUCCEED"
     ],
     "level": "B1",
@@ -7847,7 +7847,7 @@
       "have found"
     ],
     "hints": [
-      "WILL",
+      "",
       "FIND"
     ],
     "level": "B2",
@@ -8107,7 +8107,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "The doctor said I ___ (need) to rest for a week.",
+    "sentence": "The surgeon said I ___ (need) to rest for a week.",
     "answers": [
       "needed"
     ],
@@ -8360,7 +8360,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "The teacher asked whether we ___ (finish) our homework.",
+    "sentence": "The English teacher asked whether we ___ (finish) our homework.",
     "answers": [
       "had finished"
     ],
@@ -8448,7 +8448,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "The teacher ordered the students ___ (be) quiet.",
+    "sentence": "Our class tutor ordered the students ___ (be) quiet.",
     "answers": [
       "to be"
     ],
@@ -8833,7 +8833,7 @@
     "formula": "Passive Voice"
   },
   {
-    "sentence": "The children ___ (take) to the zoo last Saturday.",
+    "sentence": "My older sister ___ (take) to the zoo last Saturday.",
     "answers": [
       "were taken"
     ],
@@ -9563,7 +9563,7 @@
       "hadn't taken"
     ],
     "hints": [
-      "HAVE",
+      "",
       "NOT TAKE"
     ],
     "level": "B2",
@@ -10923,7 +10923,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "The door is unlocked. Mum ___ (forget) to lock it.",
+    "sentence": "The door is unlocked. My niece ___ (forget) to lock it.",
     "answers": [
       "must have forgotten"
     ],
@@ -11242,7 +11242,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "The teacher ___ (be) more patient with the students.",
+    "sentence": "The professor ___ (be) more patient with the students.",
     "answers": [
       "should have been"
     ],
@@ -13239,7 +13239,7 @@
       "doing"
     ],
     "hints": [
-      "ARE",
+      "",
       "DO"
     ],
     "level": "C1",
@@ -13296,7 +13296,7 @@
       "begin"
     ],
     "hints": [
-      "DOES",
+      "",
       "BEGIN"
     ],
     "level": "C1",
@@ -13353,7 +13353,7 @@
       "be using"
     ],
     "hints": [
-      "WILL",
+      "",
       "USE"
     ],
     "level": "C1",
@@ -13388,7 +13388,7 @@
       "be passing"
     ],
     "hints": [
-      "WILL",
+      "",
       "PASS"
     ],
     "level": "C1",
@@ -13478,7 +13478,7 @@
       "have developed"
     ],
     "hints": [
-      "WILL",
+      "",
       "DEVELOP"
     ],
     "level": "C1",
@@ -13513,7 +13513,7 @@
       "have landed"
     ],
     "hints": [
-      "WILL",
+      "",
       "LAND"
     ],
     "level": "C1",
@@ -14576,7 +14576,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "Dad ___ tea before work every morning.",
+    "sentence": "My nephew ___ tea before work every morning.",
     "answers": [
       "drinks"
     ],
@@ -14642,7 +14642,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "Mum ___ the windows every Saturday.",
+    "sentence": "My business partner ___ the windows every Saturday.",
     "answers": [
       "cleans"
     ],
@@ -14697,7 +14697,7 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "Mum ___ the laundry on Mondays.",
+    "sentence": "My stepmother ___ the laundry on Mondays.",
     "answers": [
       "does"
     ],
@@ -15066,7 +15066,7 @@
       "come"
     ],
     "hints": [
-      "DO",
+      "",
       "COME"
     ],
     "level": "A1",
@@ -15079,7 +15079,7 @@
       "go"
     ],
     "hints": [
-      "DOES",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -15092,7 +15092,7 @@
       "live"
     ],
     "hints": [
-      "DO",
+      "",
       "LIVE"
     ],
     "level": "A1",
@@ -15105,7 +15105,7 @@
       "do"
     ],
     "hints": [
-      "DOES",
+      "",
       "DO"
     ],
     "level": "A1",
@@ -15145,7 +15145,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Look! Max ___ his tail again.",
+    "sentence": "Look! Charlie ___ his tail again.",
     "answers": [
       "is wagging"
     ],
@@ -15156,7 +15156,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Listen! The teacher ___ to us.",
+    "sentence": "Listen! Mrs Hopkins ___ to us.",
     "answers": [
       "is speaking"
     ],
@@ -15420,7 +15420,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Mum ___ a special cake today — it is Dad's birthday.",
+    "sentence": "My cousin Emma ___ a special cake today — it is Dad's birthday.",
     "answers": [
       "is baking"
     ],
@@ -15442,7 +15442,7 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Dad ___ from home today.",
+    "sentence": "Our IT guy ___ from home today.",
     "answers": [
       "is working"
     ],
@@ -15591,20 +15591,20 @@
       "doing"
     ],
     "hints": [
-      "ARE",
+      "",
       "DO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Where ___ Mum ___ right now?",
+    "sentence": "Where ___ The team leader ___ right now?",
     "answers": [
       "is",
       "going"
     ],
     "hints": [
-      "IS",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -15617,7 +15617,7 @@
       "shouting"
     ],
     "hints": [
-      "ARE",
+      "",
       "SHOUT"
     ],
     "level": "A1",
@@ -15641,7 +15641,7 @@
       "doing"
     ],
     "hints": [
-      "IS",
+      "",
       "DO"
     ],
     "level": "A1",
@@ -15654,7 +15654,7 @@
       "raining"
     ],
     "hints": [
-      "IS",
+      "",
       "RAIN"
     ],
     "level": "A1",
@@ -15667,7 +15667,7 @@
       "crying"
     ],
     "hints": [
-      "IS",
+      "",
       "CRY"
     ],
     "level": "A1",
@@ -15696,7 +15696,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Mum ___ a cake yesterday for my birthday.",
+    "sentence": "Aunt Julia ___ a cake yesterday for my birthday.",
     "answers": [
       "baked"
     ],
@@ -15751,7 +15751,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Dad ___ the dog before breakfast yesterday.",
+    "sentence": "My colleague ___ the dog before breakfast yesterday.",
     "answers": [
       "walked"
     ],
@@ -15795,7 +15795,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Mum ___ me at the bus stop yesterday.",
+    "sentence": "My manager ___ me at the bus stop yesterday.",
     "answers": [
       "waited"
     ],
@@ -16125,7 +16125,7 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Mum ___ dinner last night — Dad cooked.",
+    "sentence": "Mum ___ dinner last night — Our project manager cooked.",
     "answers": [
       "didn't make"
     ],
@@ -16164,7 +16164,7 @@
       "go"
     ],
     "hints": [
-      "DID",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -16177,7 +16177,7 @@
       "have"
     ],
     "hints": [
-      "DID",
+      "",
       "HAVE"
     ],
     "level": "A1",
@@ -16190,7 +16190,7 @@
       "return"
     ],
     "hints": [
-      "DID",
+      "",
       "RETURN"
     ],
     "level": "A1",
@@ -16203,7 +16203,7 @@
       "see"
     ],
     "hints": [
-      "DID",
+      "",
       "SEE"
     ],
     "level": "A1",
@@ -16216,7 +16216,7 @@
       "last"
     ],
     "hints": [
-      "DID",
+      "",
       "LAST"
     ],
     "level": "A1",
@@ -16229,7 +16229,7 @@
       "arrive"
     ],
     "hints": [
-      "DID",
+      "",
       "ARRIVE"
     ],
     "level": "A1",
@@ -16390,7 +16390,7 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Don't cry — Mum ___ home soon.",
+    "sentence": "Don't cry — My elder sister Helen ___ home soon.",
     "answers": [
       "will be"
     ],
@@ -16715,7 +16715,7 @@
       "do"
     ],
     "hints": [
-      "WILL",
+      "",
       "DO"
     ],
     "level": "A1",
@@ -16728,7 +16728,7 @@
       "go"
     ],
     "hints": [
-      "WILL",
+      "",
       "GO"
     ],
     "level": "A1",
@@ -16741,7 +16741,7 @@
       "return"
     ],
     "hints": [
-      "WILL",
+      "",
       "RETURN"
     ],
     "level": "A1",
@@ -16765,7 +16765,7 @@
       "stay"
     ],
     "hints": [
-      "WILL",
+      "",
       "STAY"
     ],
     "level": "A1",
@@ -16778,7 +16778,7 @@
       "passed"
     ],
     "hints": [
-      "HAVE",
+      "",
       "PASS"
     ],
     "level": "A2",
@@ -16791,7 +16791,7 @@
       "scored"
     ],
     "hints": [
-      "HAS",
+      "",
       "SCORE"
     ],
     "level": "A2",
@@ -16804,7 +16804,7 @@
       "returned"
     ],
     "hints": [
-      "HAS",
+      "",
       "RETURN"
     ],
     "level": "A2",
@@ -16817,7 +16817,7 @@
       "left"
     ],
     "hints": [
-      "HAS",
+      "",
       "LEAVE"
     ],
     "level": "A2",
@@ -16830,7 +16830,7 @@
       "found"
     ],
     "hints": [
-      "HAVE",
+      "",
       "FIND"
     ],
     "level": "A2",
@@ -16843,7 +16843,7 @@
       "told"
     ],
     "hints": [
-      "HAS",
+      "",
       "TELL"
     ],
     "level": "A2",
@@ -16856,20 +16856,20 @@
       "parked"
     ],
     "hints": [
-      "HAS",
+      "",
       "PARK"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "The kids ___ just ___ their homework.",
+    "sentence": "My older sister ___ just ___ their homework.",
     "answers": [
       "have",
       "finished"
     ],
     "hints": [
-      "HAVE",
+      "",
       "FINISH"
     ],
     "level": "A2",
@@ -16882,7 +16882,7 @@
       "seen"
     ],
     "hints": [
-      "HAVE",
+      "",
       "SEE"
     ],
     "level": "A2",
@@ -16895,20 +16895,20 @@
       "eaten"
     ],
     "hints": [
-      "HAVE",
+      "",
       "EAT"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Mum ___ already ___ the table for dinner.",
+    "sentence": "My cousin Emma ___ already ___ the table for dinner.",
     "answers": [
       "has",
       "set"
     ],
     "hints": [
-      "HAS",
+      "",
       "SET"
     ],
     "level": "A2",
@@ -16921,7 +16921,7 @@
       "packed"
     ],
     "hints": [
-      "HAS",
+      "",
       "PACK"
     ],
     "level": "A2",
@@ -16934,7 +16934,7 @@
       "had"
     ],
     "hints": [
-      "HAVE",
+      "",
       "HAVE"
     ],
     "level": "A2",
@@ -16947,7 +16947,7 @@
       "bought"
     ],
     "hints": [
-      "HAVE",
+      "",
       "BUY"
     ],
     "level": "A2",
@@ -16960,7 +16960,7 @@
       "taken"
     ],
     "hints": [
-      "HAS",
+      "",
       "TAKE"
     ],
     "level": "A2",
@@ -16973,7 +16973,7 @@
       "done"
     ],
     "hints": [
-      "HAS",
+      "",
       "DO"
     ],
     "level": "A2",
@@ -17030,7 +17030,7 @@
       "tidied"
     ],
     "hints": [
-      "HAVE",
+      "",
       "TIDY"
     ],
     "level": "A2",
@@ -17043,7 +17043,7 @@
       "returned"
     ],
     "hints": [
-      "HAS",
+      "",
       "RETURN"
     ],
     "level": "A2",
@@ -17056,7 +17056,7 @@
       "come"
     ],
     "hints": [
-      "HAS",
+      "",
       "COME"
     ],
     "level": "A2",
@@ -17069,7 +17069,7 @@
       "called"
     ],
     "hints": [
-      "HAVE",
+      "",
       "CALL"
     ],
     "level": "A2",
@@ -17082,7 +17082,7 @@
       "tried"
     ],
     "hints": [
-      "HAVE",
+      "",
       "TRY"
     ],
     "level": "A2",
@@ -17095,7 +17095,7 @@
       "ridden"
     ],
     "hints": [
-      "HAS",
+      "",
       "RIDE"
     ],
     "level": "A2",
@@ -17108,7 +17108,7 @@
       "been"
     ],
     "hints": [
-      "HAVE",
+      "",
       "BE"
     ],
     "level": "A2",
@@ -17121,7 +17121,7 @@
       "run"
     ],
     "hints": [
-      "HAS",
+      "",
       "RUN"
     ],
     "level": "A2",
@@ -17134,7 +17134,7 @@
       "seen"
     ],
     "hints": [
-      "HAVE",
+      "",
       "SEE"
     ],
     "level": "A2",
@@ -17147,7 +17147,7 @@
       "seen"
     ],
     "hints": [
-      "HAVE",
+      "",
       "SEE"
     ],
     "level": "A2",
@@ -17160,7 +17160,7 @@
       "caught"
     ],
     "hints": [
-      "HAS",
+      "",
       "CATCH"
     ],
     "level": "A2",
@@ -17173,7 +17173,7 @@
       "tried"
     ],
     "hints": [
-      "HAVE",
+      "",
       "TRY"
     ],
     "level": "A2",
@@ -17186,7 +17186,7 @@
       "missed"
     ],
     "hints": [
-      "HAS",
+      "",
       "MISS"
     ],
     "level": "A2",
@@ -17199,7 +17199,7 @@
       "made"
     ],
     "hints": [
-      "HAS",
+      "",
       "MAKE"
     ],
     "level": "A2",
@@ -17250,7 +17250,7 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Bella ___ with us since she was a kitten.",
+    "sentence": "Buddy ___ with us since she was a kitten.",
     "answers": [
       "has been"
     ],
@@ -17470,7 +17470,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "At 4 pm yesterday Bella ___ near the window.",
+    "sentence": "At 4 pm yesterday Charlie ___ near the window.",
     "answers": [
       "was sleeping"
     ],
@@ -17525,7 +17525,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Mum ___ all morning yesterday.",
+    "sentence": "Our family doctor ___ all morning yesterday.",
     "answers": [
       "was cooking"
     ],
@@ -17624,7 +17624,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Mum ___ the floor when I came in.",
+    "sentence": "My roommate ___ the floor when I came in.",
     "answers": [
       "was washing"
     ],
@@ -17657,7 +17657,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Bella ___ on the sofa when the visitors arrived.",
+    "sentence": "Coco ___ on the sofa when the visitors arrived.",
     "answers": [
       "was sleeping"
     ],
@@ -17723,7 +17723,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "While Mum ___, Dad watched TV.",
+    "sentence": "While The receptionist ___, Our project manager watched TV.",
     "answers": [
       "was cooking"
     ],
@@ -17789,7 +17789,7 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "While Dad ___ the news, Mum cooked dinner.",
+    "sentence": "While Dad ___ the news, Our HR manager cooked dinner.",
     "answers": [
       "was reading"
     ],
@@ -17872,7 +17872,7 @@
       "doing"
     ],
     "hints": [
-      "WERE",
+      "",
       "DO"
     ],
     "level": "A2",
@@ -17885,20 +17885,20 @@
       "going"
     ],
     "hints": [
-      "WAS",
+      "",
       "GO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Why ___ Mum ___ all morning yesterday?",
+    "sentence": "Why ___ Our neighbour ___ all morning yesterday?",
     "answers": [
       "was",
       "cooking"
     ],
     "hints": [
-      "WAS",
+      "",
       "COOK"
     ],
     "level": "A2",
@@ -17911,7 +17911,7 @@
       "talking"
     ],
     "hints": [
-      "WAS",
+      "",
       "TALK"
     ],
     "level": "A2",
@@ -17924,7 +17924,7 @@
       "doing"
     ],
     "hints": [
-      "WERE",
+      "",
       "DO"
     ],
     "level": "A2",
@@ -17937,7 +17937,7 @@
       "driving"
     ],
     "hints": [
-      "WAS",
+      "",
       "DRIVE"
     ],
     "level": "A2",
@@ -17977,7 +17977,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Mum ___ a cake for the party tomorrow.",
+    "sentence": "My mother-in-law ___ a cake for the party tomorrow.",
     "answers": [
       "is going to bake"
     ],
@@ -18021,7 +18021,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Dad ___ the car this weekend.",
+    "sentence": "My driving instructor ___ the car this weekend.",
     "answers": [
       "is going to wash"
     ],
@@ -18065,7 +18065,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Mum ___ the garden next weekend.",
+    "sentence": "My godmother ___ the garden next weekend.",
     "answers": [
       "is going to plant"
     ],
@@ -18186,7 +18186,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Dad looks angry — he ___ at Tom in a moment.",
+    "sentence": "My boss looks angry — he ___ at Tom in a moment.",
     "answers": [
       "is going to shout"
     ],
@@ -18263,7 +18263,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Mum and Dad ___ a small dog next year.",
+    "sentence": "Aunt Clara and Dad ___ a small dog next year.",
     "answers": [
       "are going to get"
     ],
@@ -18362,7 +18362,7 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Mary ___ Bella tonight — Noah is doing it.",
+    "sentence": "Mary ___ Luna tonight — Noah is doing it.",
     "answers": [
       "isn't going to feed"
     ],
@@ -18401,7 +18401,7 @@
       "going to go"
     ],
     "hints": [
-      "IS",
+      "",
       "GOING TO GO"
     ],
     "level": "A2",
@@ -18414,7 +18414,7 @@
       "going to bake"
     ],
     "hints": [
-      "IS",
+      "",
       "GOING TO BAKE"
     ],
     "level": "A2",
@@ -18427,7 +18427,7 @@
       "going to stay"
     ],
     "hints": [
-      "ARE",
+      "",
       "GOING TO STAY"
     ],
     "level": "A2",
@@ -18451,7 +18451,7 @@
       "going to leave"
     ],
     "hints": [
-      "IS",
+      "",
       "GOING TO LEAVE"
     ],
     "level": "A2",
@@ -18464,7 +18464,7 @@
       "going to leave"
     ],
     "hints": [
-      "IS",
+      "",
       "GOING TO LEAVE"
     ],
     "level": "A2",
@@ -18724,7 +18724,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Bella ___ on the sofa since breakfast.",
+    "sentence": "Rocky ___ on the sofa since breakfast.",
     "answers": [
       "has been sleeping"
     ],
@@ -18867,7 +18867,7 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Dad ___ to quit smoking recently.",
+    "sentence": "My classmate Ryan ___ to quit smoking recently.",
     "answers": [
       "has been trying"
     ],
@@ -18884,7 +18884,7 @@
       "been waiting"
     ],
     "hints": [
-      "HAVE",
+      "",
       "WAIT"
     ],
     "level": "B1",
@@ -18897,7 +18897,7 @@
       "been working"
     ],
     "hints": [
-      "HAS",
+      "",
       "WORK"
     ],
     "level": "B1",
@@ -18910,7 +18910,7 @@
       "been dating"
     ],
     "hints": [
-      "HAVE",
+      "",
       "DATE"
     ],
     "level": "B1",
@@ -18923,20 +18923,20 @@
       "been snowing"
     ],
     "hints": [
-      "HAS",
+      "",
       "SNOW"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ Mum ___ guitar?",
+    "sentence": "How long ___ My grandmother ___ guitar?",
     "answers": [
       "has",
       "been playing"
     ],
     "hints": [
-      "HAS",
+      "",
       "PLAY"
     ],
     "level": "B1",
@@ -18949,7 +18949,7 @@
       "been having"
     ],
     "hints": [
-      "HAVE",
+      "",
       "HAVE"
     ],
     "level": "B1",
@@ -18962,7 +18962,7 @@
       "been doing"
     ],
     "hints": [
-      "HAVE",
+      "",
       "DO"
     ],
     "level": "B1",
@@ -18997,7 +18997,7 @@
       "been crying"
     ],
     "hints": [
-      "HAVE",
+      "",
       "CRY"
     ],
     "level": "B1",
@@ -19037,7 +19037,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "By the time Mum came home, I ___ my homework.",
+    "sentence": "By the time My boss came home, I ___ my homework.",
     "answers": [
       "had finished"
     ],
@@ -19103,7 +19103,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "By the time I woke up, Dad ___ for work.",
+    "sentence": "By the time I woke up, My assistant ___ for work.",
     "answers": [
       "had left"
     ],
@@ -19279,7 +19279,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "After Dad ___ the car, he took us all out.",
+    "sentence": "After My elder brother David ___ the car, he took us all out.",
     "answers": [
       "had repaired"
     ],
@@ -19576,7 +19576,7 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Mum ___ (read) when the doorbell ___ (ring).",
+    "sentence": "My grandmother ___ (read) when the doorbell ___ (ring).",
     "answers": [
       "was reading",
       "rang"
@@ -19608,7 +19608,7 @@
       "went"
     ],
     "hints": [
-      "HAVE",
+      "",
       "GO"
     ],
     "level": "B1",
@@ -19680,7 +19680,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "Dad ___ (fix) the bike when I ___ (arrive).",
+    "sentence": "My elder brother David ___ (fix) the bike when I ___ (arrive).",
     "answers": [
       "was fixing",
       "arrived"
@@ -19875,7 +19875,7 @@
     "formula": "Past Continuous + Past Simple"
   },
   {
-    "sentence": "When Dad ___ (call), Mum ___ (cook) dinner.",
+    "sentence": "When My barber ___ (call), My godmother ___ (cook) dinner.",
     "answers": [
       "called",
       "was cooking"
@@ -19946,7 +19946,7 @@
       "was cooking"
     ],
     "hints": [
-      "DO",
+      "",
       "COOK"
     ],
     "level": "B1",
@@ -20128,7 +20128,7 @@
       "started"
     ],
     "hints": [
-      "HAVE",
+      "",
       "START"
     ],
     "level": "B1",
@@ -20252,7 +20252,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If Bella ___ (hear) a noise, she always ___ (hide).",
+    "sentence": "If Whiskers ___ (hear) a noise, she always ___ (hide).",
     "answers": [
       "hears",
       "hides"
@@ -20323,7 +20323,7 @@
       "is"
     ],
     "hints": [
-      "HAVE",
+      "",
       "BE"
     ],
     "level": "B1",
@@ -20356,7 +20356,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Mum ___ (be) angry if you ___ (break) her vase.",
+    "sentence": "The new intern ___ (be) angry if you ___ (break) her vase.",
     "answers": [
       "will be",
       "break"
@@ -20421,7 +20421,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "If I ___ (see) Dad, I ___ (give) him your message.",
+    "sentence": "If I ___ (see) My business partner, I ___ (give) him your message.",
     "answers": [
       "see",
       "will give"
@@ -20538,7 +20538,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "When Mum ___ (get) home, she ___ (be) so happy.",
+    "sentence": "When The receptionist ___ (get) home, she ___ (be) so happy.",
     "answers": [
       "gets",
       "will be"
@@ -20583,7 +20583,7 @@
       "would travel"
     ],
     "hints": [
-      "HAVE",
+      "",
       "TRAVEL"
     ],
     "level": "B1",
@@ -20644,7 +20644,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Mum ___ (be) very happy if Dad ___ (cook) more often right now.",
+    "sentence": "My yoga teacher ___ (be) very happy if My cousin Adam ___ (cook) more often right now.",
     "answers": [
       "would be",
       "cooked"
@@ -20663,7 +20663,7 @@
       "would get"
     ],
     "hints": [
-      "HAVE",
+      "",
       "GET"
     ],
     "level": "B1",
@@ -20904,7 +20904,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Mum can't stand ___ (wait) in queues.",
+    "sentence": "My stepmother can't stand ___ (wait) in queues.",
     "answers": [
       "waiting"
     ],
@@ -20915,7 +20915,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Dad practises ___ (speak) Spanish every day.",
+    "sentence": "My uncle practises ___ (speak) Spanish every day.",
     "answers": [
       "speaking"
     ],
@@ -20970,7 +20970,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Mum left without ___ (say) goodbye.",
+    "sentence": "My aunt left without ___ (say) goodbye.",
     "answers": [
       "saying"
     ],
@@ -21135,7 +21135,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Dad promised ___ (be) home by seven.",
+    "sentence": "My classmate Ryan promised ___ (be) home by seven.",
     "answers": [
       "to be"
     ],
@@ -21146,7 +21146,7 @@
     "formula": "Gerund and Infinitive"
   },
   {
-    "sentence": "Mum agreed ___ (drive) us to the airport.",
+    "sentence": "My yoga teacher agreed ___ (drive) us to the airport.",
     "answers": [
       "to drive"
     ],
@@ -21607,7 +21607,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "Mum ___ (be) home soon — she usually finishes at six.",
+    "sentence": "My boss ___ (be) home soon — she usually finishes at six.",
     "answers": [
       "might be"
     ],
@@ -21717,7 +21717,7 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "You ___ (try) Mum's apple pie — it's amazing!",
+    "sentence": "You ___ (try) Aunt Julia's apple pie — it's amazing!",
     "answers": [
       "must try"
     ],
@@ -21882,7 +21882,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Dad ___ (work) at the company for 25 years before he retired.",
+    "sentence": "Our neighbour ___ (work) at the company for 25 years before he retired.",
     "answers": [
       "had been working"
     ],
@@ -21959,7 +21959,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Dad ___ (save) for ages before he could afford the car.",
+    "sentence": "My uncle ___ (save) for ages before he could afford the car.",
     "answers": [
       "had been saving"
     ],
@@ -22091,7 +22091,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Tomorrow at noon Mum ___ (cook) a big meal for the guests.",
+    "sentence": "Tomorrow at noon My mother-in-law ___ (cook) a big meal for the guests.",
     "answers": [
       "will be cooking"
     ],
@@ -22278,7 +22278,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "By the end of this year, Dad ___ (work) at the same company for forty years.",
+    "sentence": "By the end of this year, The team leader ___ (work) at the same company for forty years.",
     "answers": [
       "will have been working"
     ],
@@ -22322,7 +22322,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Dad explained that he ___ (already see) the film.",
+    "sentence": "My colleague explained that he ___ (already see) the film.",
     "answers": [
       "had already seen"
     ],
@@ -22476,7 +22476,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Mum wanted to know where I ___ (go) the night before.",
+    "sentence": "The secretary wanted to know where I ___ (go) the night before.",
     "answers": [
       "had gone"
     ],
@@ -22542,7 +22542,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "The teacher asked us how we ___ (feel) about the project.",
+    "sentence": "The English teacher asked us how we ___ (feel) about the project.",
     "answers": [
       "felt"
     ],
@@ -22641,7 +22641,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Mum reminded me ___ (lock) the door.",
+    "sentence": "My godmother reminded me ___ (lock) the door.",
     "answers": [
       "to lock"
     ],
@@ -22674,7 +22674,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Mum encouraged me ___ (apply) for the scholarship.",
+    "sentence": "My business partner encouraged me ___ (apply) for the scholarship.",
     "answers": [
       "to apply"
     ],
@@ -22685,7 +22685,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "The doctor instructed her ___ (take) the medicine twice a day.",
+    "sentence": "The vet instructed her ___ (take) the medicine twice a day.",
     "answers": [
       "to take"
     ],
@@ -22751,7 +22751,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "The teacher said we ___ (use) dictionaries during the test.",
+    "sentence": "The maths teacher said we ___ (use) dictionaries during the test.",
     "answers": [
       "could use"
     ],
@@ -22773,7 +22773,7 @@
     "formula": "Reported Speech"
   },
   {
-    "sentence": "Dad said he ___ (not go) to work the next day.",
+    "sentence": "The new intern said he ___ (not go) to work the next day.",
     "answers": [
       "wouldn't go"
     ],
@@ -23316,7 +23316,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Mum ___ (be) a doctor now if she ___ (go) to medical school.",
+    "sentence": "My hairdresser ___ (be) a doctor now if she ___ (go) to medical school.",
     "answers": [
       "would be",
       "had gone"
@@ -23560,7 +23560,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Mum thanked Dad for ___ (cook) dinner.",
+    "sentence": "My assistant thanked My stepfather for ___ (cook) dinner.",
     "answers": [
       "having cooked"
     ],
@@ -23692,7 +23692,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Dad is said ___ (leave) the company over a disagreement.",
+    "sentence": "My business partner is said ___ (leave) the company over a disagreement.",
     "answers": [
       "to have left"
     ],
@@ -23952,7 +23952,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Scarcely ___ Mum ___ the door when the cat ran out.",
+    "sentence": "Scarcely ___ Our HR manager ___ the door when the cat ran out.",
     "answers": [
       "had",
       "opened"
@@ -24160,7 +24160,7 @@
     "formula": "Inversion"
   },
   {
-    "sentence": "Not only ___ Mum ___ all night, but she also missed an important meeting.",
+    "sentence": "Not only ___ My elder sister Helen ___ all night, but she also missed an important meeting.",
     "answers": [
       "did",
       "work"
@@ -24662,7 +24662,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Dad ___ (retire) years ago, but he loves his job.",
+    "sentence": "My grandfather ___ (retire) years ago, but he loves his job.",
     "answers": [
       "could have retired"
     ],
@@ -24695,7 +24695,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "I'm not sure where Mum is — she ___ (go) shopping.",
+    "sentence": "I'm not sure where My best friend Sarah is — she ___ (go) shopping.",
     "answers": [
       "might have gone"
     ],
@@ -24882,7 +24882,7 @@
     "formula": "Advanced & Perfect Modals"
   },
   {
-    "sentence": "Mum ___ (be) so proud if she'd seen you graduate.",
+    "sentence": "The secretary ___ (be) so proud if she'd seen you graduate.",
     "answers": [
       "would have been"
     ],
@@ -25031,7 +25031,7 @@
       "serviced"
     ],
     "hints": [
-      "HAVE",
+      "",
       "SERVICE"
     ],
     "level": "C1",
@@ -25044,7 +25044,7 @@
       "cut"
     ],
     "hints": [
-      "HAS",
+      "",
       "CUT"
     ],
     "level": "C1",
@@ -25057,7 +25057,7 @@
       "painted"
     ],
     "hints": [
-      "HAD",
+      "",
       "PAINT"
     ],
     "level": "C1",
@@ -25083,20 +25083,20 @@
       "repaired"
     ],
     "hints": [
-      "HAVE",
+      "",
       "REPAIR"
     ],
     "level": "C1",
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Mum ___ her teeth ___ (whiten) at the dentist's.",
+    "sentence": "My roommate ___ her teeth ___ (whiten) at the dentist's.",
     "answers": [
       "had",
       "whitened"
     ],
     "hints": [
-      "HAD",
+      "",
       "WHITEN"
     ],
     "level": "C1",
@@ -25109,14 +25109,14 @@
       "tested"
     ],
     "hints": [
-      "HAVE",
+      "",
       "TEST"
     ],
     "level": "C1",
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Dad ___ the windows ___ (clean) yesterday.",
+    "sentence": "My godfather ___ the windows ___ (clean) yesterday.",
     "answers": [
       "got",
       "cleaned"
@@ -25135,7 +25135,7 @@
       "made"
     ],
     "hints": [
-      "HAVE",
+      "",
       "MAKE"
     ],
     "level": "C1",
@@ -25161,7 +25161,7 @@
       "taken"
     ],
     "hints": [
-      "HAD",
+      "",
       "TAKE"
     ],
     "level": "C1",
@@ -25174,7 +25174,7 @@
       "translated"
     ],
     "hints": [
-      "HAVE",
+      "",
       "TRANSLATE"
     ],
     "level": "C1",
@@ -25187,7 +25187,7 @@
       "delivered"
     ],
     "hints": [
-      "HAD",
+      "",
       "DELIVER"
     ],
     "level": "C1",
@@ -25200,7 +25200,7 @@
       "redesigned"
     ],
     "hints": [
-      "HAD",
+      "",
       "REDESIGN"
     ],
     "level": "C1",
@@ -25213,7 +25213,7 @@
       "pierced"
     ],
     "hints": [
-      "HAD",
+      "",
       "PIERCE"
     ],
     "level": "C1",
@@ -25226,7 +25226,7 @@
       "stolen"
     ],
     "hints": [
-      "HAD",
+      "",
       "STEAL"
     ],
     "level": "C1",
@@ -25239,7 +25239,7 @@
       "snatched"
     ],
     "hints": [
-      "HAD",
+      "",
       "SNATCH"
     ],
     "level": "C1",
@@ -25252,7 +25252,7 @@
       "burgled"
     ],
     "hints": [
-      "HAD",
+      "",
       "BURGLE"
     ],
     "level": "C1",
@@ -25265,7 +25265,7 @@
       "vandalised"
     ],
     "hints": [
-      "HAD",
+      "",
       "VANDALISE"
     ],
     "level": "C1",
@@ -25278,14 +25278,14 @@
       "broken"
     ],
     "hints": [
-      "HAD",
+      "",
       "BREAK"
     ],
     "level": "C1",
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Mum ___ Andrew ___ (clean) his room.",
+    "sentence": "My aunt ___ Andrew ___ (clean) his room.",
     "answers": [
       "got",
       "to clean"
@@ -25298,13 +25298,13 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "The teacher ___ us ___ (rewrite) the entire essay.",
+    "sentence": "The maths teacher ___ us ___ (rewrite) the entire essay.",
     "answers": [
       "had",
       "rewrite"
     ],
     "hints": [
-      "HAD",
+      "",
       "REWRITE"
     ],
     "level": "C1",
@@ -25330,7 +25330,7 @@
       "paint"
     ],
     "hints": [
-      "HAD",
+      "",
       "PAINT"
     ],
     "level": "C1",
@@ -25343,7 +25343,7 @@
       "work"
     ],
     "hints": [
-      "HAD",
+      "",
       "WORK"
     ],
     "level": "C1",
@@ -25502,7 +25502,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Mum ___ us ___ (do) our homework before dinner.",
+    "sentence": "My niece ___ us ___ (do) our homework before dinner.",
     "answers": [
       "made",
       "do"
@@ -25528,7 +25528,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "Dad never ___ us ___ (watch) TV during meals.",
+    "sentence": "My father-in-law never ___ us ___ (watch) TV during meals.",
     "answers": [
       "lets",
       "watch"
@@ -25655,7 +25655,7 @@
     "formula": "Passive + Perfect / Causative"
   },
   {
-    "sentence": "The doctor recommended that James ___ (take) a long break.",
+    "sentence": "The dentist recommended that James ___ (take) a long break.",
     "answers": [
       "take"
     ],
@@ -25732,7 +25732,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Dad requested that the music ___ (be) turned down.",
+    "sentence": "Uncle Peter requested that the music ___ (be) turned down.",
     "answers": [
       "be"
     ],
@@ -25820,7 +25820,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "If Mum ___ younger, she would still travel the world.",
+    "sentence": "If My colleague ___ younger, she would still travel the world.",
     "answers": [
       "were"
     ],
@@ -25930,7 +25930,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "It was Dad ___ taught me how to drive, not Mum.",
+    "sentence": "It was Dad ___ taught me how to drive, not Aunt Clara.",
     "answers": [
       "who"
     ],
@@ -26128,7 +26128,7 @@
     "formula": "Subjunctive / Cleft / Emphasis"
   },
   {
-    "sentence": "Dad ___ (call) yesterday — but only briefly.",
+    "sentence": "Uncle Mark ___ (call) yesterday — but only briefly.",
     "answers": [
       "did call"
     ],
@@ -26249,7 +26249,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Dad apologised for ___ (lose) his temper at dinner.",
+    "sentence": "My boss apologised for ___ (lose) his temper at dinner.",
     "answers": [
       "having lost"
     ],
@@ -26348,7 +26348,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Dad refused ___ (treat) like a child.",
+    "sentence": "The new intern refused ___ (treat) like a child.",
     "answers": [
       "being treated"
     ],
@@ -26491,7 +26491,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Dad was lucky ___ (escape) the accident unharmed.",
+    "sentence": "My stepfather was lucky ___ (escape) the accident unharmed.",
     "answers": [
       "to have escaped"
     ],
@@ -26623,7 +26623,7 @@
     "formula": "Advanced Verbals"
   },
   {
-    "sentence": "Mum persuaded Dad ___ (take) early retirement.",
+    "sentence": "The team leader persuaded Dad ___ (take) early retirement.",
     "answers": [
       "to take"
     ],
@@ -26755,7 +26755,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "I haven't seen the new film, and neither ___ Mum.",
+    "sentence": "I haven't seen the new film, and neither ___ My elder sister Helen.",
     "answers": [
       "has"
     ],
@@ -26777,7 +26777,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "I won't be at the meeting, and ___ Dad.",
+    "sentence": "I won't be at the meeting, and ___ My cousin Adam.",
     "answers": [
       "neither will"
     ],
@@ -26821,7 +26821,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Mum can't come tonight, and ___ Dad.",
+    "sentence": "My best friend Sarah can't come tonight, and ___ Dad.",
     "answers": [
       "neither can"
     ],
@@ -26887,7 +26887,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Mum can drive a manual car, but Dad ___.",
+    "sentence": "My piano teacher can drive a manual car, but My godfather ___.",
     "answers": [
       "can't"
     ],
@@ -26986,7 +26986,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Mum cooks better than Dad ___.",
+    "sentence": "My niece cooks better than Dad ___.",
     "answers": [
       "does"
     ],
@@ -26997,7 +26997,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "The children eat more than the adults ___.",
+    "sentence": "My twin sister eat more than the adults ___.",
     "answers": [
       "do"
     ],
@@ -27173,7 +27173,7 @@
     "formula": "Ellipsis"
   },
   {
-    "sentence": "Dad would never lie, ___ he?",
+    "sentence": "My assistant would never lie, ___ he?",
     "answers": [
       "would"
     ],
@@ -27429,7 +27429,7 @@
       "would fly"
     ],
     "hints": [
-      "HAVE",
+      "",
       "FLY"
     ],
     "level": "B1",
@@ -27449,7 +27449,7 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "You ___ (try) this cake — Mum made it herself!",
+    "sentence": "You ___ (try) this cake — My hairdresser made it herself!",
     "answers": [
       "must try"
     ],
@@ -27570,7 +27570,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Mum ___ (pack) for hours when we got back from town.",
+    "sentence": "My sister-in-law ___ (pack) for hours when we got back from town.",
     "answers": [
       "had been packing"
     ],
@@ -27614,7 +27614,7 @@
     "formula": "P.P.C. / F.P.S. / F.C."
   },
   {
-    "sentence": "Mum reminded us that the dog ___ (need) to be fed.",
+    "sentence": "My mother-in-law reminded us that the dog ___ (need) to be fed.",
     "answers": [
       "needed"
     ],
@@ -27952,7 +27952,7 @@
     "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "Dad wishes he ___ (take up) running years ago.",
+    "sentence": "The director wishes he ___ (take up) running years ago.",
     "answers": [
       "had taken up"
     ],
@@ -28121,7 +28121,7 @@
     "formula": "Gerund, Infinitive, Participle"
   },
   {
-    "sentence": "Mum is delighted ___ (invite) to her cousin's wedding.",
+    "sentence": "My classmate Sophie is delighted ___ (invite) to her cousin's wedding.",
     "answers": [
       "to have been invited"
     ],
@@ -28867,7 +28867,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Mum ___ (admit) she ___ (worry) about Dad ever since he ___ (start) his new medication.",
+    "sentence": "My colleague ___ (admit) she ___ (worry) about My brother-in-law ever since he ___ (start) his new medication.",
     "answers": [
       "admitted",
       "had been worrying",
@@ -28929,7 +28929,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Mum ___ (find) the photos that Dad ___ (hide) for years, and now she ___ (insist) on knowing the whole story.",
+    "sentence": "Aunt Julia ___ (find) the photos that My manager ___ (hide) for years, and now she ___ (insist) on knowing the whole story.",
     "answers": [
       "found",
       "had been hiding",
@@ -29171,7 +29171,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Mum ___ (cook) dinner when Dad ___ (call) to say he ___ (already eat).",
+    "sentence": "Mum ___ (cook) dinner when My best friend Mark ___ (call) to say he ___ (already eat).",
     "answers": [
       "was cooking",
       "called",
@@ -29201,7 +29201,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "When I ___ (return), the kids ___ (sleep) and Mum ___ (already clean) the kitchen.",
+    "sentence": "When I ___ (return), the kids ___ (sleep) and The new intern ___ (already clean) the kitchen.",
     "answers": [
       "returned",
       "were sleeping",
@@ -29261,7 +29261,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Mum ___ (sit) by the window, ___ (read) a letter that Dad ___ (write) the previous evening.",
+    "sentence": "Mum ___ (sit) by the window, ___ (read) a letter that Our family doctor ___ (write) the previous evening.",
     "answers": [
       "was sitting",
       "reading",
@@ -29306,7 +29306,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "While the kids ___ (play) outside, Mum ___ (prepare) lunch and Dad ___ (already finish) the gardening.",
+    "sentence": "While the kids ___ (play) outside, My aunt ___ (prepare) lunch and Dad ___ (already finish) the gardening.",
     "answers": [
       "were playing",
       "was preparing",
@@ -29456,7 +29456,7 @@
     "formula": "Three+ Tenses in One Sentence"
   },
   {
-    "sentence": "Dad ___ (work) on his memoir for a year, and although he ___ (write) hundreds of pages, he ___ (still struggle) with the introduction.",
+    "sentence": "Our IT guy ___ (work) on his memoir for a year, and although he ___ (write) hundreds of pages, he ___ (still struggle) with the introduction.",
     "answers": [
       "has been working",
       "has written",
@@ -29972,5 +29972,1106 @@
     ],
     "level": "C1",
     "formula": "Three+ Tenses in One Sentence"
+  },
+  {
+    "sentence": "My name ___ Charlotte and I ___ from London.",
+    "answers": [
+      "is",
+      "am"
+    ],
+    "hints": [
+      "BE",
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Liam ___ my best friend at school.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My grandparents ___ from Italy.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Our new neighbours ___ very friendly.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ a teacher and my husband ___ a doctor.",
+    "answers": [
+      "am",
+      "is"
+    ],
+    "hints": [
+      "BE",
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "These flowers ___ beautiful — thank you!",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Henry ___ my cousin from Australia.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ best friends since kindergarten.",
+    "answers": [
+      "have been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Where ___ you right now? I cannot find you!",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The kids ___ in the garden at the moment.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ at the supermarket right now — I will be home soon.",
+    "answers": [
+      "am"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Sophie ___ at work today — she is very busy.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The cat ___ under the bed again.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My parents ___ on holiday this week.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "It ___ very cold outside today!",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ at the cinema right now — call back later.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ so tired today — I did not sleep well.",
+    "answers": [
+      "am"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Olivia ___ very happy about her new job.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The children ___ excited about the trip tomorrow.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My boss ___ never angry — she is always calm.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ so hungry — let us order pizza now.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "James ___ afraid of spiders — he always screams!",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Why ___ you so sad today?",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ not from England — I am from Spain.",
+    "answers": [
+      "am"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "These shoes ___ not mine — they belong to my sister.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The meeting ___ not in the morning — it is at 3 pm.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ not ready yet — give us five more minutes.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "___ your sister at home right now?",
+    "answers": [
+      "Is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "How old ___ your grandchildren these days?",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "What ___ your favourite colour, by the way?",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ very young when I first came here in 2010.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Last summer ___ extremely hot in our country.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Mia and Noah ___ at the party last Saturday.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My grandparents ___ in Greece last summer for three weeks.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Lucas ___ ill last week and missed three days of school.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The shops ___ closed yesterday because of the holiday.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ at the dentist all morning yesterday.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ very tired after the long flight last weekend.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Ethan ___ a champion swimmer in his twenties.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Where ___ you yesterday afternoon? I called you twice!",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My keys ___ on the table this morning — where are they now?",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ at the gym from 6 to 8 pm yesterday.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The children ___ in the playground all afternoon yesterday.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Why ___ Isabella late to work last Monday?",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ so happy when I got the news last week!",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Sebastian ___ very nervous before his interview yesterday.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ thrilled to see the Northern Lights last winter.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My parents ___ proud of me when I graduated in 2022.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Daniel ___ furious when his bike was stolen last month.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ not at home yesterday evening — I was at the office.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The kids ___ not in bed when I got home last night.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "It ___ not raining when we left this morning.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "___ you at the wedding last Saturday?",
+    "answers": [
+      "Were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "How long ___ Hannah on holiday last summer?",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ at the airport tomorrow morning at 9 am.",
+    "answers": [
+      "will be"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Mum ___ very happy with this gift on her next birthday.",
+    "answers": [
+      "will be"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My twin brother ___ at summer camp next week.",
+    "answers": [
+      "will be"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Don't worry — I ___ there in five minutes!",
+    "answers": [
+      "will be"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Adam ___ at university next September.",
+    "answers": [
+      "will be"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ not in the office tomorrow — I am working from home.",
+    "answers": [
+      "will not be"
+    ],
+    "hints": [
+      "NOT BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ not late tomorrow — I promise.",
+    "answers": [
+      "will not be"
+    ],
+    "hints": [
+      "NOT BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "___ you ___ free this evening for a quick chat?",
+    "answers": [
+      "Will",
+      "be"
+    ],
+    "hints": [
+      "WILL",
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "When ___ the dinner ___ ready?",
+    "answers": [
+      "will",
+      "be"
+    ],
+    "hints": [
+      "WILL",
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "How old ___ your son ___ in 2030?",
+    "answers": [
+      "will",
+      "be"
+    ],
+    "hints": [
+      "WILL",
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ to Paris three times so far.",
+    "answers": [
+      "have been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Lily ___ ill since last Wednesday.",
+    "answers": [
+      "has been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "We ___ friends for over twenty years now.",
+    "answers": [
+      "have been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Ryan ___ a teacher for fifteen years.",
+    "answers": [
+      "has been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "It ___ a long day and I am exhausted.",
+    "answers": [
+      "has been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Grace ___ at this company since 2018.",
+    "answers": [
+      "has been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I ___ never to Japan before — it is on my bucket list.",
+    "answers": [
+      "have been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "How long ___ you ___ in Berlin so far?",
+    "answers": [
+      "have",
+      "been"
+    ],
+    "hints": [
+      "HAVE",
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "My uncle ___ a chef since he was twenty years old.",
+    "answers": [
+      "has been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The weather ___ awful all week.",
+    "answers": [
+      "has been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "You ___ tired after such a long flight — rest now.",
+    "answers": [
+      "must be"
+    ],
+    "hints": [
+      "MUST BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The kids ___ in bed by 9 pm every weeknight.",
+    "answers": [
+      "should be"
+    ],
+    "hints": [
+      "SHOULD BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "It ___ a great party — everyone is laughing.",
+    "answers": [
+      "must be"
+    ],
+    "hints": [
+      "MUST BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Eva ___ at home now — she finishes work at 5.",
+    "answers": [
+      "should be"
+    ],
+    "hints": [
+      "SHOULD BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "You ___ more careful with your phone — that is the third time you've dropped it.",
+    "answers": [
+      "should be"
+    ],
+    "hints": [
+      "SHOULD BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "This box ___ very heavy — I cannot lift it!",
+    "answers": [
+      "must be"
+    ],
+    "hints": [
+      "MUST BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Children ___ supervised at all times near the pool.",
+    "answers": [
+      "must be"
+    ],
+    "hints": [
+      "MUST BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "The exam ___ difficult — Theo has been studying for weeks.",
+    "answers": [
+      "must be"
+    ],
+    "hints": [
+      "MUST BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "You ___ on time for the meeting tomorrow.",
+    "answers": [
+      "must be"
+    ],
+    "hints": [
+      "MUST BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Anna ___ at her desk by now — let me check.",
+    "answers": [
+      "should be"
+    ],
+    "hints": [
+      "SHOULD BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ a beautiful garden behind our house.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ many shops in our city centre these days.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ no milk in the fridge this morning.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ a lot of cars on the road yesterday evening.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ a meeting tomorrow at 10 am.",
+    "answers": [
+      "will be"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ never any rules in this family — we are quite free.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ a problem with the printer right now.",
+    "answers": [
+      "is"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ many tourists in Rome last summer.",
+    "answers": [
+      "were"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ several issues that we need to discuss soon.",
+    "answers": [
+      "are"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "There ___ a power cut last night for three hours.",
+    "answers": [
+      "was"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Stop ___ so rude to your sister — apologise now!",
+    "answers": [
+      "being"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "I have ___ working all day — I deserve a rest.",
+    "answers": [
+      "been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Olivia hates ___ told what to do.",
+    "answers": [
+      "being"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Sebastian has ___ to that café before — he knows the menu.",
+    "answers": [
+      "been"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
+  },
+  {
+    "sentence": "Thank you for ___ so patient with us today.",
+    "answers": [
+      "being"
+    ],
+    "hints": [
+      "BE"
+    ],
+    "level": "A1",
+    "formula": "Verb To Be"
   }
 ]
