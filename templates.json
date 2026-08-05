@@ -18123,9 +18123,9 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "I had already ___ my homework when Jack called.",
+    "sentence": "I ___ my homework when Jack called.",
     "answers": [
-      "finished"
+      "had already finished/had finished"
     ],
     "hints": [
       "FINISH"
@@ -18134,9 +18134,9 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Chloe had just ___ the cake when guests arrived.",
+    "sentence": "Chloe ___ the cake when guests arrived.",
     "answers": [
-      "baked"
+      "had just baked/had baked"
     ],
     "hints": [
       "BAKE"
@@ -18145,9 +18145,9 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Tom had never ___ snow before he visited Norway.",
+    "sentence": "Tom ___ snow before he visited Norway.",
     "answers": [
-      "seen"
+      "had never seen"
     ],
     "hints": [
       "SEE"
@@ -18156,9 +18156,9 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "All of us had just ___ the report when the boss came in.",
+    "sentence": "All of us ___ the report when the boss came in.",
     "answers": [
-      "sent"
+      "had just sent/had sent"
     ],
     "hints": [
       "SEND"
@@ -18167,9 +18167,9 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "Lisa had already ___ when I tried to call.",
+    "sentence": "Lisa ___ when I tried to call.",
     "answers": [
-      "left"
+      "had already left/had left"
     ],
     "hints": [
       "LEAVE"
@@ -18178,9 +18178,9 @@
     "formula": "Past Perfect"
   },
   {
-    "sentence": "I had never ___ such a beautiful sunset before that trip.",
+    "sentence": "I ___ such a beautiful sunset before that trip.",
     "answers": [
-      "seen"
+      "had never seen"
     ],
     "hints": [
       "SEE"
@@ -29348,7 +29348,7 @@
       "can speak/is able to speak"
     ],
     "hints": [
-      "SPEAK"
+      "может / можно · SPEAK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29359,7 +29359,7 @@
       "can't swim/cannot swim/am not able to swim"
     ],
     "hints": [
-      "SWIM"
+      "не может · SWIM"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29370,7 +29370,7 @@
       "can read/is able to read"
     ],
     "hints": [
-      "READ"
+      "может / можно · READ"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29381,7 +29381,7 @@
       "can play/has been able to play"
     ],
     "hints": [
-      "PLAY"
+      "может / можно · PLAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29392,7 +29392,7 @@
       "can't find/cannot find"
     ],
     "hints": [
-      "FIND"
+      "не может · FIND"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29403,7 +29403,7 @@
       "can drive/is able to drive"
     ],
     "hints": [
-      "DRIVE"
+      "может / можно · DRIVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29414,7 +29414,7 @@
       "can't walk/cannot walk"
     ],
     "hints": [
-      "WALK"
+      "не может · WALK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29425,7 +29425,7 @@
       "can do/is able to do"
     ],
     "hints": [
-      "DO"
+      "может / можно · DO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29436,7 +29436,7 @@
       "can't hear/cannot hear"
     ],
     "hints": [
-      "HEAR"
+      "не может · HEAR"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29447,7 +29447,7 @@
       "can play/is able to play"
     ],
     "hints": [
-      "PLAY"
+      "может / можно · PLAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29458,7 +29458,7 @@
       "can't watch/cannot watch"
     ],
     "hints": [
-      "WATCH"
+      "не может · WATCH"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29469,7 +29469,7 @@
       "can run/is able to run"
     ],
     "hints": [
-      "RUN"
+      "может / можно · RUN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29480,7 +29480,7 @@
       "could climb/was able to climb"
     ],
     "hints": [
-      "CLIMB"
+      "мог / мог бы · CLIMB"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29491,7 +29491,7 @@
       "couldn't read"
     ],
     "hints": [
-      "READ"
+      "не мог · READ"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29503,7 +29503,7 @@
       "play"
     ],
     "hints": [
-      "PLAY"
+      "мог · PLAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29514,7 +29514,7 @@
       "couldn't see"
     ],
     "hints": [
-      "SEE"
+      "не мог · SEE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29525,7 +29525,7 @@
       "couldn't walk"
     ],
     "hints": [
-      "WALK"
+      "не мог · WALK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29536,7 +29536,7 @@
       "were able to get/managed to get"
     ],
     "hints": [
-      "GET"
+      "смог · GET"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29547,7 +29547,7 @@
       "was able to solve/managed to solve"
     ],
     "hints": [
-      "SOLVE"
+      "смог · SOLVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29558,7 +29558,7 @@
       "was able to find/managed to find"
     ],
     "hints": [
-      "FIND"
+      "смог · FIND"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29569,7 +29569,7 @@
       "were able to rescue/managed to rescue"
     ],
     "hints": [
-      "RESCUE"
+      "смог · RESCUE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29580,7 +29580,7 @@
       "was able to finish/managed to finish"
     ],
     "hints": [
-      "FINISH"
+      "смог · FINISH"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29591,7 +29591,7 @@
       "were able to save/managed to save"
     ],
     "hints": [
-      "SAVE"
+      "смог · SAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29602,7 +29602,7 @@
       "was able to run/managed to run"
     ],
     "hints": [
-      "RUN"
+      "смог · RUN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29613,7 +29613,7 @@
       "was able to meet/managed to meet"
     ],
     "hints": [
-      "MEET"
+      "смог · MEET"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29624,7 +29624,7 @@
       "can do/is able to do"
     ],
     "hints": [
-      "DO"
+      "может / можно · DO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29635,7 +29635,7 @@
       "can solve/is able to solve"
     ],
     "hints": [
-      "SOLVE"
+      "может / можно · SOLVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29646,7 +29646,7 @@
       "can lift/are able to lift"
     ],
     "hints": [
-      "LIFT"
+      "может / можно · LIFT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29657,7 +29657,7 @@
       "can print/is able to print"
     ],
     "hints": [
-      "PRINT"
+      "может / можно · PRINT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29668,7 +29668,7 @@
       "can see/are able to see"
     ],
     "hints": [
-      "SEE"
+      "может / можно · SEE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29679,7 +29679,7 @@
       "can visit/are able to visit"
     ],
     "hints": [
-      "VISIT"
+      "может / можно · VISIT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29690,7 +29690,7 @@
       "must buy/have to buy"
     ],
     "hints": [
-      "BUY"
+      "должен · BUY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29701,7 +29701,7 @@
       "must try"
     ],
     "hints": [
-      "TRY"
+      "должен · TRY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29712,7 +29712,7 @@
       "must warn/have to warn"
     ],
     "hints": [
-      "WARN"
+      "должен · WARN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29723,7 +29723,7 @@
       "must watch/have to watch"
     ],
     "hints": [
-      "WATCH"
+      "должен · WATCH"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29734,7 +29734,7 @@
       "must write/have to write"
     ],
     "hints": [
-      "WRITE"
+      "должен · WRITE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29745,7 +29745,7 @@
       "have to wear/must wear"
     ],
     "hints": [
-      "WEAR"
+      "нужно · WEAR"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29756,7 +29756,7 @@
       "has to get/must get"
     ],
     "hints": [
-      "GET"
+      "нужно · GET"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29767,7 +29767,7 @@
       "have to wear"
     ],
     "hints": [
-      "WEAR"
+      "нужно · WEAR"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29778,7 +29778,7 @@
       "have to study/must study"
     ],
     "hints": [
-      "STUDY"
+      "нужно · STUDY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29789,7 +29789,7 @@
       "has to work"
     ],
     "hints": [
-      "WORK"
+      "нужно · WORK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29800,7 +29800,7 @@
       "must fasten/have to fasten"
     ],
     "hints": [
-      "FASTEN"
+      "должен · FASTEN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29811,7 +29811,7 @@
       "has to answer/must answer"
     ],
     "hints": [
-      "ANSWER"
+      "нужно · ANSWER"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29822,7 +29822,7 @@
       "have to wear/must wear"
     ],
     "hints": [
-      "WEAR"
+      "нужно · WEAR"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29833,7 +29833,7 @@
       "had to stay"
     ],
     "hints": [
-      "STAY"
+      "пришлось · STAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29844,7 +29844,7 @@
       "had to cancel"
     ],
     "hints": [
-      "CANCEL"
+      "пришлось · CANCEL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29855,7 +29855,7 @@
       "had to give"
     ],
     "hints": [
-      "GIVE"
+      "пришлось · GIVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29866,7 +29866,7 @@
       "had to leave"
     ],
     "hints": [
-      "LEAVE"
+      "пришлось · LEAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29877,7 +29877,7 @@
       "had to have"
     ],
     "hints": [
-      "HAVE"
+      "пришлось · HAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29888,7 +29888,7 @@
       "had to move"
     ],
     "hints": [
-      "MOVE"
+      "пришлось · MOVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29899,7 +29899,7 @@
       "had to play"
     ],
     "hints": [
-      "PLAY"
+      "пришлось · PLAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29910,7 +29910,7 @@
       "should see/ought to see"
     ],
     "hints": [
-      "SEE"
+      "следует · SEE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29921,7 +29921,7 @@
       "should go/ought to go"
     ],
     "hints": [
-      "GO"
+      "следует · GO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29932,7 +29932,7 @@
       "should read/ought to read"
     ],
     "hints": [
-      "READ"
+      "следует · READ"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29943,7 +29943,7 @@
       "should drink/ought to drink"
     ],
     "hints": [
-      "DRINK"
+      "следует · DRINK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29954,7 +29954,7 @@
       "should apply/ought to apply"
     ],
     "hints": [
-      "APPLY"
+      "следует · APPLY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29965,7 +29965,7 @@
       "should leave/ought to leave"
     ],
     "hints": [
-      "LEAVE"
+      "следует · LEAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29976,7 +29976,7 @@
       "should go/ought to go"
     ],
     "hints": [
-      "GO"
+      "следует · GO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29987,7 +29987,7 @@
       "should check/ought to check"
     ],
     "hints": [
-      "CHECK"
+      "следует · CHECK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -29998,7 +29998,7 @@
       "should sit/ought to sit"
     ],
     "hints": [
-      "SIT"
+      "следует · SIT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30009,7 +30009,7 @@
       "should call/ought to call"
     ],
     "hints": [
-      "CALL"
+      "следует · CALL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30020,7 +30020,7 @@
       "should exercise/ought to exercise"
     ],
     "hints": [
-      "EXERCISE"
+      "следует · EXERCISE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30031,7 +30031,7 @@
       "should take/ought to take"
     ],
     "hints": [
-      "TAKE"
+      "следует · TAKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30042,7 +30042,7 @@
       "shouldn't eat/oughtn't to eat"
     ],
     "hints": [
-      "EAT"
+      "не стоит · EAT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30053,7 +30053,7 @@
       "shouldn't let"
     ],
     "hints": [
-      "LET"
+      "не стоит · LET"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30064,7 +30064,7 @@
       "shouldn't work/oughtn't to work"
     ],
     "hints": [
-      "WORK"
+      "не стоит · WORK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30075,7 +30075,7 @@
       "shouldn't drive/oughtn't to drive"
     ],
     "hints": [
-      "DRIVE"
+      "не стоит · DRIVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30086,7 +30086,7 @@
       "shouldn't hide/oughtn't to hide"
     ],
     "hints": [
-      "HIDE"
+      "не стоит · HIDE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30097,7 +30097,7 @@
       "shouldn't read/oughtn't to read"
     ],
     "hints": [
-      "READ"
+      "не стоит · READ"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30108,7 +30108,7 @@
       "shouldn't stay up"
     ],
     "hints": [
-      "STAY UP"
+      "не стоит · STAY UP"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30119,7 +30119,7 @@
       "shouldn't use/oughtn't to use"
     ],
     "hints": [
-      "USE"
+      "не стоит · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30130,7 +30130,7 @@
       "had better leave/better leave"
     ],
     "hints": [
-      "LEAVE"
+      "лучше · LEAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30141,7 +30141,7 @@
       "had better book/better book"
     ],
     "hints": [
-      "BOOK"
+      "лучше · BOOK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30152,7 +30152,7 @@
       "had better call/better call"
     ],
     "hints": [
-      "CALL"
+      "лучше · CALL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30163,7 +30163,7 @@
       "had better finish/better finish"
     ],
     "hints": [
-      "FINISH"
+      "лучше · FINISH"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30174,7 +30174,7 @@
       "had better do/better do"
     ],
     "hints": [
-      "DO"
+      "лучше · DO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30185,7 +30185,7 @@
       "don't have to come/needn't come"
     ],
     "hints": [
-      "COME"
+      "не обязательно · COME"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30196,7 +30196,7 @@
       "doesn't have to work"
     ],
     "hints": [
-      "WORK"
+      "не обязательно · WORK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30207,7 +30207,7 @@
       "don't have to buy/needn't buy"
     ],
     "hints": [
-      "BUY"
+      "не обязательно · BUY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30218,7 +30218,7 @@
       "don't have to pay/needn't pay"
     ],
     "hints": [
-      "PAY"
+      "не обязательно · PAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30229,7 +30229,7 @@
       "don't have to remove"
     ],
     "hints": [
-      "REMOVE"
+      "не обязательно · REMOVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30240,7 +30240,7 @@
       "don't have to commute"
     ],
     "hints": [
-      "COMMUTE"
+      "не обязательно · COMMUTE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30251,7 +30251,7 @@
       "don't have to wear"
     ],
     "hints": [
-      "WEAR"
+      "не обязательно · WEAR"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30262,7 +30262,7 @@
       "don't have to work/needn't work"
     ],
     "hints": [
-      "WORK"
+      "не обязательно · WORK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30273,7 +30273,7 @@
       "didn't have to pay/didn't need to pay"
     ],
     "hints": [
-      "PAY"
+      "не пришлось · PAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30284,7 +30284,7 @@
       "didn't have to buy/didn't need to buy"
     ],
     "hints": [
-      "BUY"
+      "не пришлось · BUY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30295,7 +30295,7 @@
       "didn't have to do/didn't need to do"
     ],
     "hints": [
-      "DO"
+      "не пришлось · DO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30306,7 +30306,7 @@
       "didn't have to ask/didn't need to ask"
     ],
     "hints": [
-      "ASK"
+      "не пришлось · ASK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30317,7 +30317,7 @@
       "didn't have to take/didn't need to take"
     ],
     "hints": [
-      "TAKE"
+      "не пришлось · TAKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30328,7 +30328,7 @@
       "didn't have to work/didn't need to work"
     ],
     "hints": [
-      "WORK"
+      "не пришлось · WORK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30339,7 +30339,7 @@
       "didn't have to bring/didn't need to bring"
     ],
     "hints": [
-      "BRING"
+      "не пришлось · BRING"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30350,7 +30350,7 @@
       "mustn't take/can't take"
     ],
     "hints": [
-      "TAKE"
+      "нельзя · TAKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30361,7 +30361,7 @@
       "mustn't visit/can't visit"
     ],
     "hints": [
-      "VISIT"
+      "нельзя · VISIT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30372,7 +30372,7 @@
       "mustn't use/can't use"
     ],
     "hints": [
-      "USE"
+      "нельзя · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30383,7 +30383,7 @@
       "mustn't smoke/can't smoke"
     ],
     "hints": [
-      "SMOKE"
+      "нельзя · SMOKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30394,7 +30394,7 @@
       "mustn't tell/can't tell"
     ],
     "hints": [
-      "TELL"
+      "нельзя · TELL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30405,7 +30405,7 @@
       "mustn't let/can't let"
     ],
     "hints": [
-      "LET"
+      "нельзя · LET"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30416,7 +30416,7 @@
       "mustn't forget"
     ],
     "hints": [
-      "FORGET"
+      "нельзя · FORGET"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30427,7 +30427,7 @@
       "mustn't share/can't share"
     ],
     "hints": [
-      "SHARE"
+      "нельзя · SHARE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30438,7 +30438,7 @@
       "mustn't walk/can't walk"
     ],
     "hints": [
-      "WALK"
+      "нельзя · WALK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30449,7 +30449,7 @@
       "mustn't buy/can't buy"
     ],
     "hints": [
-      "BUY"
+      "нельзя · BUY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30460,7 +30460,7 @@
       "mustn't open/can't open"
     ],
     "hints": [
-      "OPEN"
+      "нельзя · OPEN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30471,7 +30471,7 @@
       "mustn't use/can't use"
     ],
     "hints": [
-      "USE"
+      "нельзя · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30482,7 +30482,7 @@
       "mustn't touch/can't touch"
     ],
     "hints": [
-      "TOUCH"
+      "нельзя · TOUCH"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30493,7 +30493,7 @@
       "mustn't give/can't give"
     ],
     "hints": [
-      "GIVE"
+      "нельзя · GIVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30504,7 +30504,7 @@
       "mustn't take/can't take"
     ],
     "hints": [
-      "TAKE"
+      "нельзя · TAKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30515,7 +30515,7 @@
       "may rain/might rain/could rain"
     ],
     "hints": [
-      "RAIN"
+      "возможно · RAIN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30526,7 +30526,7 @@
       "may be working/might be working/could be working"
     ],
     "hints": [
-      "WORK"
+      "возможно сейчас · WORK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30537,7 +30537,7 @@
       "may have left/might have left/could have left"
     ],
     "hints": [
-      "LEAVE"
+      "возможно · LEAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30548,7 +30548,7 @@
       "may be/might be/could be"
     ],
     "hints": [
-      "BE"
+      "возможно · BE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30559,7 +30559,7 @@
       "may miss/might miss/could miss"
     ],
     "hints": [
-      "MISS"
+      "возможно · MISS"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30570,7 +30570,7 @@
       "may be/might be/could be"
     ],
     "hints": [
-      "BE"
+      "возможно · BE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30581,7 +30581,7 @@
       "may come/might come/could come"
     ],
     "hints": [
-      "COME"
+      "возможно · COME"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30592,7 +30592,7 @@
       "may go/might go/could go"
     ],
     "hints": [
-      "GO"
+      "возможно · GO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30603,7 +30603,7 @@
       "may storm/might storm/could storm"
     ],
     "hints": [
-      "STORM"
+      "возможно · STORM"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30614,7 +30614,7 @@
       "may rise/might rise/could rise"
     ],
     "hints": [
-      "RISE"
+      "возможно · RISE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30625,7 +30625,7 @@
       "may not attend/might not attend"
     ],
     "hints": [
-      "ATTEND"
+      "возможно, не · ATTEND"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30636,7 +30636,7 @@
       "may not be/might not be"
     ],
     "hints": [
-      "BE"
+      "возможно, не · BE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30647,7 +30647,7 @@
       "may not have/might not have"
     ],
     "hints": [
-      "HAVE"
+      "возможно, не · HAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30658,7 +30658,7 @@
       "may not feel/might not feel"
     ],
     "hints": [
-      "FEEL"
+      "возможно, не · FEEL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30669,7 +30669,7 @@
       "may not have/might not have"
     ],
     "hints": [
-      "HAVE"
+      "возможно, не · HAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30680,7 +30680,7 @@
       "could find/might find"
     ],
     "hints": [
-      "FIND"
+      "мог / мог бы · FIND"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30691,7 +30691,7 @@
       "could go/might go"
     ],
     "hints": [
-      "GO"
+      "мог / мог бы · GO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30702,7 +30702,7 @@
       "could visit/might visit"
     ],
     "hints": [
-      "VISIT"
+      "мог / мог бы · VISIT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30713,7 +30713,7 @@
       "could be/might be"
     ],
     "hints": [
-      "BE"
+      "мог / мог бы · BE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30724,7 +30724,7 @@
       "could ask/might ask"
     ],
     "hints": [
-      "ASK"
+      "мог / мог бы · ASK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30736,7 +30736,7 @@
       "borrow"
     ],
     "hints": [
-      "BORROW"
+      "можно · BORROW"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30748,7 +30748,7 @@
       "open"
     ],
     "hints": [
-      "OPEN"
+      "можно · OPEN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30760,7 +30760,7 @@
       "use"
     ],
     "hints": [
-      "USE"
+      "можно · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30772,7 +30772,7 @@
       "leave"
     ],
     "hints": [
-      "LEAVE"
+      "можно · LEAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30784,7 +30784,7 @@
       "ask"
     ],
     "hints": [
-      "ASK"
+      "можно · ASK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30796,7 +30796,7 @@
       "sit"
     ],
     "hints": [
-      "SIT"
+      "можно · SIT"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30808,7 +30808,7 @@
       "take"
     ],
     "hints": [
-      "TAKE"
+      "можно · TAKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30820,7 +30820,7 @@
       "have"
     ],
     "hints": [
-      "HAVE"
+      "можно · HAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30832,7 +30832,7 @@
       "help"
     ],
     "hints": [
-      "HELP"
+      "не мог бы · HELP"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30844,7 +30844,7 @@
       "close"
     ],
     "hints": [
-      "CLOSE"
+      "не мог бы · CLOSE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30856,7 +30856,7 @@
       "do"
     ],
     "hints": [
-      "DO"
+      "не мог бы · DO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30868,7 +30868,7 @@
       "play"
     ],
     "hints": [
-      "PLAY"
+      "не мог бы · PLAY"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30880,7 +30880,7 @@
       "turn"
     ],
     "hints": [
-      "TURN"
+      "не мог бы · TURN"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30892,7 +30892,7 @@
       "pass"
     ],
     "hints": [
-      "PASS"
+      "не мог бы · PASS"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30904,7 +30904,7 @@
       "lend"
     ],
     "hints": [
-      "LEND"
+      "не мог бы · LEND"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30916,7 +30916,7 @@
       "tell"
     ],
     "hints": [
-      "TELL"
+      "не мог бы · TELL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30927,7 +30927,7 @@
       "may not use/can't use/mustn't use"
     ],
     "hints": [
-      "USE"
+      "возможно, не · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30938,7 +30938,7 @@
       "may not enter/can't enter/mustn't enter"
     ],
     "hints": [
-      "ENTER"
+      "возможно, не · ENTER"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30949,7 +30949,7 @@
       "may not use/can't use/mustn't use"
     ],
     "hints": [
-      "USE"
+      "возможно, не · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30960,7 +30960,7 @@
       "may not enter/can't enter/mustn't enter"
     ],
     "hints": [
-      "ENTER"
+      "возможно, не · ENTER"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30972,7 +30972,7 @@
       "keep"
     ],
     "hints": [
-      "KEEP"
+      "не мог бы · KEEP"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30983,7 +30983,7 @@
       "must finish/have to finish"
     ],
     "hints": [
-      "FINISH"
+      "должен · FINISH"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30994,7 +30994,7 @@
       "has to read/must read"
     ],
     "hints": [
-      "READ"
+      "нужно · READ"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -31005,7 +31005,7 @@
       "don't have to get/needn't get"
     ],
     "hints": [
-      "GET UP"
+      "не обязательно · GET UP"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -31016,7 +31016,7 @@
       "must have rained"
     ],
     "hints": [
-      "RAIN"
+      "наверняка · RAIN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31027,7 +31027,7 @@
       "must have been"
     ],
     "hints": [
-      "BE"
+      "наверняка · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31038,7 +31038,7 @@
       "must have drunk"
     ],
     "hints": [
-      "DRINK"
+      "наверняка · DRINK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31049,7 +31049,7 @@
       "must have locked"
     ],
     "hints": [
-      "LOCK"
+      "наверняка · LOCK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31060,7 +31060,7 @@
       "must have had"
     ],
     "hints": [
-      "HAVE"
+      "наверняка · HAVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31071,7 +31071,7 @@
       "must have come in"
     ],
     "hints": [
-      "COME IN"
+      "наверняка · COME IN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31082,7 +31082,7 @@
       "must have eaten"
     ],
     "hints": [
-      "EAT"
+      "наверняка · EAT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31093,7 +31093,7 @@
       "must have studied"
     ],
     "hints": [
-      "STUDY"
+      "наверняка · STUDY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31104,7 +31104,7 @@
       "must have been"
     ],
     "hints": [
-      "BE"
+      "наверняка · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31115,7 +31115,7 @@
       "must have hurt"
     ],
     "hints": [
-      "HURT"
+      "наверняка · HURT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31126,7 +31126,7 @@
       "can't have seen/couldn't have seen"
     ],
     "hints": [
-      "SEE"
+      "не мог · SEE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31137,7 +31137,7 @@
       "can't have received/couldn't have received"
     ],
     "hints": [
-      "RECEIVE"
+      "не мог · RECEIVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31148,7 +31148,7 @@
       "can't have met/couldn't have met"
     ],
     "hints": [
-      "MEET"
+      "не мог · MEET"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31159,7 +31159,7 @@
       "can't have finished/couldn't have finished"
     ],
     "hints": [
-      "FINISH"
+      "не мог · FINISH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31170,7 +31170,7 @@
       "can't have arrived/couldn't have arrived"
     ],
     "hints": [
-      "ARRIVE"
+      "не мог · ARRIVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31181,7 +31181,7 @@
       "can't have done/couldn't have done"
     ],
     "hints": [
-      "DO"
+      "не мог · DO"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31192,7 +31192,7 @@
       "can't be/couldn't be"
     ],
     "hints": [
-      "BE"
+      "не может · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31203,7 +31203,7 @@
       "can't have answered/couldn't have answered"
     ],
     "hints": [
-      "ANSWER"
+      "не мог · ANSWER"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31214,7 +31214,7 @@
       "might have been/may have been/could have been"
     ],
     "hints": [
-      "BE"
+      "возможно · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31225,7 +31225,7 @@
       "might have left/may have left/could have left"
     ],
     "hints": [
-      "LEAVE"
+      "возможно · LEAVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31236,7 +31236,7 @@
       "might have fallen/may have fallen/could have fallen"
     ],
     "hints": [
-      "FALL"
+      "возможно · FALL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31247,7 +31247,7 @@
       "might have missed/may have missed/could have missed"
     ],
     "hints": [
-      "MISS"
+      "возможно · MISS"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31258,7 +31258,7 @@
       "might have got/may have got/could have got"
     ],
     "hints": [
-      "GET"
+      "возможно · GET"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31269,7 +31269,7 @@
       "could have been"
     ],
     "hints": [
-      "BE"
+      "мог бы · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31280,7 +31280,7 @@
       "could have missed"
     ],
     "hints": [
-      "MISS"
+      "мог бы · MISS"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31291,7 +31291,7 @@
       "could have called/should have called"
     ],
     "hints": [
-      "CALL"
+      "мог бы · CALL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31302,7 +31302,7 @@
       "could have got/could have gotten"
     ],
     "hints": [
-      "GET"
+      "мог бы · GET"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31313,7 +31313,7 @@
       "could have broken/might have broken"
     ],
     "hints": [
-      "BREAK"
+      "мог бы · BREAK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31324,7 +31324,7 @@
       "could have become"
     ],
     "hints": [
-      "BECOME"
+      "мог бы · BECOME"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31335,7 +31335,7 @@
       "could have avoided/might have avoided"
     ],
     "hints": [
-      "AVOID"
+      "мог бы · AVOID"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31346,7 +31346,7 @@
       "should have called/ought to have called"
     ],
     "hints": [
-      "CALL"
+      "надо было · CALL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31357,7 +31357,7 @@
       "should have told/ought to have told"
     ],
     "hints": [
-      "TELL"
+      "надо было · TELL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31368,7 +31368,7 @@
       "should have listened/ought to have listened"
     ],
     "hints": [
-      "LISTEN"
+      "надо было · LISTEN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31379,7 +31379,7 @@
       "should have booked/ought to have booked"
     ],
     "hints": [
-      "BOOK"
+      "надо было · BOOK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31390,7 +31390,7 @@
       "should have read/ought to have read"
     ],
     "hints": [
-      "READ"
+      "надо было · READ"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31401,7 +31401,7 @@
       "should have seen/ought to have seen"
     ],
     "hints": [
-      "SEE"
+      "надо было · SEE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31412,7 +31412,7 @@
       "should have gone/ought to have gone"
     ],
     "hints": [
-      "GO"
+      "надо было · GO"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31423,7 +31423,7 @@
       "should have checked/ought to have checked"
     ],
     "hints": [
-      "CHECK"
+      "надо было · CHECK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31434,7 +31434,7 @@
       "should have brought/ought to have brought"
     ],
     "hints": [
-      "BRING"
+      "надо было · BRING"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31445,7 +31445,7 @@
       "should have played/ought to have played"
     ],
     "hints": [
-      "PLAY"
+      "надо было · PLAY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31456,7 +31456,7 @@
       "should have taken/ought to have taken"
     ],
     "hints": [
-      "TAKE"
+      "надо было · TAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31467,7 +31467,7 @@
       "shouldn't have eaten/oughtn't to have eaten"
     ],
     "hints": [
-      "EAT"
+      "не надо было · EAT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31478,7 +31478,7 @@
       "shouldn't have sent/oughtn't to have sent"
     ],
     "hints": [
-      "SEND"
+      "не надо было · SEND"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31489,7 +31489,7 @@
       "shouldn't have lost/oughtn't to have lost"
     ],
     "hints": [
-      "LOSE"
+      "не надо было · LOSE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31500,7 +31500,7 @@
       "shouldn't have lent/oughtn't to have lent"
     ],
     "hints": [
-      "LEND"
+      "не надо было · LEND"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31511,7 +31511,7 @@
       "shouldn't have stayed up"
     ],
     "hints": [
-      "STAY UP"
+      "не надо было · STAY UP"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31522,7 +31522,7 @@
       "shouldn't have taken/oughtn't to have taken"
     ],
     "hints": [
-      "TAKE"
+      "не надо было · TAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31533,7 +31533,7 @@
       "shouldn't have told/oughtn't to have told"
     ],
     "hints": [
-      "TELL"
+      "не надо было · TELL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31544,7 +31544,7 @@
       "shouldn't have made/oughtn't to have made"
     ],
     "hints": [
-      "MAKE"
+      "не надо было · MAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31555,7 +31555,7 @@
       "shouldn't have criticised/oughtn't to have criticised"
     ],
     "hints": [
-      "CRITICISE"
+      "не надо было · CRITICISE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31566,7 +31566,7 @@
       "shouldn't have raised/oughtn't to have raised"
     ],
     "hints": [
-      "RAISE"
+      "не надо было · RAISE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31577,7 +31577,7 @@
       "shouldn't have agreed/oughtn't to have agreed"
     ],
     "hints": [
-      "AGREE"
+      "не надо было · AGREE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31588,7 +31588,7 @@
       "shouldn't have left/oughtn't to have left"
     ],
     "hints": [
-      "LEAVE"
+      "не надо было · LEAVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31599,7 +31599,7 @@
       "shouldn't have made/oughtn't to have made"
     ],
     "hints": [
-      "MAKE"
+      "не надо было · MAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31610,7 +31610,7 @@
       "shouldn't have taken/oughtn't to have taken"
     ],
     "hints": [
-      "TAKE"
+      "не надо было · TAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31621,7 +31621,7 @@
       "could have come/would have come"
     ],
     "hints": [
-      "COME"
+      "мог бы · COME"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31632,7 +31632,7 @@
       "could have finished/would have finished"
     ],
     "hints": [
-      "FINISH"
+      "мог бы · FINISH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31643,7 +31643,7 @@
       "could have called/should have called"
     ],
     "hints": [
-      "CALL"
+      "мог бы · CALL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31654,7 +31654,7 @@
       "could have won/might have won"
     ],
     "hints": [
-      "WIN"
+      "мог бы · WIN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31665,7 +31665,7 @@
       "could have attended"
     ],
     "hints": [
-      "ATTEND"
+      "мог бы · ATTEND"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31676,7 +31676,7 @@
       "could have been"
     ],
     "hints": [
-      "BE"
+      "мог бы · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31687,7 +31687,7 @@
       "could have saved/might have saved"
     ],
     "hints": [
-      "SAVE"
+      "мог бы · SAVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31698,7 +31698,7 @@
       "could have bought"
     ],
     "hints": [
-      "BUY"
+      "мог бы · BUY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31709,7 +31709,7 @@
       "could have chosen"
     ],
     "hints": [
-      "CHOOSE"
+      "мог бы · CHOOSE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31720,7 +31720,7 @@
       "could have saved/would have saved"
     ],
     "hints": [
-      "SAVE"
+      "мог бы · SAVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31731,7 +31731,7 @@
       "would have picked up/would have collected"
     ],
     "hints": [
-      "PICK UP"
+      "сделал бы · PICK UP"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31742,7 +31742,7 @@
       "would have helped"
     ],
     "hints": [
-      "HELP"
+      "сделал бы · HELP"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31753,7 +31753,7 @@
       "would have stayed"
     ],
     "hints": [
-      "STAY"
+      "сделал бы · STAY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31764,7 +31764,7 @@
       "would have been"
     ],
     "hints": [
-      "BE"
+      "сделал бы · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31775,7 +31775,7 @@
       "would have written"
     ],
     "hints": [
-      "WRITE"
+      "сделал бы · WRITE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31786,7 +31786,7 @@
       "would have joined"
     ],
     "hints": [
-      "JOIN"
+      "сделал бы · JOIN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31797,7 +31797,7 @@
       "would have won"
     ],
     "hints": [
-      "WIN"
+      "сделал бы · WIN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31808,7 +31808,7 @@
       "would have cooked"
     ],
     "hints": [
-      "COOK"
+      "сделал бы · COOK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31819,7 +31819,7 @@
       "would have enjoyed"
     ],
     "hints": [
-      "ENJOY"
+      "сделал бы · ENJOY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31830,7 +31830,7 @@
       "would have liked"
     ],
     "hints": [
-      "LIKE"
+      "сделал бы · LIKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31841,7 +31841,7 @@
       "would have reacted"
     ],
     "hints": [
-      "REACT"
+      "сделал бы · REACT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31852,7 +31852,7 @@
       "would have contacted/would have called"
     ],
     "hints": [
-      "CONTACT"
+      "сделал бы · CONTACT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31863,7 +31863,7 @@
       "would have accepted"
     ],
     "hints": [
-      "ACCEPT"
+      "сделал бы · ACCEPT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31874,7 +31874,7 @@
       "would have visited"
     ],
     "hints": [
-      "VISIT"
+      "сделал бы · VISIT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31885,7 +31885,7 @@
       "would have told/would have admitted"
     ],
     "hints": [
-      "TELL"
+      "сделал бы · TELL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31896,7 +31896,7 @@
       "needn't have booked/didn't need to book"
     ],
     "hints": [
-      "BOOK"
+      "не нужно было · BOOK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31907,7 +31907,7 @@
       "needn't have brought/didn't need to bring"
     ],
     "hints": [
-      "BRING"
+      "не нужно было · BRING"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31918,7 +31918,7 @@
       "needn't have cooked/didn't need to cook"
     ],
     "hints": [
-      "COOK"
+      "не нужно было · COOK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31929,7 +31929,7 @@
       "needn't have arrived/didn't need to arrive"
     ],
     "hints": [
-      "ARRIVE"
+      "не нужно было · ARRIVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31940,7 +31940,7 @@
       "needn't have worried/didn't need to worry"
     ],
     "hints": [
-      "WORRY"
+      "не нужно было · WORRY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31951,7 +31951,7 @@
       "needn't have worked/didn't need to work"
     ],
     "hints": [
-      "WORK"
+      "не нужно было · WORK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31962,7 +31962,7 @@
       "needn't have bought/didn't need to buy"
     ],
     "hints": [
-      "BUY"
+      "не нужно было · BUY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31973,7 +31973,7 @@
       "needn't have apologised/didn't need to apologise"
     ],
     "hints": [
-      "APOLOGISE"
+      "не нужно было · APOLOGISE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31984,7 +31984,7 @@
       "needn't have stayed up"
     ],
     "hints": [
-      "STAY UP"
+      "не нужно было · STAY UP"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -31995,7 +31995,7 @@
       "needn't have shown/didn't need to show"
     ],
     "hints": [
-      "SHOW"
+      "не нужно было · SHOW"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32006,7 +32006,7 @@
       "needn't have printed/didn't need to print"
     ],
     "hints": [
-      "PRINT"
+      "не нужно было · PRINT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32017,7 +32017,7 @@
       "needn't have taken/didn't need to take"
     ],
     "hints": [
-      "TAKE"
+      "не нужно было · TAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32028,7 +32028,7 @@
       "needn't have got up/didn't need to get up"
     ],
     "hints": [
-      "GET UP"
+      "не нужно было · GET UP"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32039,7 +32039,7 @@
       "needn't have called/didn't need to call"
     ],
     "hints": [
-      "CALL"
+      "не нужно было · CALL"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32050,7 +32050,7 @@
       "needn't have read/didn't need to read"
     ],
     "hints": [
-      "READ"
+      "не нужно было · READ"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32061,7 +32061,7 @@
       "must be driving"
     ],
     "hints": [
-      "DRIVE"
+      "наверняка сейчас · DRIVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32072,7 +32072,7 @@
       "must be"
     ],
     "hints": [
-      "BE"
+      "должен · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32083,7 +32083,7 @@
       "must be working"
     ],
     "hints": [
-      "WORK"
+      "наверняка сейчас · WORK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32094,7 +32094,7 @@
       "must be doing/must be planning"
     ],
     "hints": [
-      "DO"
+      "наверняка сейчас · DO"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32105,7 +32105,7 @@
       "must be preparing"
     ],
     "hints": [
-      "PREPARE"
+      "наверняка сейчас · PREPARE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32116,7 +32116,7 @@
       "should be doing"
     ],
     "hints": [
-      "DO"
+      "должен сейчас · DO"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32127,7 +32127,7 @@
       "should be getting ready"
     ],
     "hints": [
-      "GET READY"
+      "должен сейчас · GET READY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32138,7 +32138,7 @@
       "should be writing"
     ],
     "hints": [
-      "WRITE"
+      "должен сейчас · WRITE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32149,7 +32149,7 @@
       "should be leaving/should be heading"
     ],
     "hints": [
-      "LEAVE"
+      "должен сейчас · LEAVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32160,7 +32160,7 @@
       "shouldn't be talking"
     ],
     "hints": [
-      "TALK"
+      "должен сейчас · TALK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32171,7 +32171,7 @@
       "might be taking/may be taking/could be taking"
     ],
     "hints": [
-      "TAKE"
+      "возможно сейчас · TAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32182,7 +32182,7 @@
       "might be knocking/may be knocking/could be knocking"
     ],
     "hints": [
-      "KNOCK"
+      "возможно сейчас · KNOCK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32193,7 +32193,7 @@
       "should be arriving/must be arriving"
     ],
     "hints": [
-      "ARRIVE"
+      "должен сейчас · ARRIVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32204,7 +32204,7 @@
       "must be watching/might be watching"
     ],
     "hints": [
-      "WATCH"
+      "наверняка сейчас · WATCH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32215,7 +32215,7 @@
       "must be heading/could be heading"
     ],
     "hints": [
-      "HEAD"
+      "наверняка сейчас · HEAD"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32226,7 +32226,7 @@
       "must have been studying"
     ],
     "hints": [
-      "STUDY"
+      "наверняка · STUDY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32237,7 +32237,7 @@
       "must have been crying"
     ],
     "hints": [
-      "CRY"
+      "наверняка · CRY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32248,7 +32248,7 @@
       "must have been cleaning"
     ],
     "hints": [
-      "CLEAN"
+      "наверняка · CLEAN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32259,7 +32259,7 @@
       "must have been working"
     ],
     "hints": [
-      "WORK"
+      "наверняка · WORK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32270,7 +32270,7 @@
       "must have been playing"
     ],
     "hints": [
-      "PLAY"
+      "наверняка · PLAY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32281,7 +32281,7 @@
       "should have been preparing"
     ],
     "hints": [
-      "PREPARE"
+      "надо было · PREPARE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32292,7 +32292,7 @@
       "should have been addressing"
     ],
     "hints": [
-      "ADDRESS"
+      "надо было · ADDRESS"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32303,7 +32303,7 @@
       "should have been checking"
     ],
     "hints": [
-      "CHECK"
+      "надо было · CHECK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32314,7 +32314,7 @@
       "should have been studying"
     ],
     "hints": [
-      "STUDY"
+      "надо было · STUDY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32325,7 +32325,7 @@
       "might have been walking/could have been walking"
     ],
     "hints": [
-      "WALK"
+      "мог бы · WALK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32336,7 +32336,7 @@
       "might have been listening/could have been listening"
     ],
     "hints": [
-      "LISTEN"
+      "мог бы · LISTEN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32347,7 +32347,7 @@
       "must have been working/might have been working"
     ],
     "hints": [
-      "WORK"
+      "наверняка · WORK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32358,7 +32358,7 @@
       "must have been sitting/might have been sitting"
     ],
     "hints": [
-      "SIT"
+      "наверняка · SIT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32369,7 +32369,7 @@
       "must have been walking/must have been standing"
     ],
     "hints": [
-      "WALK"
+      "наверняка · WALK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32380,7 +32380,7 @@
       "must have been running"
     ],
     "hints": [
-      "RUN"
+      "наверняка · RUN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32391,7 +32391,7 @@
       "will be able to write"
     ],
     "hints": [
-      "WRITE"
+      "сможет · WRITE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32402,7 +32402,7 @@
       "has been able to overcome/was able to overcome"
     ],
     "hints": [
-      "OVERCOME"
+      "смог · OVERCOME"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32413,7 +32413,7 @@
       "will be able to walk"
     ],
     "hints": [
-      "WALK"
+      "сможет · WALK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32424,7 +32424,7 @@
       "has been able to speak"
     ],
     "hints": [
-      "SPEAK"
+      "смог · SPEAK"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32435,7 +32435,7 @@
       "will be able to answer"
     ],
     "hints": [
-      "ANSWER"
+      "сможет · ANSWER"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32446,7 +32446,7 @@
       "managed to land/was able to land"
     ],
     "hints": [
-      "LAND"
+      "удалось · LAND"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32457,7 +32457,7 @@
       "managed to reach/were able to reach"
     ],
     "hints": [
-      "REACH"
+      "удалось · REACH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32468,7 +32468,7 @@
       "managed to keep/was able to keep"
     ],
     "hints": [
-      "KEEP"
+      "удалось · KEEP"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32479,7 +32479,7 @@
       "managed to win/were able to win"
     ],
     "hints": [
-      "WIN"
+      "удалось · WIN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32490,7 +32490,7 @@
       "managed to prove/was able to prove"
     ],
     "hints": [
-      "PROVE"
+      "удалось · PROVE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32501,7 +32501,7 @@
       "managed to reach/were able to reach"
     ],
     "hints": [
-      "REACH"
+      "удалось · REACH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32512,7 +32512,7 @@
       "had managed to build/had been able to build"
     ],
     "hints": [
-      "BUILD"
+      "удалось · BUILD"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32523,7 +32523,7 @@
       "were able to decode/managed to decode"
     ],
     "hints": [
-      "DECODE"
+      "смог · DECODE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32535,7 +32535,7 @@
       "manage to reach"
     ],
     "hints": [
-      "REACH"
+      "можно · REACH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32546,7 +32546,7 @@
       "had been able to open/had managed to open"
     ],
     "hints": [
-      "OPEN"
+      "смог · OPEN"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32557,7 +32557,7 @@
       "had better have finished/better have finished"
     ],
     "hints": [
-      "FINISH"
+      "должен уже · FINISH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32568,7 +32568,7 @@
       "had better have finished/better have finished"
     ],
     "hints": [
-      "FINISH"
+      "должен уже · FINISH"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32579,7 +32579,7 @@
       "would rather have known"
     ],
     "hints": [
-      "KNOW"
+      "лучше бы · KNOW"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32590,7 +32590,7 @@
       "would rather have stayed"
     ],
     "hints": [
-      "STAY"
+      "лучше бы · STAY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32601,7 +32601,7 @@
       "may as well go/might as well go"
     ],
     "hints": [
-      "GO"
+      "почему бы не · GO"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32612,7 +32612,7 @@
       "may as well make/might as well make"
     ],
     "hints": [
-      "MAKE"
+      "почему бы не · MAKE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32623,7 +32623,7 @@
       "was to visit/was supposed to visit"
     ],
     "hints": [
-      "VISIT"
+      "должен был · VISIT"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32634,7 +32634,7 @@
       "was to attend/was supposed to attend"
     ],
     "hints": [
-      "ATTEND"
+      "должен был · ATTEND"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32645,7 +32645,7 @@
       "would have been"
     ],
     "hints": [
-      "BE"
+      "сделал бы · BE"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -32656,7 +32656,7 @@
       "ought to follow/should follow"
     ],
     "hints": [
-      "FOLLOW"
+      "следует · FOLLOW"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -33410,17 +33410,6 @@
     "formula": "Prepositions of Place"
   },
   {
-    "sentence": "The train was moving ___ the city at high speed.",
-    "answers": [
-      "towards"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "B1",
-    "formula": "Prepositions of Place"
-  },
-  {
     "sentence": "The child ran ___ the road without looking — very dangerous!",
     "answers": [
       "across"
@@ -33465,31 +33454,9 @@
     "formula": "Prepositions of Place"
   },
   {
-    "sentence": "The dog ran ___ its owner as soon as it heard the whistle.",
-    "answers": [
-      "towards"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "B1",
-    "formula": "Prepositions of Place"
-  },
-  {
     "sentence": "The path leads ___ the forest and up to the old castle.",
     "answers": [
       "through"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "B1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "The refugee camp is 50 kilometres ___ the nearest town.",
-    "answers": [
-      "away from"
     ],
     "hints": [
       "PLACE"
@@ -33583,116 +33550,6 @@
       "PLACE"
     ],
     "level": "A2",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "I usually go ___ the gym after work on Tuesdays.",
-    "answers": [
-      "to"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "Charlotte is flying ___ Madrid tomorrow morning.",
-    "answers": [
-      "to"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "The train ___ Berlin leaves from platform 5.",
-    "answers": [
-      "to/for"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "The dog jumped ___ the water without hesitation.",
-    "answers": [
-      "into"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "Sophie ran ___ the classroom in a hurry.",
-    "answers": [
-      "into"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "Please take the milk ___ the fridge — dinner is nearly ready.",
-    "answers": [
-      "from/out of"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "James came ___ the shower with his hair still wet.",
-    "answers": [
-      "out of"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "The letter came ___ Australia this morning.",
-    "answers": [
-      "from"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "Please move the sofa ___ the corner — it's blocking the door.",
-    "answers": [
-      "from"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
-    "formula": "Prepositions of Place"
-  },
-  {
-    "sentence": "The kids ran ___ the pool as soon as they arrived.",
-    "answers": [
-      "to/towards"
-    ],
-    "hints": [
-      "PLACE"
-    ],
-    "level": "A1",
     "formula": "Prepositions of Place"
   },
   {
@@ -37064,5 +36921,148 @@
     ],
     "level": "A2",
     "formula": "There / It + to be"
+  },
+  {
+    "sentence": "Anna keeps her running shoes ___ her bedroom door — she never forgets them.",
+    "answers": [
+      "by/near/next to"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "There's a small café ___ the corner of Baker Street and Main.",
+    "answers": [
+      "at/on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "The pharmacy is ___ the third floor of the shopping centre.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A1",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "There's a lovely painting hanging ___ the wall behind my desk.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A1",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "My office is ___ the second floor, room 214.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A1",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "There's an old oak tree ___ the middle of our garden.",
+    "answers": [
+      "in"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "I always keep spare keys ___ the top drawer of my desk.",
+    "answers": [
+      "in"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A1",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "The photo of our wedding stands ___ the mantelpiece.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "There's a small chapel ___ the top of that hill.",
+    "answers": [
+      "at/on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "Grace's name is engraved ___ the trophy she won last year.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "Ethan is waiting for us ___ the reception desk.",
+    "answers": [
+      "at"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A1",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "There's a lovely painting ___ my bedroom wall — a gift from my grandmother.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "B1",
+    "formula": "Prepositions of Place"
+  },
+  {
+    "sentence": "My great-grandmother's photograph sits ___ my nightstand next to the lamp.",
+    "answers": [
+      "on"
+    ],
+    "hints": [
+      "PLACE"
+    ],
+    "level": "A2",
+    "formula": "Prepositions of Place"
   }
 ]
