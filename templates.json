@@ -497,66 +497,56 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "___ you ___ any brothers or sisters?",
+    "sentence": "___ any brothers or sisters?",
     "answers": [
-      "Do",
-      "have"
+      "Do you have"
     ],
     "hints": [
-      "?",
-      "HAVE"
+      "? · HAVE"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "Where ___ your friend usually ___?",
+    "sentence": "___ these days? I haven't seen him.",
     "answers": [
-      "does",
-      "live"
+      "Where does your friend live"
     ],
     "hints": [
-      "?",
-      "LIVE"
+      "? · LIVE"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "What time ___ you ___ up every day?",
+    "sentence": "___ up every day?",
     "answers": [
-      "do",
-      "get"
+      "What time do you get"
     ],
     "hints": [
-      "?",
-      "GET UP"
+      "? · GET UP"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "___ your mum usually ___ at home?",
+    "sentence": "___ at home?",
     "answers": [
-      "Does",
-      "work"
+      "Does your mum usually work"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "What ___ you usually ___ for breakfast?",
+    "sentence": "___ for breakfast?",
     "answers": [
-      "do",
-      "eat"
+      "What do you usually eat"
     ],
     "hints": [
-      "?",
-      "EAT"
+      "? · EAT"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -1057,66 +1047,56 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "What ___ you ___ in the kitchen right now?",
+    "sentence": "___ in the kitchen right now?",
     "answers": [
-      "are",
-      "doing"
+      "What are you doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Why ___ the baby ___ so loudly right now?",
+    "sentence": "___ so loudly right now?",
     "answers": [
-      "is",
-      "crying"
+      "Why is the baby crying"
     ],
     "hints": [
-      "?",
-      "CRY"
+      "? · CRY"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Where ___ your mum ___ right now?",
+    "sentence": "___ so quickly right now?",
     "answers": [
-      "is",
-      "going"
+      "Where is your mum going"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "___ the children ___ their homework at the moment?",
+    "sentence": "___ their homework at the moment?",
     "answers": [
-      "Are",
-      "doing"
+      "Are the children doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Why ___ My personal trainer ___ so much right now?",
+    "sentence": "___ so much right now?",
     "answers": [
-      "is",
-      "working"
+      "Why is My personal trainer working"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -1630,53 +1610,45 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Where ___ you ___ last weekend?",
+    "sentence": "___ last weekend?",
     "answers": [
-      "did",
-      "go"
+      "Where did you go"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "What ___ you ___ for lunch yesterday?",
+    "sentence": "___ for lunch yesterday?",
     "answers": [
-      "did",
-      "eat"
+      "What did you eat"
     ],
     "hints": [
-      "?",
-      "EAT"
+      "? · EAT"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "When ___ he ___ home yesterday?",
+    "sentence": "___ home yesterday?",
     "answers": [
-      "did",
-      "come"
+      "When did he come"
     ],
     "hints": [
-      "?",
-      "COME"
+      "? · COME"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "Who ___ you ___ at the party last night?",
+    "sentence": "___ at the party last night?",
     "answers": [
-      "did",
-      "see"
+      "Who did you see"
     ],
     "hints": [
-      "?",
-      "SEE"
+      "? · SEE"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -2177,66 +2149,56 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "___ you ___ me with this box now, please?",
+    "sentence": "___ me with this box now, please?",
     "answers": [
-      "Will",
-      "help"
+      "Will you help"
     ],
     "hints": [
-      "?",
-      "HELP"
+      "? · HELP"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "What time ___ the bus ___ tomorrow?",
+    "sentence": "___ from the station tomorrow?",
     "answers": [
-      "will",
-      "come"
+      "What time will the bus come"
     ],
     "hints": [
-      "?",
-      "COME"
+      "? · COME"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "Where ___ you ___ for your holiday next year?",
+    "sentence": "___ for your holiday next year?",
     "answers": [
-      "will",
-      "go"
+      "Where will you go"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "___ it ___ tomorrow, do you think?",
+    "sentence": "___ tomorrow, do you think?",
     "answers": [
-      "Will",
-      "rain"
+      "Will it rain"
     ],
     "hints": [
-      "?",
-      "RAIN"
+      "? · RAIN"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "What ___ you ___ after work tomorrow?",
+    "sentence": "___ after work tomorrow?",
     "answers": [
-      "will",
-      "do"
+      "What will you do"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -2517,170 +2479,144 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ___ your new manager yet?",
+    "sentence": "___ your new manager yet?",
     "answers": [
-      "Have",
-      "met"
+      "Have you met"
     ],
     "hints": [
-      "?",
-      "MEET"
+      "? · MEET"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ Our neighbour ___ from the shops yet?",
+    "sentence": "___ from the shops yet?",
     "answers": [
-      "Has",
-      "come back"
+      "Has Our neighbour come back"
     ],
     "hints": [
-      "?",
-      "COME BACK"
+      "? · COME BACK"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ___ the dishes yet?",
+    "sentence": "___ the dishes yet?",
     "answers": [
-      "Have",
-      "done"
+      "Have you done"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ your brother ___ home yet?",
+    "sentence": "___ home yet?",
     "answers": [
-      "Has",
-      "arrived"
+      "Has your brother arrived"
     ],
     "hints": [
-      "?",
-      "ARRIVE"
+      "? · ARRIVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ___ the news today yet?",
+    "sentence": "___ the news today yet?",
     "answers": [
-      "Have",
-      "heard"
+      "Have you heard"
     ],
     "hints": [
-      "?",
-      "HEAR"
+      "? · HEAR"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ to London?",
+    "sentence": "___ to London?",
     "answers": [
-      "Have",
-      "been"
+      "Have you ever been"
     ],
     "hints": [
-      "?",
-      "BE"
+      "? · BE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ she ever ___ a dolphin in real life?",
+    "sentence": "___ a dolphin in real life?",
     "answers": [
-      "Has",
-      "seen"
+      "Has she ever seen"
     ],
     "hints": [
-      "?",
-      "SEE"
+      "? · SEE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ your dad ___ sushi before?",
+    "sentence": "___ sushi before?",
     "answers": [
-      "Has",
-      "eaten"
+      "Has your dad eaten"
     ],
     "hints": [
-      "?",
-      "EAT"
+      "? · EAT"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ on a plane?",
+    "sentence": "___ on a plane?",
     "answers": [
-      "Have",
-      "flown"
+      "Have you ever flown"
     ],
     "hints": [
-      "?",
-      "FLY"
+      "? · FLY"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ they ever ___ to an opera together?",
+    "sentence": "___ to an opera together?",
     "answers": [
-      "Have",
-      "been"
+      "Have they ever been"
     ],
     "hints": [
-      "?",
-      "BE"
+      "? · BE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ a horse?",
+    "sentence": "___ a horse in your life?",
     "answers": [
-      "Have",
-      "ridden"
+      "Have you ever ridden"
     ],
     "hints": [
-      "?",
-      "RIDE"
+      "? · RIDE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ your sister ever ___ a prize at work?",
+    "sentence": "___ a prize at work?",
     "answers": [
-      "Has",
-      "won"
+      "Has your sister ever won"
     ],
     "hints": [
-      "?",
-      "WIN"
+      "? · WIN"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ a famous person in real life?",
+    "sentence": "___ a famous person in real life?",
     "answers": [
-      "Have",
-      "met"
+      "Have you ever met"
     ],
     "hints": [
-      "?",
-      "MEET"
+      "? · MEET"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -3305,92 +3241,78 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "What ___ you ___ at 7 p.m. yesterday?",
+    "sentence": "___ at 7 p.m. yesterday?",
     "answers": [
-      "were",
-      "doing"
+      "What were you doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Why ___ the baby ___ so loudly when I came in?",
+    "sentence": "___ so loudly when I came in?",
     "answers": [
-      "was",
-      "crying"
+      "Why was the baby crying"
     ],
     "hints": [
-      "?",
-      "CRY"
+      "? · CRY"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Where ___ you ___ when I called?",
+    "sentence": "___ when I called?",
     "answers": [
-      "were",
-      "going"
+      "Where were you going"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "What ___ your mum ___ when you came home?",
+    "sentence": "___ when you came home?",
     "answers": [
-      "was",
-      "doing"
+      "What was your mum doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Who ___ you ___ to on the phone when I arrived?",
+    "sentence": "___ to on the phone when I arrived?",
     "answers": [
-      "were",
-      "talking"
+      "Who were you talking"
     ],
     "hints": [
-      "?",
-      "TALK"
+      "? · TALK"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "How fast ___ he ___ when he had the accident?",
+    "sentence": "___ when he had the accident?",
     "answers": [
-      "was",
-      "driving"
+      "How was he driving"
     ],
     "hints": [
-      "?",
-      "DRIVE"
+      "? · DRIVE"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Why ___ they ___ so loudly last night?",
+    "sentence": "___ so loudly last night?",
     "answers": [
-      "were",
-      "shouting"
+      "Why were they shouting"
     ],
     "hints": [
-      "?",
-      "SHOUT"
+      "? · SHOUT"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3869,66 +3791,56 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "What ___ you ___ this summer?",
+    "sentence": "___ this summer?",
     "answers": [
-      "are",
-      "going to do"
+      "What are you going to do"
     ],
     "hints": [
-      "?",
-      "собирается · DO"
+      "? · DO"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "Where ___ your family ___ for Christmas?",
+    "sentence": "___ for Christmas?",
     "answers": [
-      "is",
-      "going to go"
+      "Where is your family going to go"
     ],
     "hints": [
-      "?",
-      "собирается · GO"
+      "? · GO"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "When ___ you ___ your new job next month?",
+    "sentence": "___ your new job next month?",
     "answers": [
-      "are",
-      "going to start"
+      "When are you going to start"
     ],
     "hints": [
-      "?",
-      "собирается · START"
+      "? · START"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "How ___ we ___ the money for the trip next year?",
+    "sentence": "___ the money for the trip next year?",
     "answers": [
-      "are",
-      "going to save"
+      "How are we going to save"
     ],
     "hints": [
-      "?",
-      "собирается · SAVE"
+      "? · SAVE"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "___ you ___ the meeting tomorrow?",
+    "sentence": "___ the meeting tomorrow?",
     "answers": [
-      "Are",
-      "going to attend"
+      "Are you going to attend"
     ],
     "hints": [
-      "?",
-      "собирается · ATTEND"
+      "? · ATTEND"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3945,14 +3857,12 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "What time ___ your train ___ tomorrow?",
+    "sentence": "___ in Berlin tomorrow morning?",
     "answers": [
-      "is",
-      "going to arrive"
+      "What time is your train going to arrive"
     ],
     "hints": [
-      "?",
-      "собирается · ARRIVE"
+      "? · ARRIVE"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -4266,14 +4176,12 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "You look tired. What ___ you ___ all day?",
+    "sentence": "___ all day?",
     "answers": [
-      "have",
-      "been doing"
+      "Have you been doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -4444,53 +4352,45 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ you ___ for the bus?",
+    "sentence": "___ for the bus?",
     "answers": [
-      "have",
-      "been waiting"
+      "How long have you been waiting"
     ],
     "hints": [
-      "?",
-      "WAIT"
+      "? · WAIT"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ they ___ each other?",
+    "sentence": "___ each other seriously?",
     "answers": [
-      "have",
-      "been dating"
+      "How long have they been dating"
     ],
     "hints": [
-      "?",
-      "DATE"
+      "? · DATE"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ your dad ___ at this company?",
+    "sentence": "___ at this company, your dad?",
     "answers": [
-      "has",
-      "been working"
+      "How long has your dad been working"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ it ___?",
+    "sentence": "___ non-stop today?",
     "answers": [
-      "has",
-      "been raining"
+      "How long has it been raining"
     ],
     "hints": [
-      "?",
-      "RAIN"
+      "? · RAIN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -12109,14 +12009,12 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "What ___ you ___ (do) this Friday evening?",
+    "sentence": "___ (do) this Friday evening?",
     "answers": [
-      "are",
-      "doing"
+      "What are you doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12166,14 +12064,12 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "What time ___ the match ___ (begin) on Saturday?",
+    "sentence": "___ (begin) on Saturday?",
     "answers": [
-      "does",
-      "begin"
+      "What time does the match begin"
     ],
     "hints": [
-      "?",
-      "BEGIN"
+      "? · BEGIN"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12223,14 +12119,12 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "___ you ___ (use) your car this evening? Could I borrow it?",
+    "sentence": "___ (use) your car this evening? Could I borrow it?",
     "answers": [
-      "Will",
-      "be using"
+      "Will you be using"
     ],
     "hints": [
-      "?",
-      "USE"
+      "? · USE"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12258,14 +12152,12 @@
     "formula": "Future Forms (all)"
   },
   {
-    "sentence": "___ you ___ (pass) the post office on your way home? Could you post this?",
+    "sentence": "___ (pass) the post office on your way home? Could you post this?",
     "answers": [
-      "Will",
-      "be passing"
+      "Will you be passing"
     ],
     "hints": [
-      "?",
-      "PASS"
+      "? · PASS"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -13936,53 +13828,45 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "What time ___ you usually ___ home?",
+    "sentence": "___ home?",
     "answers": [
-      "do",
-      "come"
+      "What time do you usually come"
     ],
     "hints": [
-      "?",
-      "COME"
+      "? · COME"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "How often ___ your family ___ to the cinema?",
+    "sentence": "___ to the cinema?",
     "answers": [
-      "does",
-      "go"
+      "How often does your family go"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "Where ___ your grandparents ___?",
+    "sentence": "___ these days? I keep meaning to visit.",
     "answers": [
-      "do",
-      "live"
+      "Where do your grandparents live"
     ],
     "hints": [
-      "?",
-      "LIVE"
+      "? · LIVE"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "What ___ Dad usually ___ on Sundays?",
+    "sentence": "___ on Sundays?",
     "answers": [
-      "does",
-      "do"
+      "What does Dad usually do"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -14461,40 +14345,34 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "What ___ you ___ at the moment?",
+    "sentence": "___ at the moment?",
     "answers": [
-      "are",
-      "doing"
+      "What are you doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Where ___ The team leader ___ right now?",
+    "sentence": "___ in such a hurry right now?",
     "answers": [
-      "is",
-      "going"
+      "Where is the team leader going"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Why ___ the children ___ so loudly right now?",
+    "sentence": "___ in the garden right now?",
     "answers": [
-      "are",
-      "shouting"
+      "Why are the children shouting"
     ],
     "hints": [
-      "?",
-      "SHOUT"
+      "? · SHOUT"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14511,40 +14389,34 @@
     "formula": "Present Continuous"
   },
   {
-    "sentence": "What ___ Bella ___ under the sofa now?",
+    "sentence": "___ under the sofa now?",
     "answers": [
-      "is",
-      "doing"
+      "What is Bella doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "___ it ___ outside at the moment?",
+    "sentence": "___ outside at the moment?",
     "answers": [
-      "Is",
-      "raining"
+      "Is it raining"
     ],
     "hints": [
-      "?",
-      "RAIN"
+      "? · RAIN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Why ___ Tom ___ in the kitchen right now?",
+    "sentence": "___ in the kitchen so loudly?",
     "answers": [
-      "is",
-      "crying"
+      "Why is Tom crying"
     ],
     "hints": [
-      "?",
-      "CRY"
+      "? · CRY"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -15034,79 +14906,67 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Where ___ you ___ on holiday last summer?",
+    "sentence": "___ on holiday last summer?",
     "answers": [
-      "did",
-      "go"
+      "Where did you go"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "What ___ you ___ for breakfast yesterday?",
+    "sentence": "___ for breakfast yesterday?",
     "answers": [
-      "did",
-      "have"
+      "What did you have"
     ],
     "hints": [
-      "?",
-      "HAVE"
+      "? · HAVE"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "When ___ Clara ___ from London last week?",
+    "sentence": "___ from London last week?",
     "answers": [
-      "did",
-      "return"
+      "When did Clara return"
     ],
     "hints": [
-      "?",
-      "RETURN"
+      "? · RETURN"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "Who ___ you ___ at the cinema last night?",
+    "sentence": "___ at the cinema last night?",
     "answers": [
-      "did",
-      "see"
+      "Who did you see"
     ],
     "hints": [
-      "?",
-      "SEE"
+      "? · SEE"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "How long ___ the film ___ last night?",
+    "sentence": "___ last night?",
     "answers": [
-      "did",
-      "last"
+      "How long did the film last"
     ],
     "hints": [
-      "?",
-      "LAST"
+      "? · LAST"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "Why ___ Liam ___ so late yesterday?",
+    "sentence": "___ so late yesterday?",
     "answers": [
-      "did",
-      "arrive"
+      "Why did Liam arrive"
     ],
     "hints": [
-      "?",
-      "ARRIVE"
+      "? · ARRIVE"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -15585,40 +15445,34 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "What ___ you ___ tomorrow evening?",
+    "sentence": "___ tomorrow evening?",
     "answers": [
-      "will",
-      "do"
+      "What will you do"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "Where ___ we ___ for our holiday next year?",
+    "sentence": "___ for our holiday next year?",
     "answers": [
-      "will",
-      "go"
+      "Where will we go"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "When ___ Tom ___ from his trip next week?",
+    "sentence": "___ from his trip next week?",
     "answers": [
-      "will",
-      "return"
+      "When will Tom return"
     ],
     "hints": [
-      "?",
-      "RETURN"
+      "? · RETURN"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -15635,14 +15489,12 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "How long ___ you ___ in Paris next month?",
+    "sentence": "___ in Paris next month?",
     "answers": [
-      "will",
-      "stay"
+      "How long will you stay"
     ],
     "hints": [
-      "?",
-      "STAY"
+      "? · STAY"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -15900,118 +15752,100 @@
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ___ your room yet?",
+    "sentence": "___ your room yet?",
     "answers": [
-      "Have",
-      "tidied"
+      "Have you tidied"
     ],
     "hints": [
-      "?",
-      "TIDY"
+      "? · TIDY"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ Anna ___ from London yet?",
+    "sentence": "___ from London yet?",
     "answers": [
-      "Has",
-      "returned"
+      "Has Anna returned"
     ],
     "hints": [
-      "?",
-      "RETURN"
+      "? · RETURN"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ the postman ___ yet?",
+    "sentence": "___ yet?",
     "answers": [
-      "Has",
-      "come"
+      "Has the postman come"
     ],
     "hints": [
-      "?",
-      "COME"
+      "? · COME"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ___ Grandma yet?",
+    "sentence": "___ Grandma yet?",
     "answers": [
-      "Have",
-      "called"
+      "Have you called"
     ],
     "hints": [
-      "?",
-      "CALL"
+      "? · CALL"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ Italian food?",
+    "sentence": "___ Italian food?",
     "answers": [
-      "Have",
-      "tried"
+      "Have you ever tried"
     ],
     "hints": [
-      "?",
-      "TRY"
+      "? · TRY"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ Theo ever ___ a horse?",
+    "sentence": "___ a horse at the farm?",
     "answers": [
-      "Has",
-      "ridden"
+      "Has Theo ever ridden"
     ],
     "hints": [
-      "?",
-      "RIDE"
+      "? · RIDE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ to Paris?",
+    "sentence": "___ to Paris?",
     "answers": [
-      "Have",
-      "been"
+      "Have you ever been"
     ],
     "hints": [
-      "?",
-      "BE"
+      "? · BE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ Anna ever ___ a marathon?",
+    "sentence": "___ a marathon?",
     "answers": [
-      "Has",
-      "run"
+      "Has Anna ever run"
     ],
     "hints": [
-      "?",
-      "RUN"
+      "? · RUN"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ a snake in real life?",
+    "sentence": "___ a snake in real life?",
     "answers": [
-      "Have",
-      "seen"
+      "Have you ever seen"
     ],
     "hints": [
-      "?",
-      "SEE"
+      "? · SEE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -16742,79 +16576,67 @@
     "formula": "Past Continuous"
   },
   {
-    "sentence": "What ___ you ___ at 9 pm yesterday?",
+    "sentence": "___ at 9 pm yesterday?",
     "answers": [
-      "were",
-      "doing"
+      "What were you doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Where ___ Tom ___ when you saw him?",
+    "sentence": "___ when you saw him?",
     "answers": [
-      "was",
-      "going"
+      "Where was Tom going"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Why ___ Our neighbour ___ all morning yesterday?",
+    "sentence": "___ all morning yesterday?",
     "answers": [
-      "was",
-      "cooking"
+      "Why was Our neighbour cooking"
     ],
     "hints": [
-      "?",
-      "COOK"
+      "? · COOK"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "Who ___ Anna ___ to on the phone last night?",
+    "sentence": "___ to on the phone last night?",
     "answers": [
-      "was",
-      "talking"
+      "Who was Anna talking"
     ],
     "hints": [
-      "?",
-      "TALK"
+      "? · TALK"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "What ___ the kids ___ when the rain started?",
+    "sentence": "___ when the rain started?",
     "answers": [
-      "were",
-      "doing"
+      "What were the kids doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "A2",
     "formula": "Past Continuous"
   },
   {
-    "sentence": "How fast ___ Our family doctor ___ when the police stopped him?",
+    "sentence": "___ when the police stopped him?",
     "answers": [
-      "was",
-      "driving"
+      "How was Our family doctor driving"
     ],
     "hints": [
-      "?",
-      "DRIVE"
+      "? · DRIVE"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -17271,77 +17093,67 @@
     "formula": "Going to Future"
   },
   {
-    "sentence": "Where ___ Anna ___ next summer?",
+    "sentence": "___ next summer?",
     "answers": [
-      "is",
-      "going to go"
+      "Where is Anna going to go"
     ],
     "hints": [
-      "?",
-      "собирается · GO"
+      "? · GO"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "When ___ Ruby ___ the cake for the party tomorrow?",
+    "sentence": "___ the cake for the party tomorrow?",
     "answers": [
-      "is",
-      "going to bake"
+      "When is Ruby going to bake"
     ],
     "hints": [
-      "?",
-      "собирается · BAKE"
+      "? · BAKE"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "How long ___ you ___ in Italy next month?",
+    "sentence": "___ in Italy next month?",
     "answers": [
-      "are",
-      "going to stay"
+      "How long are you going to stay"
     ],
     "hints": [
-      "?",
-      "собирается · STAY"
+      "? · STAY"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "Who ___ to the meeting tomorrow?",
+    "sentence": "___ to the meeting tomorrow?",
     "answers": [
-      "is going to come/will come/is supposed to come"
+      "Who is coming/Who will come/Who is going to come"
     ],
     "hints": [
-      "собирается · COME"
+      "? · COME"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "What time ___ the train ___ tomorrow?",
+    "sentence": "___ from platform 5 tomorrow?",
     "answers": [
-      "is",
-      "going to leave"
+      "What time is the train going to leave"
     ],
     "hints": [
-      "?",
-      "собирается · LEAVE"
+      "? · LEAVE"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "Why ___ Tom ___ his job next month?",
+    "sentence": "___ his job next month?",
     "answers": [
-      "is",
-      "going to leave"
+      "Why is Tom going to leave"
     ],
     "hints": [
-      "?",
-      "собирается · LEAVE"
+      "? · LEAVE"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -17754,92 +17566,78 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ you ___ for me?",
+    "sentence": "___ for me?",
     "answers": [
-      "have",
-      "been waiting"
+      "How long have you been waiting"
     ],
     "hints": [
-      "?",
-      "WAIT"
+      "? · WAIT"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ Mike ___ at this company?",
+    "sentence": "___ at this company, Mike?",
     "answers": [
-      "has",
-      "been working"
+      "How long has Mike been working"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ Lily and you ___ each other?",
+    "sentence": "___ each other now, you two?",
     "answers": [
-      "have",
-      "been dating"
+      "How long have Lily and you been dating"
     ],
     "hints": [
-      "?",
-      "DATE"
+      "? · DATE"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ it ___ outside?",
+    "sentence": "___ outside?",
     "answers": [
-      "has",
-      "been snowing"
+      "How long has it been snowing"
     ],
     "hints": [
-      "?",
-      "SNOW"
+      "? · SNOW"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ My grandmother ___ guitar?",
+    "sentence": "___ guitar?",
     "answers": [
-      "has",
-      "been playing"
+      "How long has My grandmother been playing"
     ],
     "hints": [
-      "?",
-      "PLAY"
+      "? · PLAY"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "How long ___ you ___ that headache?",
+    "sentence": "___ that headache?",
     "answers": [
-      "have",
-      "been having"
+      "How long have you been having"
     ],
     "hints": [
-      "?",
-      "HAVE"
+      "? · HAVE"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Your hands are dirty. What ___ you ___?",
+    "sentence": "___ this whole time?",
     "answers": [
-      "have",
-      "been doing"
+      "What have you been doing"
     ],
     "hints": [
-      "?",
-      "DO"
+      "? · DO"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17867,14 +17665,12 @@
     "formula": "Present Perfect Continuous"
   },
   {
-    "sentence": "Your eyes are red — ___ you ___?",
+    "sentence": "___ so much lately?",
     "answers": [
-      "have",
-      "been crying"
+      "Why have you been crying"
     ],
     "hints": [
-      "?",
-      "CRY"
+      "? · CRY"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -28410,37 +28206,34 @@
     "formula": "Verb To Be"
   },
   {
-    "sentence": "___ you ___ free this evening for a quick chat?",
+    "sentence": "___ free this evening for a quick chat?",
     "answers": [
-      "Will",
-      "be"
+      "Will you be"
     ],
     "hints": [
-      "будет · BE"
+      "? · будет · BE"
     ],
     "level": "A1",
     "formula": "Verb To Be"
   },
   {
-    "sentence": "When ___ the dinner ___ ready?",
+    "sentence": "___ ready?",
     "answers": [
-      "will",
-      "be"
+      "When will the dinner be"
     ],
     "hints": [
-      "будет · BE"
+      "? · будет · BE"
     ],
     "level": "A1",
     "formula": "Verb To Be"
   },
   {
-    "sentence": "How old ___ your son ___ in 2030?",
+    "sentence": "___ in 2030?",
     "answers": [
-      "will",
-      "be"
+      "How old will your son be"
     ],
     "hints": [
-      "будет · BE"
+      "? · будет · BE"
     ],
     "level": "A1",
     "formula": "Verb To Be"
@@ -28523,14 +28316,12 @@
     "formula": "Verb To Be"
   },
   {
-    "sentence": "How long ___ you ___ in Berlin so far?",
+    "sentence": "___ in Berlin so far?",
     "answers": [
-      "have",
-      "been"
+      "How long have you been"
     ],
     "hints": [
-      "HAVE",
-      "BE"
+      "? · BE"
     ],
     "level": "A1",
     "formula": "Verb To Be"
@@ -30880,13 +30671,12 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ I ___ your pen for a moment, please?",
+    "sentence": "___ your pen for a moment, please?",
     "answers": [
-      "Can/May/Could",
-      "borrow"
+      "Can I borrow/May I borrow/Could I borrow"
     ],
     "hints": [
-      "можно · BORROW"
+      "? · можно · BORROW"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30904,13 +30694,12 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ I ___ your bathroom, please?",
+    "sentence": "___ your bathroom, please?",
     "answers": [
-      "Can/May/Could",
-      "use"
+      "Can I use/May I use/Could I use"
     ],
     "hints": [
-      "можно · USE"
+      "? · можно · USE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30928,13 +30717,12 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ I ___ you a question about the report?",
+    "sentence": "___ you a question about the report?",
     "answers": [
-      "Can/May/Could",
-      "ask"
+      "Can I ask/May I ask/Could I ask"
     ],
     "hints": [
-      "можно · ASK"
+      "? · можно · ASK"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30952,61 +30740,56 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ I ___ this book home over the weekend?",
+    "sentence": "___ this book home over the weekend?",
     "answers": [
-      "Can/May/Could",
-      "take"
+      "Can I take/May I take/Could I take"
     ],
     "hints": [
-      "можно · TAKE"
+      "? · можно · TAKE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ I ___ the salt, please?",
+    "sentence": "___ the salt, please?",
     "answers": [
-      "Can/May/Could",
-      "have"
+      "Can I have/May I have/Could I have"
     ],
     "hints": [
-      "можно · HAVE"
+      "? · можно · HAVE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ you ___ me carry these bags, please?",
+    "sentence": "___ me carry these bags, please?",
     "answers": [
-      "Can/Could",
-      "help"
+      "Can you help/Could you help"
     ],
     "hints": [
-      "не мог бы · HELP"
+      "? · не мог бы · HELP"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ you ___ the door on your way out?",
+    "sentence": "___ the door on your way out?",
     "answers": [
-      "Can/Could",
-      "close"
+      "Can you close/Could you close"
     ],
     "hints": [
-      "не мог бы · CLOSE"
+      "? · не мог бы · CLOSE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ you ___ me a favour and pick up some milk?",
+    "sentence": "___ me a favour and pick up some milk?",
     "answers": [
-      "Can/Could",
-      "do"
+      "Can you do/Could you do"
     ],
     "hints": [
-      "не мог бы · DO"
+      "? · не мог бы · DO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -31036,13 +30819,12 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ you ___ me the sugar, please?",
+    "sentence": "___ me the sugar, please?",
     "answers": [
-      "Can/Could",
-      "pass"
+      "Can you pass/Could you pass"
     ],
     "hints": [
-      "не мог бы · PASS"
+      "? · не мог бы · PASS"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -31060,13 +30842,12 @@
     "formula": "Modal Verbs"
   },
   {
-    "sentence": "___ you ___ me what time it is?",
+    "sentence": "___ me what time it is?",
     "answers": [
-      "Can/Could",
-      "tell"
+      "Can you tell/Could you tell"
     ],
     "hints": [
-      "не мог бы · TELL"
+      "? · не мог бы · TELL"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -37936,53 +37717,45 @@
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "How often ___ you ___ (travel) for business?",
+    "sentence": "___ (travel) for business?",
     "answers": [
-      "do",
-      "travel"
+      "How often do you travel"
     ],
     "hints": [
-      "?",
-      "TRAVEL"
+      "? · TRAVEL"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "What time ___ your team ___ (finish) work on Fridays?",
+    "sentence": "___ (finish) work on Fridays?",
     "answers": [
-      "does",
-      "finish"
+      "What time does your team finish"
     ],
     "hints": [
-      "?",
-      "FINISH"
+      "? · FINISH"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "Where ___ your company ___ (have) its main office?",
+    "sentence": "___ (have) its main office?",
     "answers": [
-      "does",
-      "have"
+      "Where does your company have"
     ],
     "hints": [
-      "?",
-      "HAVE"
+      "? · HAVE"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "___ your manager ___ (speak) any foreign languages?",
+    "sentence": "___ (speak) any foreign languages?",
     "answers": [
-      "Does",
-      "speak"
+      "Does your manager speak"
     ],
     "hints": [
-      "?",
-      "SPEAK"
+      "? · SPEAK"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -38000,40 +37773,34 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "How much ___ a senior developer ___ (earn) in your industry?",
+    "sentence": "___ (earn) in your industry?",
     "answers": [
-      "does",
-      "earn"
+      "How much does a senior developer earn"
     ],
     "hints": [
-      "?",
-      "EARN"
+      "? · EARN"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "___ you ___ (enjoy) working from home?",
+    "sentence": "___ (enjoy) working from home?",
     "answers": [
-      "Do",
-      "enjoy"
+      "Do you enjoy"
     ],
     "hints": [
-      "?",
-      "ENJOY"
+      "? · ENJOY"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "Why ___ Ethan always ___ (arrive) so early to the office?",
+    "sentence": "___ (arrive) so early to the office?",
     "answers": [
-      "does",
-      "arrive"
+      "Why does Ethan always arrive"
     ],
     "hints": [
-      "?",
-      "ARRIVE"
+      "? · ARRIVE"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -38051,105 +37818,89 @@
     "formula": "Present Simple"
   },
   {
-    "sentence": "___ your company ___ (offer) flexible hours?",
+    "sentence": "___ (offer) flexible hours?",
     "answers": [
-      "Does",
-      "offer"
+      "Does your company offer"
     ],
     "hints": [
-      "?",
-      "OFFER"
+      "? · OFFER"
     ],
     "level": "A1",
     "formula": "Present Simple"
   },
   {
-    "sentence": "What ___ your team ___ (work) on this month?",
+    "sentence": "___ (work) on this month?",
     "answers": [
-      "is",
-      "working"
+      "What is your team working"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "Why ___ Sophie ___ (present) instead of the manager today?",
+    "sentence": "___ (present) instead of the manager today?",
     "answers": [
-      "is",
-      "presenting"
+      "Why is Sophie presenting"
     ],
     "hints": [
-      "?",
-      "PRESENT"
+      "? · PRESENT"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "___ you ___ (join) the client call at 3?",
+    "sentence": "___ (join) the client call at 3?",
     "answers": [
-      "Are",
-      "joining"
+      "Are you joining"
     ],
     "hints": [
-      "?",
-      "JOIN"
+      "? · JOIN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "How ___ the negotiation ___ (go) so far?",
+    "sentence": "___ (go) so far?",
     "answers": [
-      "is",
-      "going"
+      "How is the negotiation going"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "What ___ the interns ___ (learn) in this week's training?",
+    "sentence": "___ (learn) in this week's training?",
     "answers": [
-      "are",
-      "learning"
+      "What are the interns learning"
     ],
     "hints": [
-      "?",
-      "LEARN"
+      "? · LEARN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
   },
   {
-    "sentence": "When ___ you ___ (start) working at this company?",
+    "sentence": "___ (start) working at this company?",
     "answers": [
-      "did",
-      "start"
+      "When did you start"
     ],
     "hints": [
-      "?",
-      "START"
+      "? · START"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "How ___ the interview ___ (go) yesterday?",
+    "sentence": "___ (go) yesterday?",
     "answers": [
-      "did",
-      "go"
+      "How did the interview go"
     ],
     "hints": [
-      "?",
-      "GO"
+      "? · GO"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -38167,244 +37918,471 @@
     "formula": "Past Simple"
   },
   {
-    "sentence": "Why ___ the meeting ___ (end) so early?",
+    "sentence": "___ (end) so early?",
     "answers": [
-      "did",
-      "end"
+      "Why did the meeting end"
     ],
     "hints": [
-      "?",
-      "END"
+      "? · END"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "___ Grace ___ (get) the promotion in the end?",
+    "sentence": "___ (get) the promotion in the end?",
     "answers": [
-      "Did",
-      "get"
+      "Did Grace get"
     ],
     "hints": [
-      "?",
-      "GET"
+      "? · GET"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "How much ___ the project ___ (cost) in the end?",
+    "sentence": "___ (cost) in the end?",
     "answers": [
-      "did",
-      "cost"
+      "How much did the project cost"
     ],
     "hints": [
-      "?",
-      "COST"
+      "? · COST"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "Where ___ you ___ (find) such a talented candidate?",
+    "sentence": "___ (find) such a talented candidate?",
     "answers": [
-      "did",
-      "find"
+      "Where did you find"
     ],
     "hints": [
-      "?",
-      "FIND"
+      "? · FIND"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "___ the client ___ (accept) our final proposal?",
+    "sentence": "___ (accept) our final proposal?",
     "answers": [
-      "Did",
-      "accept"
+      "Did the client accept"
     ],
     "hints": [
-      "?",
-      "ACCEPT"
+      "? · ACCEPT"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "What ___ the CEO ___ (say) in yesterday's town hall?",
+    "sentence": "___ (say) in yesterday's town hall?",
     "answers": [
-      "did",
-      "say"
+      "What did the CEO say"
     ],
     "hints": [
-      "?",
-      "SAY"
+      "? · SAY"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "How ___ Ethan ___ (react) to the news?",
+    "sentence": "___ (react) to the news?",
     "answers": [
-      "did",
-      "react"
+      "How did Ethan react"
     ],
     "hints": [
-      "?",
-      "REACT"
+      "? · REACT"
     ],
     "level": "A1",
     "formula": "Past Simple"
   },
   {
-    "sentence": "How long ___ you ___ (work) at this company?",
+    "sentence": "___ (work) at this company?",
     "answers": [
-      "have",
-      "worked"
+      "How long have you worked"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ (present) to the board?",
+    "sentence": "___ (present) to the board?",
     "answers": [
-      "Have",
-      "presented"
+      "Have you ever presented"
     ],
     "hints": [
-      "?",
-      "PRESENT"
+      "? · PRESENT"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "How many contracts ___ your team ___ (close) this quarter?",
+    "sentence": "___ (close) this quarter?",
     "answers": [
-      "has/have",
-      "closed"
+      "How many has your team closed/How many have your team closed"
     ],
     "hints": [
-      "?",
-      "CLOSE"
+      "? · CLOSE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ the manager ___ (approve) your budget yet?",
+    "sentence": "___ (approve) your budget yet?",
     "answers": [
-      "Has",
-      "approved"
+      "Has the manager approved"
     ],
     "hints": [
-      "?",
-      "APPROVE"
+      "? · APPROVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Why ___ you ___ (not respond) to my email?",
+    "sentence": "___ (not respond) to my email?",
     "answers": [
-      "haven't",
-      "responded"
+      "Why haven't you responded"
     ],
     "hints": [
-      "?",
-      "RESPOND"
+      "? · RESPOND"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ anyone ___ (see) the latest sales figures?",
+    "sentence": "___ (see) the latest sales figures?",
     "answers": [
-      "Has",
-      "seen"
+      "Has anyone seen"
     ],
     "hints": [
-      "?",
-      "SEE"
+      "? · SEE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "What decisions ___ the committee ___ (make) so far?",
+    "sentence": "___ (make) so far?",
     "answers": [
-      "has/have",
-      "made"
+      "What has the committee made/What have the committee made"
     ],
     "hints": [
-      "?",
-      "MAKE"
+      "? · MAKE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "How many candidates ___ we ___ (interview) this week?",
+    "sentence": "___ (interview) this week?",
     "answers": [
-      "have",
-      "interviewed"
+      "How many have we interviewed"
     ],
     "hints": [
-      "?",
-      "INTERVIEW"
+      "? · INTERVIEW"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "___ you ever ___ (work) with such a difficult client?",
+    "sentence": "___ (work) with such a difficult client?",
     "answers": [
-      "Have",
-      "worked"
+      "Have you ever worked"
     ],
     "hints": [
-      "?",
-      "WORK"
+      "? · WORK"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "Why ___ the report ___ (not arrive) yet?",
+    "sentence": "___ (not arrive) yet?",
     "answers": [
-      "hasn't",
-      "arrived"
+      "Why hasn't the report arrived"
     ],
     "hints": [
-      "?",
-      "ARRIVE"
+      "? · ARRIVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
   },
   {
-    "sentence": "When ___ you ___ (send) me the final version?",
+    "sentence": "___ (send) me the final version?",
     "answers": [
-      "will",
-      "send"
+      "When will you send"
     ],
     "hints": [
-      "?",
-      "SEND"
+      "? · SEND"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "___ the CEO ___ (attend) tomorrow's meeting?",
+    "sentence": "___ (attend) tomorrow's meeting?",
     "answers": [
-      "Will",
-      "attend"
+      "Will the CEO attend"
+    ],
+    "hints": [
+      "? · ATTEND"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "___ (hold) the next conference?",
+    "answers": [
+      "Where will we hold"
+    ],
+    "hints": [
+      "? · HOLD"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "___ (affect) our team?",
+    "answers": [
+      "How will this decision affect"
+    ],
+    "hints": [
+      "? · AFFECT"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "___ (invest) more in AI this year?",
+    "answers": [
+      "Are they going to invest"
+    ],
+    "hints": [
+      "? · INVEST"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "___ (do) if the client says no?",
+    "answers": [
+      "What will you do"
+    ],
+    "hints": [
+      "? · DO"
+    ],
+    "level": "B1",
+    "formula": "Conditionals (0, 1, 2)"
+  },
+  {
+    "sentence": "___ (go) if you could work anywhere in the world?",
+    "answers": [
+      "Where would you go"
+    ],
+    "hints": [
+      "? · "
+    ],
+    "level": "B1",
+    "formula": "Conditionals (0, 1, 2)"
+  },
+  {
+    "sentence": "___ (feel) if you got that promotion?",
+    "answers": [
+      "How would you feel"
+    ],
+    "hints": [
+      "? · "
+    ],
+    "level": "B1",
+    "formula": "Conditionals (0, 1, 2)"
+  },
+  {
+    "sentence": "___ (accept) the offer if the salary were higher?",
+    "answers": [
+      "Would you accept"
+    ],
+    "hints": [
+      "? · "
+    ],
+    "level": "B1",
+    "formula": "Conditionals (0, 1, 2)"
+  },
+  {
+    "sentence": "___ (say) at the interview if they asked about salary?",
+    "answers": [
+      "What would you say"
+    ],
+    "hints": [
+      "? · "
+    ],
+    "level": "B1",
+    "formula": "Conditionals (0, 1, 2)"
+  },
+  {
+    "sentence": "James ___ five languages — he only speaks two.",
+    "answers": [
+      "can't speak/cannot speak"
+    ],
+    "hints": [
+      "не может · SPEAK"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "You ___ the meeting if you're busy — it's optional.",
+    "answers": [
+      "don't have to attend/needn't attend"
+    ],
+    "hints": [
+      "не обязательно · ATTEND"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "Employees ___ the office kitchen for personal food storage.",
+    "answers": [
+      "mustn't use/can't use"
+    ],
+    "hints": [
+      "нельзя · USE"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "We ___ the deadline if we work smart, not just hard.",
+    "answers": [
+      "don't have to miss/needn't miss"
+    ],
+    "hints": [
+      "не должны · MISS"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "You ___ so much sugar at your age — it's really bad for your health.",
+    "answers": [
+      "shouldn't eat/oughtn't to eat"
+    ],
+    "hints": [
+      "не стоит · EAT"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "The intern ___ to answer client calls yet — he's still in training.",
+    "answers": [
+      "can't/isn't allowed"
+    ],
+    "hints": [
+      "не может · ANSWER"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "You ___ me your password — I don't need it to fix your computer.",
+    "answers": [
+      "mustn't tell/shouldn't tell"
+    ],
+    "hints": [
+      "нельзя · TELL"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "Charlotte ___ perfect German, but she gets by in Berlin.",
+    "answers": [
+      "can't speak/cannot speak"
+    ],
+    "hints": [
+      "не может · SPEAK"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "We ___ every request that comes in — some just aren't feasible.",
+    "answers": [
+      "can't accept/cannot accept"
+    ],
+    "hints": [
+      "не может · ACCEPT"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "You ___ so hard on yourself — everyone makes mistakes.",
+    "answers": [
+      "shouldn't be/oughtn't to be"
+    ],
+    "hints": [
+      "не стоит · BE"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "Ethan ___ our new client — they've never met.",
+    "answers": [
+      "can't recognise/cannot recognise"
+    ],
+    "hints": [
+      "не может · RECOGNISE"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "You ___ the boss when she is in a meeting.",
+    "answers": [
+      "mustn't disturb/can't disturb"
+    ],
+    "hints": [
+      "нельзя · DISTURB"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "We ___ overtime this month — the budget is tight.",
+    "answers": [
+      "can't approve/cannot approve"
+    ],
+    "hints": [
+      "не может · APPROVE"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "You ___ your phone during the interview — turn it off.",
+    "answers": [
+      "mustn't check/can't check"
+    ],
+    "hints": [
+      "нельзя · CHECK"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "The report ___ any longer — the client is waiting.",
+    "answers": [
+      "can't wait/cannot wait"
+    ],
+    "hints": [
+      "не может · WAIT"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "I ___ (not attend) the launch party — I have a family event.",
+    "answers": [
+      "won't attend/am not going to attend"
     ],
     "hints": [
       "?",
@@ -38414,107 +38392,1107 @@
     "formula": "Future Simple"
   },
   {
-    "sentence": "Where ___ we ___ (hold) the next conference?",
+    "sentence": "The team ___ (not deliver) the project on time at this rate.",
     "answers": [
-      "will",
-      "hold"
+      "won't deliver/isn't going to deliver"
     ],
     "hints": [
       "?",
-      "HOLD"
+      "DELIVER"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "How ___ this decision ___ (affect) our team?",
+    "sentence": "We ___ (not accept) the counter-offer — it's below our floor.",
     "answers": [
-      "will",
-      "affect"
+      "won't accept/aren't going to accept"
     ],
     "hints": [
       "?",
-      "AFFECT"
+      "ACCEPT"
     ],
     "level": "A1",
     "formula": "Future Simple"
   },
   {
-    "sentence": "___ they ___ (invest) more in AI this year?",
+    "sentence": "The company ___ (not announce) the merger until next quarter.",
     "answers": [
-      "Are",
-      "going to invest"
+      "won't announce/isn't going to announce"
     ],
     "hints": [
       "?",
-      "INVEST"
+      "ANNOUNCE"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "Sophie ___ (not join) us for lunch — she's on a diet.",
+    "answers": [
+      "won't join/isn't going to join"
+    ],
+    "hints": [
+      "?",
+      "JOIN"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "I ___ (not renew) my subscription — the price went up.",
+    "answers": [
+      "won't renew/am not going to renew"
+    ],
+    "hints": [
+      "?",
+      "RENEW"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "Ryan ___ (not take) the offer — the location is wrong for him.",
+    "answers": [
+      "won't take/isn't going to take"
+    ],
+    "hints": [
+      "?",
+      "TAKE"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "The manager ___ (not approve) this budget without justification.",
+    "answers": [
+      "won't approve/isn't going to approve"
+    ],
+    "hints": [
+      "?",
+      "APPROVE"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "We ___ (not raise) prices before January.",
+    "answers": [
+      "won't raise/aren't going to raise"
+    ],
+    "hints": [
+      "?",
+      "RAISE"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "The team ___ (not release) the update this week — it's not stable.",
+    "answers": [
+      "won't release/isn't going to release"
+    ],
+    "hints": [
+      "?",
+      "RELEASE"
+    ],
+    "level": "A1",
+    "formula": "Future Simple"
+  },
+  {
+    "sentence": "I ___ (not check) my email tonight — I'm off duty.",
+    "answers": [
+      "am not checking/'m not checking"
+    ],
+    "hints": [
+      "?",
+      "CHECK"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "The board ___ (not meet) today — the CEO cancelled.",
+    "answers": [
+      "isn't meeting"
+    ],
+    "hints": [
+      "?",
+      "MEET"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "Sales ___ (not grow) as expected this quarter.",
+    "answers": [
+      "aren't growing"
+    ],
+    "hints": [
+      "?",
+      "GROW"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "We ___ (not hire) engineers this month — hiring is frozen.",
+    "answers": [
+      "aren't hiring"
+    ],
+    "hints": [
+      "?",
+      "HIRE"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "The system ___ (not work) properly since the last update.",
+    "answers": [
+      "isn't working"
+    ],
+    "hints": [
+      "?",
+      "WORK"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "Ethan ___ (not present) today — Sarah is standing in for him.",
+    "answers": [
+      "isn't presenting"
+    ],
+    "hints": [
+      "?",
+      "PRESENT"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "The team ___ (not follow) the new protocol yet.",
+    "answers": [
+      "isn't following/aren't following"
+    ],
+    "hints": [
+      "?",
+      "FOLLOW"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "My colleagues ___ (not respond) to Slack messages after 6 pm.",
+    "answers": [
+      "aren't responding"
+    ],
+    "hints": [
+      "?",
+      "RESPOND"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "The client ___ (not consider) our latest proposal seriously.",
+    "answers": [
+      "isn't considering"
+    ],
+    "hints": [
+      "?",
+      "CONSIDER"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "Anna ___ (not travel) this month — she's covering for her manager.",
+    "answers": [
+      "isn't travelling"
+    ],
+    "hints": [
+      "?",
+      "TRAVEL"
+    ],
+    "level": "A1",
+    "formula": "Present Continuous"
+  },
+  {
+    "sentence": "I ___ (not pay attention) when the manager asked her question.",
+    "answers": [
+      "wasn't paying attention"
+    ],
+    "hints": [
+      "?",
+      "PAY ATTENTION"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "The engineers ___ (not test) the server when it went down.",
+    "answers": [
+      "weren't testing"
+    ],
+    "hints": [
+      "?",
+      "TEST"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "Charlotte ___ (not lie) — she just didn't have all the facts.",
+    "answers": [
+      "wasn't lying"
+    ],
+    "hints": [
+      "?",
+      "LIE"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "We ___ (not expect) so many candidates for the position.",
+    "answers": [
+      "weren't expecting"
+    ],
+    "hints": [
+      "?",
+      "EXPECT"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "The clients ___ (not complain) — they were just asking questions.",
+    "answers": [
+      "weren't complaining"
+    ],
+    "hints": [
+      "?",
+      "COMPLAIN"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "James ___ (not use) the shared calendar last week.",
+    "answers": [
+      "wasn't using"
+    ],
+    "hints": [
+      "?",
+      "USE"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "I ___ (not sleep) well last month — the noise from renovations kept me up.",
+    "answers": [
+      "wasn't sleeping"
+    ],
+    "hints": [
+      "?",
+      "SLEEP"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "The delivery team ___ (not follow) the correct route yesterday.",
+    "answers": [
+      "wasn't following/weren't following"
+    ],
+    "hints": [
+      "?",
+      "FOLLOW"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "Nobody ___ (not answer) the phone when I called at 3.",
+    "answers": [
+      "was answering"
+    ],
+    "hints": [
+      "?",
+      "ANSWER"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "The interns ___ (not listen) during the safety briefing.",
+    "answers": [
+      "weren't listening"
+    ],
+    "hints": [
+      "?",
+      "LISTEN"
+    ],
+    "level": "A2",
+    "formula": "Past Continuous"
+  },
+  {
+    "sentence": "We ___ (not launch) the product until the beta testing is complete.",
+    "answers": [
+      "aren't going to launch"
+    ],
+    "hints": [
+      "?",
+      "LAUNCH"
     ],
     "level": "A2",
     "formula": "Going to Future"
   },
   {
-    "sentence": "What ___ you ___ (do) if the client says no?",
+    "sentence": "Grace ___ (not accept) any less than 100k for that senior role.",
     "answers": [
-      "will",
-      "do"
+      "isn't going to accept"
     ],
     "hints": [
       "?",
-      "DO"
+      "ACCEPT"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "The board ___ (not approve) the acquisition — the risk is too high.",
+    "answers": [
+      "isn't going to approve"
+    ],
+    "hints": [
+      "?",
+      "APPROVE"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "I ___ (not stay) at this company much longer — I need growth.",
+    "answers": [
+      "am not going to stay/'m not going to stay"
+    ],
+    "hints": [
+      "?",
+      "STAY"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "Our team ___ (not miss) the deadline this time.",
+    "answers": [
+      "isn't going to miss/aren't going to miss"
+    ],
+    "hints": [
+      "?",
+      "MISS"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "The CFO ___ (not sign) any new contracts until the audit is over.",
+    "answers": [
+      "isn't going to sign"
+    ],
+    "hints": [
+      "?",
+      "SIGN"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "Ryan ___ (not attend) the conference — he has a scheduling conflict.",
+    "answers": [
+      "isn't going to attend"
+    ],
+    "hints": [
+      "?",
+      "ATTEND"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "The company ___ (not open) new offices this year — they're consolidating.",
+    "answers": [
+      "isn't going to open"
+    ],
+    "hints": [
+      "?",
+      "OPEN"
+    ],
+    "level": "A2",
+    "formula": "Going to Future"
+  },
+  {
+    "sentence": "I ___ (not sleep) well since we launched the new product.",
+    "answers": [
+      "haven't been sleeping"
+    ],
+    "hints": [
+      "?",
+      "SLEEP"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "The team ___ (not meet) the targets consistently this quarter.",
+    "answers": [
+      "hasn't been meeting/haven't been meeting"
+    ],
+    "hints": [
+      "?",
+      "MEET"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "Anna ___ (not attend) the weekly stand-ups lately.",
+    "answers": [
+      "hasn't been attending"
+    ],
+    "hints": [
+      "?",
+      "ATTEND"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "We ___ (not receive) the reports on time from that department.",
+    "answers": [
+      "haven't been receiving"
+    ],
+    "hints": [
+      "?",
+      "RECEIVE"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "The system ___ (not perform) as fast as it used to.",
+    "answers": [
+      "hasn't been performing"
+    ],
+    "hints": [
+      "?",
+      "PERFORM"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "James ___ (not answer) his emails for a week now — is he OK?",
+    "answers": [
+      "hasn't been answering"
+    ],
+    "hints": [
+      "?",
+      "ANSWER"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "The interns ___ (not follow) the guidelines carefully enough.",
+    "answers": [
+      "haven't been following"
+    ],
+    "hints": [
+      "?",
+      "FOLLOW"
+    ],
+    "level": "B1",
+    "formula": "Present Perfect Continuous"
+  },
+  {
+    "sentence": "This laptop ___ (not use) since the developer left.",
+    "answers": [
+      "hasn't been used"
+    ],
+    "hints": [
+      "?",
+      "USE"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "The report ___ (not finalise) yet — it needs more data.",
+    "answers": [
+      "hasn't been finalised"
+    ],
+    "hints": [
+      "?",
+      "FINALISE"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "The invoices ___ (not process) last week due to the holiday.",
+    "answers": [
+      "weren't processed"
+    ],
+    "hints": [
+      "?",
+      "PROCESS"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "This procedure ___ (not follow) correctly by the new team.",
+    "answers": [
+      "wasn't followed/isn't followed"
+    ],
+    "hints": [
+      "?",
+      "FOLLOW"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "The meeting room ___ (not book) for our team on Fridays.",
+    "answers": [
+      "isn't booked"
+    ],
+    "hints": [
+      "?",
+      "BOOK"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "Those files ___ (not encrypt) before being sent — that's a breach.",
+    "answers": [
+      "weren't encrypted"
+    ],
+    "hints": [
+      "?",
+      "ENCRYPT"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "The old system ___ (not maintain) properly for years.",
+    "answers": [
+      "wasn't maintained/hasn't been maintained"
+    ],
+    "hints": [
+      "?",
+      "MAINTAIN"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "By next month, the team ___ (not complete) the audit yet.",
+    "answers": [
+      "won't have completed"
+    ],
+    "hints": [
+      "?",
+      "COMPLETE"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "This time next year, I ___ (not work) at this company anymore.",
+    "answers": [
+      "won't be working"
+    ],
+    "hints": [
+      "?",
+      "WORK"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "By the end of Q3, we ___ (not launch) the new platform yet.",
+    "answers": [
+      "won't have launched"
+    ],
+    "hints": [
+      "?",
+      "LAUNCH"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "At this time tomorrow, Sarah ___ (not present) — that's next week.",
+    "answers": [
+      "won't be presenting"
+    ],
+    "hints": [
+      "?",
+      "PRESENT"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "By December, the company ___ (not reach) its annual target.",
+    "answers": [
+      "won't have reached"
+    ],
+    "hints": [
+      "?",
+      "REACH"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "Before yesterday's meeting, I ___ (not see) the updated numbers.",
+    "answers": [
+      "hadn't seen"
+    ],
+    "hints": [
+      "?",
+      "SEE"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "By the time we arrived, the client ___ (not finish) his presentation.",
+    "answers": [
+      "hadn't finished"
+    ],
+    "hints": [
+      "?",
+      "FINISH"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "Before that project, our team ___ (not work) with an offshore vendor.",
+    "answers": [
+      "hadn't worked"
+    ],
+    "hints": [
+      "?",
+      "WORK"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "Ryan ___ (not read) the brief before he came to the meeting.",
+    "answers": [
+      "hadn't read"
+    ],
+    "hints": [
+      "?",
+      "READ"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "If Grace ___ (not accept) the promotion, someone else would have.",
+    "answers": [
+      "hadn't accepted"
+    ],
+    "hints": [
+      "?",
+      "ACCEPT"
+    ],
+    "level": "B2",
+    "formula": "Mixed & Third Conditionals / Wishes"
+  },
+  {
+    "sentence": "If you ___ (not have) so many meetings, you'd finish faster.",
+    "answers": [
+      "didn't have"
+    ],
+    "hints": [
+      "?",
+      "HAVE"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
   },
   {
-    "sentence": "Where ___ you ___ (go) if you could work anywhere in the world?",
+    "sentence": "If the market ___ (not react) so badly, we wouldn't have paused hiring.",
     "answers": [
-      "would",
-      "go"
+      "hadn't reacted"
     ],
     "hints": [
-      "сделал бы · GO",
-      ""
+      "?",
+      "REACT"
     ],
-    "level": "B1",
-    "formula": "Conditionals (0, 1, 2)"
+    "level": "B2",
+    "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "How ___ you ___ (feel) if you got that promotion?",
+    "sentence": "If Anna ___ (not resign), she would still be leading the team.",
     "answers": [
-      "would",
-      "feel"
+      "hadn't resigned"
     ],
     "hints": [
-      "сделал бы · FEEL",
-      ""
+      "?",
+      "RESIGN"
     ],
-    "level": "B1",
-    "formula": "Conditionals (0, 1, 2)"
+    "level": "B2",
+    "formula": "Mixed & Third Conditionals / Wishes"
   },
   {
-    "sentence": "___ you ___ (accept) the offer if the salary were higher?",
+    "sentence": "Ethan ___ (not check) his messages after 8 pm on weekdays.",
     "answers": [
-      "Would",
-      "accept"
+      "doesn't check"
     ],
     "hints": [
-      "сделал бы · ACCEPT",
-      ""
+      "?",
+      "CHECK"
     ],
-    "level": "B1",
-    "formula": "Conditionals (0, 1, 2)"
+    "level": "A1",
+    "formula": "Present Simple"
   },
   {
-    "sentence": "What ___ you ___ (say) at the interview if they asked about salary?",
+    "sentence": "We ___ (not offer) unpaid internships anymore.",
     "answers": [
-      "would",
-      "say"
+      "don't offer"
     ],
     "hints": [
-      "сделал бы · SAY",
-      ""
+      "?",
+      "OFFER"
+    ],
+    "level": "A1",
+    "formula": "Present Simple"
+  },
+  {
+    "sentence": "The company ___ (not sponsor) work visas for junior positions.",
+    "answers": [
+      "doesn't sponsor"
+    ],
+    "hints": [
+      "?",
+      "SPONSOR"
+    ],
+    "level": "A1",
+    "formula": "Present Simple"
+  },
+  {
+    "sentence": "The team ___ (not present) their work at the all-hands last month.",
+    "answers": [
+      "didn't present"
+    ],
+    "hints": [
+      "?",
+      "PRESENT"
+    ],
+    "level": "A1",
+    "formula": "Past Simple"
+  },
+  {
+    "sentence": "Nobody ___ (not warn) us about the system outage yesterday.",
+    "answers": [
+      "warned"
+    ],
+    "hints": [
+      "?",
+      "WARN"
+    ],
+    "level": "A1",
+    "formula": "Past Simple"
+  },
+  {
+    "sentence": "I ___ (not send) the follow-up email — I forgot completely.",
+    "answers": [
+      "didn't send"
+    ],
+    "hints": [
+      "?",
+      "SEND"
+    ],
+    "level": "A1",
+    "formula": "Past Simple"
+  },
+  {
+    "sentence": "___ tomorrow's meeting?",
+    "answers": [
+      "Can you attend/Will you attend"
+    ],
+    "hints": [
+      "? · ATTEND"
     ],
     "level": "B1",
-    "formula": "Conditionals (0, 1, 2)"
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "___ me with this report?",
+    "answers": [
+      "Can you help/Could you help"
+    ],
+    "hints": [
+      "? · HELP"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "___ overtime this week?",
+    "answers": [
+      "Do we have to work/Must we work"
+    ],
+    "hints": [
+      "? · WORK"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "___ so quickly?",
+    "answers": [
+      "Should we decide/Must we decide"
+    ],
+    "hints": [
+      "? · DECIDE"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "___ the CEO before the announcement?",
+    "answers": [
+      "Should I inform/Must I inform"
+    ],
+    "hints": [
+      "? · INFORM"
+    ],
+    "level": "B1",
+    "formula": "Modal Verbs"
+  },
+  {
+    "sentence": "___ the deadline by the time you started?",
+    "answers": [
+      "Had they moved/Had the team moved"
+    ],
+    "hints": [
+      "? · MOVE"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "___ the report before the meeting?",
+    "answers": [
+      "Had you read/Had everyone read"
+    ],
+    "hints": [
+      "? · READ"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "___ each other before that project?",
+    "answers": [
+      "Had you met/Had they met"
+    ],
+    "hints": [
+      "? · MEET"
+    ],
+    "level": "B1",
+    "formula": "Past Perfect"
+  },
+  {
+    "sentence": "___ by the end of this year?",
+    "answers": [
+      "Will you have finished/Will the team have finished"
+    ],
+    "hints": [
+      "? · FINISH"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "___ at 3 pm tomorrow?",
+    "answers": [
+      "Will you be presenting/Will Sarah be presenting"
+    ],
+    "hints": [
+      "? · PRESENT"
+    ],
+    "level": "B2",
+    "formula": "P.P.C. / F.P.S. / F.C."
+  },
+  {
+    "sentence": "___ if he was tired?",
+    "answers": [
+      "Did you ask/Did she ask"
+    ],
+    "hints": [
+      "? · ASK"
+    ],
+    "level": "B2",
+    "formula": "Reported Speech"
+  },
+  {
+    "sentence": "___ where the meeting was?",
+    "answers": [
+      "Did they tell you/Did anyone tell you"
+    ],
+    "hints": [
+      "? · TELL"
+    ],
+    "level": "B2",
+    "formula": "Reported Speech"
+  },
+  {
+    "sentence": "___ before the client sees it?",
+    "answers": [
+      "Will the design be reviewed/Has the design been reviewed"
+    ],
+    "hints": [
+      "? · REVIEW"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "___ by the end of Friday?",
+    "answers": [
+      "Will the report be delivered/Can the report be delivered"
+    ],
+    "hints": [
+      "? · DELIVER"
+    ],
+    "level": "B2",
+    "formula": "Passive Voice"
+  },
+  {
+    "sentence": "___ working with our new client?",
+    "answers": [
+      "Have you enjoyed/Do you enjoy"
+    ],
+    "hints": [
+      "? · ENJOY"
+    ],
+    "level": "B1",
+    "formula": "Gerund and Infinitive"
+  },
+  {
+    "sentence": "___ to accept their offer?",
+    "answers": [
+      "Did you decide/Have you decided"
+    ],
+    "hints": [
+      "? · DECIDE"
+    ],
+    "level": "B1",
+    "formula": "Gerund and Infinitive"
+  },
+  {
+    "sentence": "___ to change careers at some point?",
+    "answers": [
+      "Are you planning/Do you plan"
+    ],
+    "hints": [
+      "? · PLAN"
+    ],
+    "level": "B1",
+    "formula": "Gerund and Infinitive"
+  },
+  {
+    "sentence": "___ my proposal, please?",
+    "answers": [
+      "Would you consider/Could you consider"
+    ],
+    "hints": [
+      "? · CONSIDER"
+    ],
+    "level": "C1",
+    "formula": "Inversion"
+  },
+  {
+    "sentence": "___ my draft before I send it?",
+    "answers": [
+      "Could you review/Would you review"
+    ],
+    "hints": [
+      "? · REVIEW"
+    ],
+    "level": "C1",
+    "formula": "Advanced & Perfect Modals"
+  },
+  {
+    "sentence": "___ possibly known about the change?",
+    "answers": [
+      "Could they have/How could they have"
+    ],
+    "hints": [
+      "? · KNOW"
+    ],
+    "level": "C1",
+    "formula": "Advanced & Perfect Modals"
+  },
+  {
+    "sentence": "___ the invoice from that vendor yet?",
+    "answers": [
+      "Have you received/Has your team received"
+    ],
+    "hints": [
+      "? · RECEIVE"
+    ],
+    "level": "A2",
+    "formula": "Present Perfect"
+  },
+  {
+    "sentence": "___ to the new CEO's town hall?",
+    "answers": [
+      "Have you listened/Has anyone listened"
+    ],
+    "hints": [
+      "? · LISTEN"
+    ],
+    "level": "A2",
+    "formula": "Present Perfect"
+  },
+  {
+    "sentence": "___ when the fire alarm went off?",
+    "answers": [
+      "What were you doing/Where were you working"
+    ],
+    "hints": [
+      "? · DO"
+    ],
+    "level": "B1",
+    "formula": "Past Continuous + Past Simple"
+  },
+  {
+    "sentence": "___ when the news broke yesterday?",
+    "answers": [
+      "Where were you/What were you doing"
+    ],
+    "hints": [
+      "? · BE"
+    ],
+    "level": "B1",
+    "formula": "Past Continuous + Past Simple"
   }
 ]
