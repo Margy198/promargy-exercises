@@ -444,10 +444,10 @@
   {
     "sentence": "I never ___ milk in my coffee.",
     "answers": [
-      "don't put"
+      "put"
     ],
     "hints": [
-      "NOT PUT"
+      "PUT"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -455,10 +455,10 @@
   {
     "sentence": "My sister never ___ fish — she hates it.",
     "answers": [
-      "doesn't eat"
+      "eats"
     ],
     "hints": [
-      "NOT EAT"
+      "EAT"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -477,10 +477,10 @@
   {
     "sentence": "My dog never ___ cats — he is afraid of them.",
     "answers": [
-      "doesn't like"
+      "likes"
     ],
     "hints": [
-      "NOT LIKE"
+      "LIKE"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -488,10 +488,10 @@
   {
     "sentence": "I never ___ to music when I study.",
     "answers": [
-      "don't listen"
+      "listen"
     ],
     "hints": [
-      "NOT LISTEN"
+      "LISTEN"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -502,7 +502,7 @@
       "Do you have"
     ],
     "hints": [
-      "HAVE"
+      "HAVE YOU"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -535,7 +535,7 @@
       "Does your mum usually work"
     ],
     "hints": [
-      "WORK"
+      "WORK YOUR MUM USUALLY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -546,7 +546,7 @@
       "What do you usually eat"
     ],
     "hints": [
-      "EAT"
+      "EAT YOU USUALLY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -1052,7 +1052,7 @@
       "What are you doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -1063,7 +1063,7 @@
       "Why is the baby crying"
     ],
     "hints": [
-      "CRY"
+      "CRY THE BABY"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -1074,7 +1074,7 @@
       "Where is your mum going"
     ],
     "hints": [
-      "GO"
+      "GO YOUR MUM"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -1085,7 +1085,7 @@
       "Are the children doing"
     ],
     "hints": [
-      "DO"
+      "DO THE CHILDREN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -1096,7 +1096,7 @@
       "Why is My personal trainer working"
     ],
     "hints": [
-      "WORK"
+      "WORK MY PERSONAL TRAINER"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -1615,7 +1615,7 @@
       "Where did you go"
     ],
     "hints": [
-      "GO"
+      "GO YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -1626,7 +1626,7 @@
       "What did you eat"
     ],
     "hints": [
-      "EAT"
+      "EAT YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -1637,7 +1637,7 @@
       "When did he come"
     ],
     "hints": [
-      "COME"
+      "COME HE"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -1648,7 +1648,7 @@
       "Who did you see"
     ],
     "hints": [
-      "SEE"
+      "SEE YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -2154,7 +2154,7 @@
       "Will you help"
     ],
     "hints": [
-      "HELP"
+      "HELP YOU"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -2165,7 +2165,7 @@
       "What time will the bus come"
     ],
     "hints": [
-      "COME"
+      "COME THE BUS"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -2176,7 +2176,7 @@
       "Where will you go"
     ],
     "hints": [
-      "GO"
+      "GO YOU"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -2187,7 +2187,7 @@
       "Will it rain"
     ],
     "hints": [
-      "RAIN"
+      "RAIN IT"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -2198,7 +2198,7 @@
       "What will you do"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -2484,7 +2484,7 @@
       "Have you met"
     ],
     "hints": [
-      "MEET"
+      "MEET YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2506,7 +2506,7 @@
       "Have you done"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2517,7 +2517,7 @@
       "Has your brother arrived"
     ],
     "hints": [
-      "ARRIVE"
+      "ARRIVE YOUR BROTHER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2528,7 +2528,7 @@
       "Have you heard"
     ],
     "hints": [
-      "HEAR"
+      "HEAR YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2539,7 +2539,7 @@
       "Have you ever been"
     ],
     "hints": [
-      "BE"
+      "BE YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2550,7 +2550,7 @@
       "Has she ever seen"
     ],
     "hints": [
-      "SEE"
+      "SEE SHE EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2561,7 +2561,7 @@
       "Has your dad eaten"
     ],
     "hints": [
-      "EAT"
+      "EAT YOUR DAD"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2572,7 +2572,7 @@
       "Have you ever flown"
     ],
     "hints": [
-      "FLY"
+      "FLY YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2583,7 +2583,7 @@
       "Have they ever been"
     ],
     "hints": [
-      "BE"
+      "BE THEY EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2594,7 +2594,7 @@
       "Have you ever ridden"
     ],
     "hints": [
-      "RIDE"
+      "RIDE YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2605,7 +2605,7 @@
       "Has your sister ever won"
     ],
     "hints": [
-      "WIN"
+      "WIN YOUR SISTER EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -2616,7 +2616,7 @@
       "Have you ever met"
     ],
     "hints": [
-      "MEET"
+      "MEET YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -3246,7 +3246,7 @@
       "What were you doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3257,7 +3257,7 @@
       "Why was the baby crying"
     ],
     "hints": [
-      "CRY"
+      "CRY THE BABY"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3268,7 +3268,7 @@
       "Where were you going"
     ],
     "hints": [
-      "GO"
+      "GO YOU"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3279,7 +3279,7 @@
       "What was your mum doing"
     ],
     "hints": [
-      "DO"
+      "DO YOUR MUM"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3290,7 +3290,7 @@
       "Who were you talking"
     ],
     "hints": [
-      "TALK"
+      "TALK YOU"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3301,7 +3301,7 @@
       "How was he driving"
     ],
     "hints": [
-      "DRIVE"
+      "DRIVE HE"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3312,7 +3312,7 @@
       "Why were they shouting"
     ],
     "hints": [
-      "SHOUT"
+      "SHOUT THEY"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -3796,7 +3796,7 @@
       "What are you going to do"
     ],
     "hints": [
-      "DO"
+      "DO YOU GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3807,7 +3807,7 @@
       "Where is your family going to go"
     ],
     "hints": [
-      "GO"
+      "GO YOUR FAMILY GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3818,7 +3818,7 @@
       "When are you going to start"
     ],
     "hints": [
-      "START"
+      "START YOU GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3829,7 +3829,7 @@
       "How are we going to save"
     ],
     "hints": [
-      "SAVE"
+      "SAVE WE GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3840,7 +3840,7 @@
       "Are you going to attend"
     ],
     "hints": [
-      "ATTEND"
+      "ATTEND YOU GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3851,7 +3851,7 @@
       "is going to come/will come/is supposed to come"
     ],
     "hints": [
-      "COME"
+      "COME TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -3862,7 +3862,7 @@
       "What time is your train going to arrive"
     ],
     "hints": [
-      "ARRIVE"
+      "ARRIVE YOUR TRAIN GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -4181,7 +4181,7 @@
       "Have you been doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -4357,7 +4357,7 @@
       "How long have you been waiting"
     ],
     "hints": [
-      "WAIT"
+      "WAIT YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -4368,7 +4368,7 @@
       "How long have they been dating"
     ],
     "hints": [
-      "DATE"
+      "DATE THEY BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -4379,7 +4379,7 @@
       "How long has your dad been working"
     ],
     "hints": [
-      "WORK"
+      "WORK YOUR DAD BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -4390,7 +4390,7 @@
       "How long has it been raining"
     ],
     "hints": [
-      "RAIN"
+      "RAIN IT BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -11434,7 +11434,7 @@
       "my asking"
     ],
     "hints": [
-      "I ASK"
+      "I ASK MY"
     ],
     "level": "C1",
     "formula": "Advanced Verbals"
@@ -12006,7 +12006,7 @@
       "What are you doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12061,7 +12061,7 @@
       "What time does the match begin"
     ],
     "hints": [
-      "BEGIN"
+      "BEGIN THE MATCH"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12116,7 +12116,7 @@
       "Will you be using"
     ],
     "hints": [
-      "USE"
+      "USE YOU BE"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12149,7 +12149,7 @@
       "Will you be passing"
     ],
     "hints": [
-      "PASS"
+      "PASS YOU BE"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -12602,7 +12602,7 @@
       "are supposed to meet"
     ],
     "hints": [
-      "MEET"
+      "MEET SUPPOSED TO"
     ],
     "level": "C1",
     "formula": "Future Forms (all)"
@@ -13823,7 +13823,7 @@
       "What time do you usually come"
     ],
     "hints": [
-      "COME"
+      "COME YOU USUALLY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -13834,7 +13834,7 @@
       "How often does your family go"
     ],
     "hints": [
-      "GO"
+      "GO YOUR FAMILY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -13856,7 +13856,7 @@
       "What does Dad usually do"
     ],
     "hints": [
-      "DO"
+      "DO DAD USUALLY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -14340,7 +14340,7 @@
       "What are you doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14351,7 +14351,7 @@
       "Where is the team leader going"
     ],
     "hints": [
-      "GO"
+      "GO THE TEAM LEADER"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14362,7 +14362,7 @@
       "Why are the children shouting"
     ],
     "hints": [
-      "SHOUT"
+      "SHOUT THE CHILDREN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14384,7 +14384,7 @@
       "What is Bella doing"
     ],
     "hints": [
-      "DO"
+      "DO BELLA"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14395,7 +14395,7 @@
       "Is it raining"
     ],
     "hints": [
-      "RAIN"
+      "RAIN IT"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14406,7 +14406,7 @@
       "Why is Tom crying"
     ],
     "hints": [
-      "CRY"
+      "CRY TOM"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -14901,7 +14901,7 @@
       "Where did you go"
     ],
     "hints": [
-      "GO"
+      "GO YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -14912,7 +14912,7 @@
       "What did you have"
     ],
     "hints": [
-      "HAVE"
+      "HAVE YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -14923,7 +14923,7 @@
       "When did Clara return"
     ],
     "hints": [
-      "RETURN"
+      "RETURN CLARA"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -14934,7 +14934,7 @@
       "Who did you see"
     ],
     "hints": [
-      "SEE"
+      "SEE YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -14945,7 +14945,7 @@
       "How long did the film last"
     ],
     "hints": [
-      "LAST"
+      "LAST THE FILM"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -14956,7 +14956,7 @@
       "Why did Liam arrive"
     ],
     "hints": [
-      "ARRIVE"
+      "ARRIVE LIAM"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -15440,7 +15440,7 @@
       "What will you do"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -15451,7 +15451,7 @@
       "Where will we go"
     ],
     "hints": [
-      "GO"
+      "GO WE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -15462,7 +15462,7 @@
       "When will Tom return"
     ],
     "hints": [
-      "RETURN"
+      "RETURN TOM"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -15484,7 +15484,7 @@
       "How long will you stay"
     ],
     "hints": [
-      "STAY"
+      "STAY YOU"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -15731,7 +15731,7 @@
       "Have you tidied"
     ],
     "hints": [
-      "TIDY"
+      "TIDY YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15742,7 +15742,7 @@
       "Has Anna returned"
     ],
     "hints": [
-      "RETURN"
+      "RETURN ANNA"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15753,7 +15753,7 @@
       "Has the postman come"
     ],
     "hints": [
-      "COME"
+      "COME THE POSTMAN"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15764,7 +15764,7 @@
       "Have you called"
     ],
     "hints": [
-      "CALL"
+      "CALL YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15775,7 +15775,7 @@
       "Have you ever tried"
     ],
     "hints": [
-      "TRY"
+      "TRY YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15786,7 +15786,7 @@
       "Has Theo ever ridden"
     ],
     "hints": [
-      "RIDE"
+      "RIDE THEO EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15797,7 +15797,7 @@
       "Have you ever been"
     ],
     "hints": [
-      "BE"
+      "BE YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15808,7 +15808,7 @@
       "Has Anna ever run"
     ],
     "hints": [
-      "RUN"
+      "RUN ANNA EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -15819,7 +15819,7 @@
       "Have you ever seen"
     ],
     "hints": [
-      "SEE"
+      "SEE YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -16550,7 +16550,7 @@
       "What were you doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -16561,7 +16561,7 @@
       "Where was Tom going"
     ],
     "hints": [
-      "GO"
+      "GO TOM"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -16572,7 +16572,7 @@
       "Why was Our neighbour cooking"
     ],
     "hints": [
-      "COOK"
+      "COOK OUR NEIGHBOUR"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -16583,7 +16583,7 @@
       "Who was Anna talking"
     ],
     "hints": [
-      "TALK"
+      "TALK ANNA"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -16594,7 +16594,7 @@
       "What were the kids doing"
     ],
     "hints": [
-      "DO"
+      "DO THE KIDS"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -16605,7 +16605,7 @@
       "How was Our family doctor driving"
     ],
     "hints": [
-      "DRIVE"
+      "DRIVE OUR FAMILY DOCTOR"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -17067,7 +17067,7 @@
       "Where is Anna going to go"
     ],
     "hints": [
-      "GO"
+      "GO ANNA GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -17078,7 +17078,7 @@
       "When is Ruby going to bake"
     ],
     "hints": [
-      "BAKE"
+      "BAKE RUBY GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -17089,7 +17089,7 @@
       "How long are you going to stay"
     ],
     "hints": [
-      "STAY"
+      "STAY YOU GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -17111,7 +17111,7 @@
       "What time is the train going to leave"
     ],
     "hints": [
-      "LEAVE"
+      "LEAVE THE TRAIN GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -17122,7 +17122,7 @@
       "Why is Tom going to leave"
     ],
     "hints": [
-      "LEAVE"
+      "LEAVE TOM GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -17540,7 +17540,7 @@
       "How long have you been waiting"
     ],
     "hints": [
-      "WAIT"
+      "WAIT YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17551,7 +17551,7 @@
       "How long has Mike been working"
     ],
     "hints": [
-      "WORK"
+      "WORK MIKE BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17562,7 +17562,7 @@
       "How long have Lily and you been dating"
     ],
     "hints": [
-      "DATE"
+      "DATE LILY AND YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17573,7 +17573,7 @@
       "How long has it been snowing"
     ],
     "hints": [
-      "SNOW"
+      "SNOW IT BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17584,7 +17584,7 @@
       "How long has My grandmother been playing"
     ],
     "hints": [
-      "PLAY"
+      "PLAY MY GRANDMOTHER BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17595,7 +17595,7 @@
       "How long have you been having"
     ],
     "hints": [
-      "HAVE"
+      "HAVE YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17606,7 +17606,7 @@
       "What have you been doing"
     ],
     "hints": [
-      "DO"
+      "DO YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -17639,7 +17639,7 @@
       "Why have you been crying"
     ],
     "hints": [
-      "CRY"
+      "CRY YOU BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -24510,7 +24510,7 @@
       "didn't"
     ],
     "hints": [
-      "NOT"
+      "NOT · NOT"
     ],
     "level": "C1",
     "formula": "Ellipsis"
@@ -24785,7 +24785,7 @@
       "didn't"
     ],
     "hints": [
-      "NOT"
+      "NOT · NOT"
     ],
     "level": "C1",
     "formula": "Ellipsis"
@@ -28161,7 +28161,7 @@
       "Will you be"
     ],
     "hints": [
-      "будет · BE"
+      "будет · BE YOU"
     ],
     "level": "A1",
     "formula": "Verb To Be"
@@ -28172,7 +28172,7 @@
       "When will the dinner be"
     ],
     "hints": [
-      "будет · BE"
+      "будет · BE THE DINNER"
     ],
     "level": "A1",
     "formula": "Verb To Be"
@@ -28183,7 +28183,7 @@
       "How old will your son be"
     ],
     "hints": [
-      "будет · BE"
+      "будет · BE YOUR SON"
     ],
     "level": "A1",
     "formula": "Verb To Be"
@@ -28271,7 +28271,7 @@
       "How long have you been"
     ],
     "hints": [
-      "BE"
+      "BE YOU"
     ],
     "level": "A1",
     "formula": "Verb To Be"
@@ -29283,7 +29283,7 @@
       "can't find/cannot find"
     ],
     "hints": [
-      "не может · FIND"
+      "не может · FIND CAN'T"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30626,7 +30626,7 @@
       "Can I borrow/May I borrow/Could I borrow"
     ],
     "hints": [
-      "можно · BORROW"
+      "можно · BORROW I"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30649,7 +30649,7 @@
       "Can I use/May I use/Could I use"
     ],
     "hints": [
-      "можно · USE"
+      "можно · USE I"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30672,7 +30672,7 @@
       "Can I ask/May I ask/Could I ask"
     ],
     "hints": [
-      "можно · ASK"
+      "можно · ASK I"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30695,7 +30695,7 @@
       "Can I take/May I take/Could I take"
     ],
     "hints": [
-      "можно · TAKE"
+      "можно · TAKE I"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30706,7 +30706,7 @@
       "Can I have/May I have/Could I have"
     ],
     "hints": [
-      "можно · HAVE"
+      "можно · HAVE I"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30717,7 +30717,7 @@
       "Can you help/Could you help"
     ],
     "hints": [
-      "не мог бы · HELP"
+      "не мог бы · HELP YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30728,7 +30728,7 @@
       "Can you close/Could you close"
     ],
     "hints": [
-      "не мог бы · CLOSE"
+      "не мог бы · CLOSE YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30739,7 +30739,7 @@
       "Can you do/Could you do"
     ],
     "hints": [
-      "не мог бы · DO"
+      "не мог бы · DO YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30774,7 +30774,7 @@
       "Can you pass/Could you pass"
     ],
     "hints": [
-      "не мог бы · PASS"
+      "не мог бы · PASS YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -30797,7 +30797,7 @@
       "Can you tell/Could you tell"
     ],
     "hints": [
-      "не мог бы · TELL"
+      "не мог бы · TELL YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -35214,7 +35214,7 @@
       "to have"
     ],
     "hints": [
-      "HAVE"
+      "HAVE TO"
     ],
     "level": "B1",
     "formula": "Infinitive with or without 'to'"
@@ -35731,7 +35731,7 @@
       "There was"
     ],
     "hints": [
-      "BE"
+      "BE THERE"
     ],
     "level": "A1",
     "formula": "There / It + to be"
@@ -35841,7 +35841,7 @@
       "There was"
     ],
     "hints": [
-      "BE"
+      "BE THERE"
     ],
     "level": "A1",
     "formula": "There / It + to be"
@@ -35918,7 +35918,7 @@
       "There will be/There are"
     ],
     "hints": [
-      "BE"
+      "BE THERE WILL"
     ],
     "level": "A1",
     "formula": "There / It + to be"
@@ -35951,7 +35951,7 @@
       "There is/There's"
     ],
     "hints": [
-      "BE"
+      "BE THERE"
     ],
     "level": "A1",
     "formula": "There / It + to be"
@@ -36006,7 +36006,7 @@
       "Has there been"
     ],
     "hints": [
-      "BE"
+      "BE THERE"
     ],
     "level": "A1",
     "formula": "There / It + to be"
@@ -36952,7 +36952,7 @@
       "doesn't drink"
     ],
     "hints": [
-      "DRINK"
+      "NOT · DRINK"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -36963,7 +36963,7 @@
       "don't work"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -36974,7 +36974,7 @@
       "doesn't travel"
     ],
     "hints": [
-      "TRAVEL"
+      "NOT · TRAVEL"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -36985,7 +36985,7 @@
       "don't have"
     ],
     "hints": [
-      "HAVE"
+      "NOT · HAVE"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -36996,7 +36996,7 @@
       "doesn't enjoy"
     ],
     "hints": [
-      "ENJOY"
+      "NOT · ENJOY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37007,7 +37007,7 @@
       "doesn't answer"
     ],
     "hints": [
-      "ANSWER"
+      "NOT · ANSWER"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37018,7 +37018,7 @@
       "doesn't speak"
     ],
     "hints": [
-      "SPEAK"
+      "NOT · SPEAK"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37029,7 +37029,7 @@
       "don't know"
     ],
     "hints": [
-      "KNOW"
+      "NOT · KNOW"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37040,7 +37040,7 @@
       "doesn't eat"
     ],
     "hints": [
-      "EAT"
+      "NOT · EAT"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37051,7 +37051,7 @@
       "doesn't come"
     ],
     "hints": [
-      "COME"
+      "NOT · COME"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37062,7 +37062,7 @@
       "isn't working"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37073,7 +37073,7 @@
       "aren't hiring"
     ],
     "hints": [
-      "HIRE"
+      "NOT · HIRE"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37084,7 +37084,7 @@
       "am not listening/'m not listening"
     ],
     "hints": [
-      "LISTEN"
+      "NOT · LISTEN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37095,7 +37095,7 @@
       "isn't attending"
     ],
     "hints": [
-      "ATTEND"
+      "NOT · ATTEND"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37106,7 +37106,7 @@
       "aren't joining"
     ],
     "hints": [
-      "JOIN"
+      "NOT · JOIN"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37117,7 +37117,7 @@
       "didn't sleep"
     ],
     "hints": [
-      "SLEEP"
+      "NOT · SLEEP"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37128,7 +37128,7 @@
       "didn't come"
     ],
     "hints": [
-      "COME"
+      "NOT · COME"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37139,7 +37139,7 @@
       "didn't receive"
     ],
     "hints": [
-      "RECEIVE"
+      "NOT · RECEIVE"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37150,7 +37150,7 @@
       "didn't accept"
     ],
     "hints": [
-      "ACCEPT"
+      "NOT · ACCEPT"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37161,7 +37161,7 @@
       "didn't start"
     ],
     "hints": [
-      "START"
+      "NOT · START"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37172,7 +37172,7 @@
       "didn't check"
     ],
     "hints": [
-      "CHECK"
+      "NOT · CHECK"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37183,7 +37183,7 @@
       "didn't enjoy"
     ],
     "hints": [
-      "ENJOY"
+      "NOT · ENJOY"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37194,7 +37194,7 @@
       "didn't agree"
     ],
     "hints": [
-      "AGREE"
+      "NOT · AGREE"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37205,7 +37205,7 @@
       "didn't sign"
     ],
     "hints": [
-      "SIGN"
+      "NOT · SIGN"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37216,7 +37216,7 @@
       "didn't finish"
     ],
     "hints": [
-      "FINISH"
+      "NOT · FINISH"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37227,7 +37227,7 @@
       "haven't received"
     ],
     "hints": [
-      "RECEIVE"
+      "NOT · RECEIVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37238,7 +37238,7 @@
       "hasn't responded"
     ],
     "hints": [
-      "RESPOND"
+      "NOT · RESPOND"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37249,7 +37249,7 @@
       "haven't decided"
     ],
     "hints": [
-      "DECIDE"
+      "NOT · DECIDE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37260,7 +37260,7 @@
       "hasn't given"
     ],
     "hints": [
-      "GIVE"
+      "NOT · GIVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37271,7 +37271,7 @@
       "hasn't visited"
     ],
     "hints": [
-      "VISIT"
+      "NOT · VISIT"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37282,7 +37282,7 @@
       "hasn't achieved/haven't achieved"
     ],
     "hints": [
-      "ACHIEVE"
+      "NOT · ACHIEVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37293,7 +37293,7 @@
       "have never worked/'ve never worked"
     ],
     "hints": [
-      "WORK"
+      "NEVER · WORK"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37304,7 +37304,7 @@
       "hasn't sent"
     ],
     "hints": [
-      "SEND"
+      "NOT · SEND"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37315,7 +37315,7 @@
       "haven't had"
     ],
     "hints": [
-      "HAVE"
+      "NOT · HAVE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37326,7 +37326,7 @@
       "has never presented"
     ],
     "hints": [
-      "PRESENT"
+      "NEVER · PRESENT"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37337,7 +37337,7 @@
       "won't attend/am not going to attend"
     ],
     "hints": [
-      "ATTEND"
+      "NOT · ATTEND"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -37348,7 +37348,7 @@
       "won't open/isn't going to open"
     ],
     "hints": [
-      "OPEN"
+      "NOT · OPEN"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -37359,7 +37359,7 @@
       "won't raise/aren't going to raise"
     ],
     "hints": [
-      "RAISE"
+      "NOT · RAISE"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -37370,7 +37370,7 @@
       "won't accept/isn't going to accept"
     ],
     "hints": [
-      "ACCEPT"
+      "NOT · ACCEPT"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -37381,7 +37381,7 @@
       "isn't going to travel/won't travel"
     ],
     "hints": [
-      "TRAVEL"
+      "NOT · TRAVEL"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -37392,7 +37392,7 @@
       "wasn't working"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -37403,7 +37403,7 @@
       "weren't testing"
     ],
     "hints": [
-      "TEST"
+      "NOT · TEST"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -37414,7 +37414,7 @@
       "wasn't listening"
     ],
     "hints": [
-      "LISTEN"
+      "NOT · LISTEN"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -37425,7 +37425,7 @@
       "weren't expecting"
     ],
     "hints": [
-      "EXPECT"
+      "NOT · EXPECT"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -37436,7 +37436,7 @@
       "wasn't answering"
     ],
     "hints": [
-      "ANSWER"
+      "NOT · ANSWER"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -37447,7 +37447,7 @@
       "hasn't been performing/haven't been performing"
     ],
     "hints": [
-      "PERFORM"
+      "NOT · PERFORM"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -37458,7 +37458,7 @@
       "haven't been sleeping"
     ],
     "hints": [
-      "SLEEP"
+      "NOT · SLEEP"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -37469,7 +37469,7 @@
       "hasn't been working"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -37480,7 +37480,7 @@
       "haven't been receiving"
     ],
     "hints": [
-      "RECEIVE"
+      "NOT · RECEIVE"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -37491,7 +37491,7 @@
       "haven't been following"
     ],
     "hints": [
-      "FOLLOW"
+      "NOT · FOLLOW"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -37502,7 +37502,7 @@
       "hadn't launched"
     ],
     "hints": [
-      "LAUNCH"
+      "NOT · LAUNCH"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -37513,7 +37513,7 @@
       "had never met"
     ],
     "hints": [
-      "MEET"
+      "NEVER · MEET"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -37524,7 +37524,7 @@
       "hadn't agreed"
     ],
     "hints": [
-      "AGREE"
+      "NOT · AGREE"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -37535,7 +37535,7 @@
       "hadn't sent"
     ],
     "hints": [
-      "SEND"
+      "NOT · SEND"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -37557,7 +37557,7 @@
       "won't have completed"
     ],
     "hints": [
-      "COMPLETE"
+      "NOT · COMPLETE"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -37568,7 +37568,7 @@
       "won't have presented"
     ],
     "hints": [
-      "PRESENT"
+      "NOT · PRESENT"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -37579,7 +37579,7 @@
       "haven't received/don't receive"
     ],
     "hints": [
-      "RECEIVE"
+      "NOT · RECEIVE"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -37590,7 +37590,7 @@
       "didn't have"
     ],
     "hints": [
-      "HAVE"
+      "NOT · HAVE"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -37601,7 +37601,7 @@
       "doesn't agree"
     ],
     "hints": [
-      "AGREE"
+      "NOT · AGREE"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -37612,7 +37612,7 @@
       "How often do you travel"
     ],
     "hints": [
-      "TRAVEL"
+      "TRAVEL YOU"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37623,7 +37623,7 @@
       "What time does your team finish"
     ],
     "hints": [
-      "FINISH"
+      "FINISH YOUR TEAM"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37634,7 +37634,7 @@
       "Where does your company have"
     ],
     "hints": [
-      "HAVE"
+      "HAVE YOUR COMPANY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37645,7 +37645,7 @@
       "Does your manager speak"
     ],
     "hints": [
-      "SPEAK"
+      "SPEAK YOUR MANAGER"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37667,7 +37667,7 @@
       "How much does a senior developer earn"
     ],
     "hints": [
-      "EARN"
+      "EARN A SENIOR DEVELOPER"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37678,7 +37678,7 @@
       "Do you enjoy"
     ],
     "hints": [
-      "ENJOY"
+      "ENJOY YOU"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37689,7 +37689,7 @@
       "Why does Ethan always arrive"
     ],
     "hints": [
-      "ARRIVE"
+      "ARRIVE ETHAN ALWAYS"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37711,7 +37711,7 @@
       "Does your company offer"
     ],
     "hints": [
-      "OFFER"
+      "OFFER YOUR COMPANY"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -37722,7 +37722,7 @@
       "What is your team working"
     ],
     "hints": [
-      "WORK"
+      "WORK YOUR TEAM"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37733,7 +37733,7 @@
       "Why is Sophie presenting"
     ],
     "hints": [
-      "PRESENT"
+      "PRESENT SOPHIE"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37744,7 +37744,7 @@
       "Are you joining"
     ],
     "hints": [
-      "JOIN"
+      "JOIN YOU"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37755,7 +37755,7 @@
       "How is the negotiation going"
     ],
     "hints": [
-      "GO"
+      "GO THE NEGOTIATION"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37766,7 +37766,7 @@
       "What are the interns learning"
     ],
     "hints": [
-      "LEARN"
+      "LEARN THE INTERNS"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -37777,7 +37777,7 @@
       "When did you start"
     ],
     "hints": [
-      "START"
+      "START YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37788,7 +37788,7 @@
       "How did the interview go"
     ],
     "hints": [
-      "GO"
+      "GO THE INTERVIEW"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37810,7 +37810,7 @@
       "Why did the meeting end"
     ],
     "hints": [
-      "END"
+      "END THE MEETING"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37821,7 +37821,7 @@
       "Did Grace get"
     ],
     "hints": [
-      "GET"
+      "GET GRACE"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37832,7 +37832,7 @@
       "How much did the project cost"
     ],
     "hints": [
-      "COST"
+      "COST THE PROJECT"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37843,7 +37843,7 @@
       "Where did you find"
     ],
     "hints": [
-      "FIND"
+      "FIND YOU"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37854,7 +37854,7 @@
       "Did the client accept"
     ],
     "hints": [
-      "ACCEPT"
+      "ACCEPT THE CLIENT"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37865,7 +37865,7 @@
       "What did the CEO say"
     ],
     "hints": [
-      "SAY"
+      "SAY THE CEO"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37876,7 +37876,7 @@
       "How did Ethan react"
     ],
     "hints": [
-      "REACT"
+      "REACT ETHAN"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -37887,7 +37887,7 @@
       "How long have you worked"
     ],
     "hints": [
-      "WORK"
+      "WORK YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37898,7 +37898,7 @@
       "Have you ever presented"
     ],
     "hints": [
-      "PRESENT"
+      "PRESENT YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37909,7 +37909,7 @@
       "How many has your team closed/How many have your team closed"
     ],
     "hints": [
-      "CLOSE"
+      "CLOSE YOUR TEAM"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37920,7 +37920,7 @@
       "Has the manager approved"
     ],
     "hints": [
-      "APPROVE"
+      "APPROVE THE MANAGER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37942,7 +37942,7 @@
       "Has anyone seen"
     ],
     "hints": [
-      "SEE"
+      "SEE ANYONE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37953,7 +37953,7 @@
       "What has the committee made/What have the committee made"
     ],
     "hints": [
-      "MAKE"
+      "MAKE THE COMMITTEE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37964,7 +37964,7 @@
       "How many have we interviewed"
     ],
     "hints": [
-      "INTERVIEW"
+      "INTERVIEW WE"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37975,7 +37975,7 @@
       "Have you ever worked"
     ],
     "hints": [
-      "WORK"
+      "WORK YOU EVER"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -37997,7 +37997,7 @@
       "When will you send"
     ],
     "hints": [
-      "SEND"
+      "SEND YOU"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38008,7 +38008,7 @@
       "Will the CEO attend"
     ],
     "hints": [
-      "ATTEND"
+      "ATTEND THE CEO"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38019,7 +38019,7 @@
       "Where will we hold"
     ],
     "hints": [
-      "HOLD"
+      "HOLD WE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38030,7 +38030,7 @@
       "How will this decision affect"
     ],
     "hints": [
-      "AFFECT"
+      "AFFECT THIS DECISION"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38041,7 +38041,7 @@
       "Are they going to invest"
     ],
     "hints": [
-      "INVEST"
+      "INVEST THEY GOING TO"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38052,7 +38052,7 @@
       "What will you do"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -38063,7 +38063,7 @@
       "Where would you go/Where would you work/What would you do"
     ],
     "hints": [
-      "сделал бы · GO"
+      "сделал бы · GO YOU"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -38074,7 +38074,7 @@
       "How would you feel"
     ],
     "hints": [
-      "сделал бы · FEEL"
+      "сделал бы · FEEL YOU"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -38085,7 +38085,7 @@
       "Would you accept"
     ],
     "hints": [
-      "сделал бы · ACCEPT"
+      "сделал бы · ACCEPT YOU"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -38096,7 +38096,7 @@
       "What would you say"
     ],
     "hints": [
-      "сделал бы · SAY"
+      "сделал бы · SAY YOU"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -38272,7 +38272,7 @@
       "won't attend/am not going to attend"
     ],
     "hints": [
-      "ATTEND"
+      "NOT · ATTEND"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38283,7 +38283,7 @@
       "won't deliver/isn't going to deliver"
     ],
     "hints": [
-      "DELIVER"
+      "NOT · DELIVER"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38294,7 +38294,7 @@
       "won't accept/aren't going to accept"
     ],
     "hints": [
-      "ACCEPT"
+      "NOT · ACCEPT"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38305,7 +38305,7 @@
       "won't announce/isn't going to announce"
     ],
     "hints": [
-      "ANNOUNCE"
+      "NOT · ANNOUNCE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38316,7 +38316,7 @@
       "won't join/isn't going to join"
     ],
     "hints": [
-      "JOIN"
+      "NOT · JOIN"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38327,7 +38327,7 @@
       "won't renew/am not going to renew"
     ],
     "hints": [
-      "RENEW"
+      "NOT · RENEW"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38338,7 +38338,7 @@
       "won't take/isn't going to take"
     ],
     "hints": [
-      "TAKE"
+      "NOT · TAKE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38349,7 +38349,7 @@
       "won't approve/isn't going to approve"
     ],
     "hints": [
-      "APPROVE"
+      "NOT · APPROVE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38360,7 +38360,7 @@
       "won't raise/aren't going to raise"
     ],
     "hints": [
-      "RAISE"
+      "NOT · RAISE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38371,7 +38371,7 @@
       "won't release/isn't going to release"
     ],
     "hints": [
-      "RELEASE"
+      "NOT · RELEASE"
     ],
     "level": "A1",
     "formula": "Future Simple"
@@ -38382,7 +38382,7 @@
       "am not checking/'m not checking"
     ],
     "hints": [
-      "CHECK"
+      "NOT · CHECK"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38393,7 +38393,7 @@
       "isn't meeting"
     ],
     "hints": [
-      "MEET"
+      "NOT · MEET"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38404,7 +38404,7 @@
       "aren't growing"
     ],
     "hints": [
-      "GROW"
+      "NOT · GROW"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38415,7 +38415,7 @@
       "aren't hiring"
     ],
     "hints": [
-      "HIRE"
+      "NOT · HIRE"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38426,7 +38426,7 @@
       "isn't working"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38437,7 +38437,7 @@
       "isn't presenting"
     ],
     "hints": [
-      "PRESENT"
+      "NOT · PRESENT"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38448,7 +38448,7 @@
       "isn't following/aren't following"
     ],
     "hints": [
-      "FOLLOW"
+      "NOT · FOLLOW"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38459,7 +38459,7 @@
       "aren't responding"
     ],
     "hints": [
-      "RESPOND"
+      "NOT · RESPOND"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38470,7 +38470,7 @@
       "isn't considering"
     ],
     "hints": [
-      "CONSIDER"
+      "NOT · CONSIDER"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38481,7 +38481,7 @@
       "isn't travelling"
     ],
     "hints": [
-      "TRAVEL"
+      "NOT · TRAVEL"
     ],
     "level": "A1",
     "formula": "Present Continuous"
@@ -38492,7 +38492,7 @@
       "wasn't paying attention"
     ],
     "hints": [
-      "PAY ATTENTION"
+      "NOT · PAY ATTENTION"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38503,7 +38503,7 @@
       "weren't testing"
     ],
     "hints": [
-      "TEST"
+      "NOT · TEST"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38514,7 +38514,7 @@
       "wasn't lying"
     ],
     "hints": [
-      "LIE"
+      "NOT · LIE"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38525,7 +38525,7 @@
       "weren't expecting"
     ],
     "hints": [
-      "EXPECT"
+      "NOT · EXPECT"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38536,7 +38536,7 @@
       "weren't complaining"
     ],
     "hints": [
-      "COMPLAIN"
+      "NOT · COMPLAIN"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38547,7 +38547,7 @@
       "wasn't using"
     ],
     "hints": [
-      "USE"
+      "NOT · USE"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38558,7 +38558,7 @@
       "wasn't sleeping"
     ],
     "hints": [
-      "SLEEP"
+      "NOT · SLEEP"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38569,7 +38569,7 @@
       "wasn't following/weren't following"
     ],
     "hints": [
-      "FOLLOW"
+      "NOT · FOLLOW"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38591,7 +38591,7 @@
       "weren't listening"
     ],
     "hints": [
-      "LISTEN"
+      "NOT · LISTEN"
     ],
     "level": "A2",
     "formula": "Past Continuous"
@@ -38602,7 +38602,7 @@
       "aren't going to launch"
     ],
     "hints": [
-      "LAUNCH"
+      "NOT · LAUNCH"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38613,7 +38613,7 @@
       "isn't going to accept"
     ],
     "hints": [
-      "ACCEPT"
+      "NOT · ACCEPT"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38624,7 +38624,7 @@
       "isn't going to approve"
     ],
     "hints": [
-      "APPROVE"
+      "NOT · APPROVE"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38635,7 +38635,7 @@
       "am not going to stay/'m not going to stay"
     ],
     "hints": [
-      "STAY"
+      "NOT · STAY"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38646,7 +38646,7 @@
       "isn't going to miss/aren't going to miss"
     ],
     "hints": [
-      "MISS"
+      "NOT · MISS"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38657,7 +38657,7 @@
       "isn't going to sign"
     ],
     "hints": [
-      "SIGN"
+      "NOT · SIGN"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38668,7 +38668,7 @@
       "isn't going to attend"
     ],
     "hints": [
-      "ATTEND"
+      "NOT · ATTEND"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38679,7 +38679,7 @@
       "isn't going to open"
     ],
     "hints": [
-      "OPEN"
+      "NOT · OPEN"
     ],
     "level": "A2",
     "formula": "Going to Future"
@@ -38690,7 +38690,7 @@
       "haven't been sleeping"
     ],
     "hints": [
-      "SLEEP"
+      "NOT · SLEEP"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38701,7 +38701,7 @@
       "hasn't been meeting/haven't been meeting"
     ],
     "hints": [
-      "MEET"
+      "NOT · MEET"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38712,7 +38712,7 @@
       "hasn't been attending"
     ],
     "hints": [
-      "ATTEND"
+      "NOT · ATTEND"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38723,7 +38723,7 @@
       "haven't been receiving"
     ],
     "hints": [
-      "RECEIVE"
+      "NOT · RECEIVE"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38734,7 +38734,7 @@
       "hasn't been performing"
     ],
     "hints": [
-      "PERFORM"
+      "NOT · PERFORM"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38745,7 +38745,7 @@
       "hasn't been answering"
     ],
     "hints": [
-      "ANSWER"
+      "ANSWER HASN'T BEEN"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38756,7 +38756,7 @@
       "haven't been following"
     ],
     "hints": [
-      "FOLLOW"
+      "NOT · FOLLOW"
     ],
     "level": "B1",
     "formula": "Present Perfect Continuous"
@@ -38767,7 +38767,7 @@
       "hasn't been used"
     ],
     "hints": [
-      "USE"
+      "NOT · USE"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38778,7 +38778,7 @@
       "hasn't been finalised"
     ],
     "hints": [
-      "FINALISE"
+      "NOT · FINALISE"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38789,7 +38789,7 @@
       "weren't processed"
     ],
     "hints": [
-      "PROCESS"
+      "NOT · PROCESS"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38800,7 +38800,7 @@
       "wasn't followed/isn't followed"
     ],
     "hints": [
-      "FOLLOW"
+      "NOT · FOLLOW"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38811,7 +38811,7 @@
       "isn't booked"
     ],
     "hints": [
-      "BOOK"
+      "NOT · BOOK"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38822,7 +38822,7 @@
       "weren't encrypted"
     ],
     "hints": [
-      "ENCRYPT"
+      "NOT · ENCRYPT"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38833,7 +38833,7 @@
       "wasn't maintained/hasn't been maintained"
     ],
     "hints": [
-      "MAINTAIN"
+      "NOT · MAINTAIN"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -38844,7 +38844,7 @@
       "won't have completed"
     ],
     "hints": [
-      "COMPLETE"
+      "NOT · COMPLETE"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -38855,7 +38855,7 @@
       "won't be working"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -38866,7 +38866,7 @@
       "won't have launched"
     ],
     "hints": [
-      "LAUNCH"
+      "NOT · LAUNCH"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -38877,7 +38877,7 @@
       "won't be presenting"
     ],
     "hints": [
-      "PRESENT"
+      "NOT · PRESENT"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -38888,7 +38888,7 @@
       "won't have reached"
     ],
     "hints": [
-      "REACH"
+      "NOT · REACH"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -38899,7 +38899,7 @@
       "hadn't seen"
     ],
     "hints": [
-      "SEE"
+      "NOT · SEE"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -38910,7 +38910,7 @@
       "hadn't finished"
     ],
     "hints": [
-      "FINISH"
+      "NOT · FINISH"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -38921,7 +38921,7 @@
       "hadn't worked"
     ],
     "hints": [
-      "WORK"
+      "NOT · WORK"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -38932,7 +38932,7 @@
       "hadn't read"
     ],
     "hints": [
-      "READ"
+      "NOT · READ"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -38943,7 +38943,7 @@
       "hadn't accepted"
     ],
     "hints": [
-      "ACCEPT"
+      "NOT · ACCEPT"
     ],
     "level": "B2",
     "formula": "Mixed & Third Conditionals / Wishes"
@@ -38954,7 +38954,7 @@
       "didn't have"
     ],
     "hints": [
-      "HAVE"
+      "NOT · HAVE"
     ],
     "level": "B1",
     "formula": "Conditionals (0, 1, 2)"
@@ -38965,7 +38965,7 @@
       "hadn't reacted"
     ],
     "hints": [
-      "REACT"
+      "NOT · REACT"
     ],
     "level": "B2",
     "formula": "Mixed & Third Conditionals / Wishes"
@@ -38976,7 +38976,7 @@
       "hadn't resigned"
     ],
     "hints": [
-      "RESIGN"
+      "NOT · RESIGN"
     ],
     "level": "B2",
     "formula": "Mixed & Third Conditionals / Wishes"
@@ -38987,7 +38987,7 @@
       "doesn't check"
     ],
     "hints": [
-      "CHECK"
+      "NOT · CHECK"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -38998,7 +38998,7 @@
       "don't offer"
     ],
     "hints": [
-      "OFFER"
+      "NOT · OFFER"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -39009,7 +39009,7 @@
       "doesn't sponsor"
     ],
     "hints": [
-      "SPONSOR"
+      "NOT · SPONSOR"
     ],
     "level": "A1",
     "formula": "Present Simple"
@@ -39020,7 +39020,7 @@
       "didn't present"
     ],
     "hints": [
-      "PRESENT"
+      "NOT · PRESENT"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -39042,7 +39042,7 @@
       "didn't send"
     ],
     "hints": [
-      "SEND"
+      "NOT · SEND"
     ],
     "level": "A1",
     "formula": "Past Simple"
@@ -39053,7 +39053,7 @@
       "Can you attend/Will you attend"
     ],
     "hints": [
-      "ATTEND"
+      "ATTEND YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -39064,7 +39064,7 @@
       "Can you help/Could you help"
     ],
     "hints": [
-      "HELP"
+      "HELP YOU"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -39075,7 +39075,7 @@
       "Do we have to work/Must we work"
     ],
     "hints": [
-      "WORK"
+      "WORK WE HAVE TO"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -39086,7 +39086,7 @@
       "Should we decide/Must we decide"
     ],
     "hints": [
-      "DECIDE"
+      "DECIDE WE"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -39097,7 +39097,7 @@
       "Should I inform/Must I inform"
     ],
     "hints": [
-      "INFORM"
+      "INFORM I"
     ],
     "level": "B1",
     "formula": "Modal Verbs"
@@ -39108,7 +39108,7 @@
       "Had they moved/Had the team moved"
     ],
     "hints": [
-      "MOVE"
+      "MOVE THEY"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -39119,7 +39119,7 @@
       "Had you read/Had everyone read"
     ],
     "hints": [
-      "READ"
+      "READ YOU"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -39130,7 +39130,7 @@
       "Had you met/Had they met"
     ],
     "hints": [
-      "MEET"
+      "MEET YOU"
     ],
     "level": "B1",
     "formula": "Past Perfect"
@@ -39141,7 +39141,7 @@
       "Will you have finished/Will the team have finished"
     ],
     "hints": [
-      "FINISH"
+      "FINISH YOU HAVE"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -39152,7 +39152,7 @@
       "Will you be presenting/Will Sarah be presenting"
     ],
     "hints": [
-      "PRESENT"
+      "PRESENT YOU BE"
     ],
     "level": "B2",
     "formula": "P.P.C. / F.P.S. / F.C."
@@ -39163,7 +39163,7 @@
       "Did you ask/Did she ask"
     ],
     "hints": [
-      "ASK"
+      "ASK YOU"
     ],
     "level": "B2",
     "formula": "Reported Speech"
@@ -39174,7 +39174,7 @@
       "Did they tell you/Did anyone tell you"
     ],
     "hints": [
-      "TELL"
+      "TELL THEY TELL"
     ],
     "level": "B2",
     "formula": "Reported Speech"
@@ -39185,7 +39185,7 @@
       "Will the design be reviewed/Has the design been reviewed"
     ],
     "hints": [
-      "REVIEW"
+      "REVIEW THE DESIGN BE"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -39196,7 +39196,7 @@
       "Will the report be delivered/Can the report be delivered"
     ],
     "hints": [
-      "DELIVER"
+      "DELIVER THE REPORT BE"
     ],
     "level": "B2",
     "formula": "Passive Voice"
@@ -39207,7 +39207,7 @@
       "Have you enjoyed/Do you enjoy"
     ],
     "hints": [
-      "ENJOY"
+      "ENJOY YOU"
     ],
     "level": "B1",
     "formula": "Gerund and Infinitive"
@@ -39218,7 +39218,7 @@
       "Did you decide/Have you decided"
     ],
     "hints": [
-      "DECIDE"
+      "DECIDE YOU"
     ],
     "level": "B1",
     "formula": "Gerund and Infinitive"
@@ -39229,7 +39229,7 @@
       "Are you planning/Do you plan"
     ],
     "hints": [
-      "PLAN"
+      "PLAN YOU"
     ],
     "level": "B1",
     "formula": "Gerund and Infinitive"
@@ -39240,7 +39240,7 @@
       "Would you consider/Could you consider"
     ],
     "hints": [
-      "CONSIDER"
+      "CONSIDER YOU"
     ],
     "level": "C1",
     "formula": "Inversion"
@@ -39251,7 +39251,7 @@
       "Could you review/Would you review"
     ],
     "hints": [
-      "REVIEW"
+      "REVIEW YOU"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -39262,7 +39262,7 @@
       "Could they have/How could they have"
     ],
     "hints": [
-      "KNOW"
+      "KNOW THEY"
     ],
     "level": "C1",
     "formula": "Advanced & Perfect Modals"
@@ -39273,7 +39273,7 @@
       "Have you received/Has your team received"
     ],
     "hints": [
-      "RECEIVE"
+      "RECEIVE YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -39284,7 +39284,7 @@
       "Have you listened/Has anyone listened"
     ],
     "hints": [
-      "LISTEN"
+      "LISTEN YOU"
     ],
     "level": "A2",
     "formula": "Present Perfect"
@@ -39295,7 +39295,7 @@
       "What were you doing/Where were you working"
     ],
     "hints": [
-      "DO"
+      "DO YOU"
     ],
     "level": "B1",
     "formula": "Past Continuous + Past Simple"
